@@ -5,6 +5,7 @@
 . Anon. n.d. “Hacking the Academy.” Retrieved July 21, 2011a (http://hackingtheacademy.org/).
 . Anon. n.d. “Scholarly Tribes and Tribulations: How Traidtion and Technology Are Driving Disciplinary Change.” Retrieved July 21, 2011b (http://www.arl.org.proxy.lib.umich.edu/resources/pubs/tribes/program.shtml).
 . Borgman, C. L. 2009. “The digital future is now: A call to action for the humanities.” Digital Humanities Quarterly 3(4).
+.Borgman, Christine L. 2007. Scholarship in the digital age. MIT Press Retrieved (http://books.google.com/books?id=ZDDu3CuzDdMC).
 . Brodkey, Linda. 1987. Academic Writing As Social Practice. Temple University Press.
 . Burgess, Helen J., and Jeanne Hamming. 2011. “New Media in the Academy: Labor and the Production of Knowledge in Scholarly Multimedia.” Digital Humanities Quarterly 5(3).
 . Cronin, B. 2004. “Bowling alone together: Academic writing as distributed cognition.” Journal of the American Society for Information Science and Technology 55(6):557–560.
@@ -22,15 +23,6 @@
 . Unsworth, John. 2003. “The Humanist: ‘Dances with Wolves’ or ‘Bowls Alone’?” Retrieved August 31, 2009 (http://www.arl.org/resources/pubs/tribes/program.shtml).
 . Unsworth, John. 2002. “What is Humanities Computing, and What is Not?”
 . Unsworth, John M. n.d. “Cyberinfrastructure for the Humanities and Social Sciences.” Retrieved June 3, 2009 (http://www3.isrl.illinois.edu/~unsworth/Cyberinfrastructure.RLG.html).
-
-.Disciplines & Boundaries
-.Abbott, A. 1995a. “Boundaries of Social Work or Social Work of Boundaries?: The Social Service Review Lecture.” The Social Service Review 69(4):545–562.
-.Abbott, A. 1995b. “Things of boundaries.” Journal article by Andrew Abbott; Social Research 62.
-.Abbott, Andrew. 2001. Chaos of Disciplines. University Of Chicago Press.
-.Borgman, Christine L. 2007. Scholarship in the digital age. MIT Press Retrieved (http://books.google.com/books?id=ZDDu3CuzDdMC).
-.Cronin, B. 2003. “Scholarly communication and epistemic cultures.” New Review of Academic Librarianship 9(1):1–24.
-.Kelty, C. M. 2008. Two bits: The cultural significance of free software. Duke University Press Books.
-
 		
 .Scholarly Publishing: Mechanics of New Digital Publishing
 . Anon. n.d. “Online Humanities Scholarship: The Shape of Things to Come: Advance Papers and Responses.” Retrieved June 21, 2011 (http://shapeofthings.org/papers/).
@@ -77,7 +69,7 @@
 . Waters, Lindsay, and Jana L. Argersinger. 2009. “Slow Writing; or, Getting Off the Book Standard: What Can Journal Editors Do?” Journal of Scholarly Publishing 40(2):129-142. Retrieved July 18, 2011.
 . Wicht, Lynn Silipigni Connaway and Heather L. 2007. “What Happened to the E-book Revolution? : The Gradual Integration of E-books into Academic Libraries.” Journal of Electronic Publishing 10(3). Retrieved (http://hdl.handle.net/2027/spo.3336451.0010.302).
     
-.Situated Work Practice: Ethnomethodology & Situated Action
+.Work Practice: Ethnomethodology & Situated Practice
 . Ackerman, M. S. 2000. “The intellectual challenge of CSCW: The gap between social requirements and technical feasibility.” Human–Computer Interaction 15(2):179–203.
 . Bowers, J., G. Button, and W. Sharrock. 1995. “Workflow from within and without: Technology and cooperative work on the print industry shopfloor.” Pp. 51–66 in Proceedings of the fourth conference on European Conference on Computer-Supported Cooperative Work.
 . Button, Graham, and Richard Harper. 1995. “The relevance of “work-practice” for design.” Computer Supported Cooperative Work 4:263–280. Retrieved May 3, 2011.
@@ -96,7 +88,7 @@
 . Szymanski, Margaret H., and Jack Whalen. 2011. Making Work Visible: Ethnographically Grounded Case Studies of Work Practice. 1st ed. Cambridge University Press.
     
 
-.Situated Work Practice: Communities of Practice
+.Work Practice: Communities of Practice
 . Brown, J. S, and P. Duguid. 2001. “Knowledge and organization: A social-practice perspective.” Organization science 198–213.
 . Brown, J. S, and P. Duguid. 1991. “Organizational learning and communities-of-practice: Toward a unified view of working, learning, and innovation.” Organization science 2(1):40–57.
 . Duguid, P. 2005. “‘The art of knowing’: social and tacit dimensions of knowledge and the limits of the community of practice.” The Information Society 21(2):109–118.
@@ -107,7 +99,7 @@
 . Wenger, Etienne, Nancy White, and John D Smith. 2009. Digital Habitats; stewarding technology for communities. CPsquare.
     
 
-.Situated Work Practice: Organizational Routine
+.Work Practice: Organizational Routine
 . Becker, M., M. C Becker, and N. Lazaric. 2009. Organizational routines: advancing empirical research. Edward Elgar Publishing.
 . Birnholtz, J. P, M. D Cohen, and S. V Hoch. 2007. “Organizational character: On the regeneration of camp poplar grove.” Organization Science 18(2):315.
 . Cohen, M. D et al. 1996. “Routines and other recurring action patterns of organizations: contemporary research issues.” Industrial and Corporate Change 5(3):653.

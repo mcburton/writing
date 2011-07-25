@@ -1,0 +1,37 @@
+=== Blather
+
+and briefly discusses the concept of technical affordances to help understand how digital technology presents technical solutions to the problems facing scholarly publishing. However, technical solutions and their afforded possibilities cannot fully "solve" the publishing challenges faced by the humanities. Affordances, in both publishing theory and practice, neglects to account for the challenge of social acceptability faced by new sociotechnical practice in scholarly publishing. There exists a potentially definitional set of acceptable action/activity/routines/practices that protect and preserve the humanities as a social institution/organization/community. 
+
+
+
+
+
+A key feature of this framework, which is present in the diagram above and will be further fleshed out in the prelim, is the mutual relation between social institutions/organizations/sociality/community and their actions/routines/activities/practice. I posit there is a mutual reinforcement or feedback cycle between social groups and the practices in which they engage. Diagrammatically, social groups shape and constrain practice and activity, which in turn forms or reinforces social groups. How this cycle orbits around technology and its relation to sociotechnical change is fundamental to this investigation.
+The third and final section of this project will be a research proposal that integrates the analytical framework with theories of design. Drawing on the framework from section two and the literature on sociotechnical design, this section would plan a case study that examines the infrastructure, practice, and communities shaped and served by electronic publishing technology. One potential for the case study is MPublishing, the University of Michigan's scholarly press. MPublishing is heralded in the community as pushing the boundaries of scholarly publishing practice. They have embraced digital technology and are actively exploring new ways to disseminate academic knowledge. The proposed case-study would use the framework developed in section two to better understand how MPublishing’s technological initiatives become acceptable (or not acceptable) scholarly publishing, how they shape and are shaped by the community they serve, and finally use these insights to inform the design of new infrastructure and practice in academic publishing.
+
+
+
+
+
+
+
+
+
+
+DH/HC is a coin - Methods on one side, sources on the other
+I frame DH/HC as a doubles sided coin, with new methodologies on one side and new sources/research objects on the other.  This conceptual frame reveals the true object of my prelim, the rim of the coin or the publication knowledge in the digital humanities.
+	My focus is on neither side, rather I am interested in the rim of the coin:
+		The dissemination of DH/HC knowledge.
+		Publishing in the Digital Humanities.
+
+
+What do publishers do in _practice_?
+	The interaction between scholars and publishers, focusing on the process of publishing a monograph. 
+	The Columbia Online Books Evaluation Project
+		http://www.arl.org/resources/pubs/scat/mandel-2.shtml
+
+
+Capture the 20+ year debate about digital technology and monograph publishing. Why, in the face of multimodal technology does the the book/monograph persist? Why haven't things changed (or haven't changed fast enough)? Why do scholars create structures like PressForward? 
+
+
+I am bringing a new angle/ theoretical perspective to this discussion. I wish to bring to bear theories of work-practice, to better understand the practical "mechanisms of new digital scholarly publishing."
