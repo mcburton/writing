@@ -1,0 +1,118 @@
+== Annotated Bibliography
+
+
+.What is Digital Humanities? A Brief Definition
+. Anon. n.d. “Hacking the Academy.” Retrieved July 21, 2011a (http://hackingtheacademy.org/).
+. Anon. n.d. “Scholarly Tribes and Tribulations: How Traidtion and Technology Are Driving Disciplinary Change.” Retrieved July 21, 2011b (http://www.arl.org.proxy.lib.umich.edu/resources/pubs/tribes/program.shtml).
+. Borgman, C. L. 2009. “The digital future is now: A call to action for the humanities.” Digital Humanities Quarterly 3(4).
+. Brodkey, Linda. 1987. Academic Writing As Social Practice. Temple University Press.
+. Burgess, Helen J., and Jeanne Hamming. 2011. “New Media in the Academy: Labor and the Production of Knowledge in Scholarly Multimedia.” Digital Humanities Quarterly 5(3).
+. Cronin, B. 2004. “Bowling alone together: Academic writing as distributed cognition.” Journal of the American Society for Information Science and Technology 55(6):557–560.
+. Hockey, S. 2004. “The history of humanities computing.” A companion to digital humanities 1–19.
+. Hockey, Susan. 2001. Electronic Texts in the Humanities: Principles and Practice. Oxford University Press, USA.
+. McCarty, W. 1998. “What is humanities computing? Toward a definition of the field.” McCarty, Willard.
+. McCarty, Willard. 2005. Humanities Computing. Palgrave Macmillan.
+. Rosenzweig, Roy. 2010. Clio Wired: The Future of the Past in the Digital Age. Columbia University Press.
+. Siemens, R., M. Best, E. Grove-White, and others. 2002. “The credibility of electronic publishing: A report to the Humanities and Social Sciences Federation of Canada.” Text Technology 11(1):1–128.
+. Siemens, R., E. Toms, S. Sinclair, G. Rockwell, and L. Siemens. 2004. “The humanities scholar in the twenty-first century: How research is done and what support is needed.” Pp. 126–27 in ALLC/ACH.
+. Siemens, Ray, John Unsworth, and Susan Schreibman. 2004. Companion to Digital Humanities (Blackwell Companions to Literature and Culture). Hardcover. Oxford: Blackwell Publishing Professional Retrieved (http://www.digitalhumanities.org/companion/).
+. Svensson, P. 2010. “The landscape of digital humanities.” Digital Humanities.
+. Svensson, Patrik. 2009. “Humanities Computing as Digital Humanities.” 3(3). Retrieved July 21, 2011 (http://www.digitalhumanities.org/dhq/vol/3/3/000065/000065.html).
+. UCLA Digital Humanities & Media Studies. 2008. “A Digital Humanities Manifesto.” Retrieved August 11, 2009 (http://dev.cdh.ucla.edu/digitalhumanities/2008/12/15/digital-humanities-manifesto/).
+. Unsworth, John. 2003. “The Humanist: ‘Dances with Wolves’ or ‘Bowls Alone’?” Retrieved August 31, 2009 (http://www.arl.org/resources/pubs/tribes/program.shtml).
+. Unsworth, John. 2002. “What is Humanities Computing, and What is Not?”
+. Unsworth, John M. n.d. “Cyberinfrastructure for the Humanities and Social Sciences.” Retrieved June 3, 2009 (http://www3.isrl.illinois.edu/~unsworth/Cyberinfrastructure.RLG.html).
+
+.Disciplines & Boundaries
+.Abbott, A. 1995a. “Boundaries of Social Work or Social Work of Boundaries?: The Social Service Review Lecture.” The Social Service Review 69(4):545–562.
+.Abbott, A. 1995b. “Things of boundaries.” Journal article by Andrew Abbott; Social Research 62.
+.Abbott, Andrew. 2001. Chaos of Disciplines. University Of Chicago Press.
+.Borgman, Christine L. 2007. Scholarship in the digital age. MIT Press Retrieved (http://books.google.com/books?id=ZDDu3CuzDdMC).
+.Cronin, B. 2003. “Scholarly communication and epistemic cultures.” New Review of Academic Librarianship 9(1):1–24.
+.Kelty, C. M. 2008. Two bits: The cultural significance of free software. Duke University Press Books.
+
+		
+.Scholarly Publishing: Mechanics of New Digital Publishing
+. Anon. n.d. “Online Humanities Scholarship: The Shape of Things to Come: Advance Papers and Responses.” Retrieved June 21, 2011 (http://shapeofthings.org/papers/).
+. Brown, L., R. Griffiths, M. Rascoff, and K. Guthrie. 2007. “University publishing in a digital age.” Journal of Electronic Publishing 10(3):1–60.
+. Brown, Susan et al. 2009. “Published Yet Never Done: The Tension Between Projection and Completion in Digital Humanities Research.” 3(2). Retrieved July 21, 2011 (http://www.digitalhumanities.org/dhq/vol/3/2/000040/000040.html).
+. Burnard, Lou, Katherine O’Brien O’Keeffe, and John Unsworth. 2006. Electronic Textual Editing [With CDROM]. Modern Language Association of America.
+. Cecile M. Jagodzinski. 2008. “The University Press in North America: A Brief History.” Journal of Scholarly Publishing 40(1):1-20. Retrieved July 18, 2011.
+. Donatich, John. 2009. “Why Books Still Matter.” Journal of Scholarly Publishing 40(4):329-342. Retrieved July 18, 2011.
+. Drucker, Johanna. 2009. “A Review of Matthew Kirschenbaum, Mechanisms: New Media and the Forensic Imagination Cambridge, MA and London, UK: MIT University Press, 2008.” 3(2). Retrieved July 21, 2011 (http://www.digitalhumanities.org/dhq/vol/3/2/000048/000048.html).
+. Esposito, Joseph J. 2010. “Stage Five Book Publishing.” Journal of Electronic Publishing 13(2). Retrieved (http://hdl.handle.net/2027/spo.3336451.0013.204).
+. Ferris, Sharmila Pixy. 2002. “Writing Electronically: The Effects of Computers on Traditional Writing.” Journal of Electronic Publishing 8(1). Retrieved (http://hdl.handle.net/2027/spo.3336451.0008.104).
+. Fitzpatrick, Kathleen. 2007. “CommentPress: New (Social) Structures for New (Networked) Texts.” Journal of Electronic Publishing 10(3). Retrieved (http://hdl.handle.net/2027/spo.3336451.0010.305).
+. Fraser, John W. Maxwell and Kathleen. 2010. “Traversing The Book of Mpub: an Agile, Web-first Publishing Model.” Journal of Electronic Publishing 13(3). Retrieved (http://hdl.handle.net/2027/spo.3336451.0013.303).
+. Johns, A. 1998. The nature of the book: Print and knowledge in the making. University of Chicago Press.
+. Kirschenbaum, Matthew G. 2008. Mechanisms: New Media and the Forensic Imagination. The MIT Press.
+. Lynch, Clifford. 2010. “Imagining a University Press System to Support Scholarship in the Digital Age.” Journal of Electronic Publishing 13(2). Retrieved (http://hdl.handle.net/2027/spo.3336451.0013.207).
+. Mandel, C. A, M. C Summerfield, and P. Kantor. 1997. “Online Books at Columbia: Measurement and Early Results on Use, Satisfaction, and Effect.”
+. Maxwell, John W. et al. 2010. “XML Production Workflows? Start with the Web.” Journal of Electronic Publishing 13(1). Retrieved July 18, 2011 (http://hdl.handle.net/2027/spo.3336451.0013.106).
+. Sewell, David. 2009. “It’s For Sale, So It Must Be Finished: Digital Projects in the Scholarly Publishing World.” 3(2). Retrieved July 21, 2011 (http://www.digitalhumanities.org/dhq/vol/3/2/000039/000039.html).
+. Steele, Colin. 2008. “Scholarly Monograph Publishing in the 21st Century: The Future More Than Ever Should Be an Open Book.” Journal of Electronic Publishing 11(2). Retrieved (http://hdl.handle.net/2027/spo.3336451.0011.201).
+. Summerfield, M., C. Mandel, and P. Kantor. 1999. The Online Books Evaluation Project, Columbia University; Final Report.
+. Thompson, John B. 2005. Books in the Digital Age: The Transformation of Academic and Higher Education Publishing in Britain and the United States. 1st ed. Polity.
+. Watkinson, A. 2001. “Electronic Solutions to the Problems of Monograph Publishing.” Library and Information Commission Research Report.
+. Wicht, Lynn Silipigni Connaway and Heather L. 2007. “What Happened to the E-book Revolution? : The Gradual Integration of E-books into Academic Libraries.” Journal of Electronic Publishing 10(3). Retrieved (http://hdl.handle.net/2027/spo.3336451.0010.302).
+. Willis G. Regier. 2010. “What Is an ‘American Book’?: Review Essay.” Journal of Scholarly Publishing 41(4):449-482. Retrieved July 18, 2011.
+    
+.Scholarly Publishing: The Crisis of Scholarly Monograph Publishing. 
+. Alonso, C. J, C. N Davidson, J. Unsworth, L. Withey, and American Council of Learned Societies. 2003. Crises and opportunities: the futures of scholarly publishing. American Council of Learned Societies.
+. Anon. n.d. “Kairos 15.2: Gold, ‘Becoming Book-Like: Bob Stein and the Future of the Book’ (Interview).” Retrieved July 21, 2011a (http://kairos.technorhetoric.net/15.2/interviews/).
+. Anon. n.d. “Scholarly Communication Institute | Experimental Approaches to New-Model Scholarly Communication (2010).” Retrieved June 21, 2011b (http://www.uvasci.org/archive/experimental-approaches-to-new-model-scholarly-communication-2010/).
+. Anon. n.d. “Scholarly Communication Institute | SCI 8 Readings.” Retrieved June 21, 2011c (http://www.uvasci.org/archive/experimental-approaches-to-new-model-scholarly-communication-2010/readings/).
+. Davidson, C. N. 2004. “The futures of scholarly publishing.” Journal of scholarly publishing 35(3):129–142.
+. Fitzpatrick, K. 2010. “Planned obsolescence: Publishing, technology, and the future of the academy.”
+. Greco, Albert N., and Robert M. Wharton. 2010. “The Market Demand for University Press Books 2008–15.” Journal of Scholarly Publishing 42(1):1-15. Retrieved July 18, 2011.
+. Greenblatt, S. 2002. “Call for Action on Problems in Scholarly Book Publishing: A Special Letter from the President.” MLA Documents and Reports 28.
+. Harley, D., S. K Acord, S. Earl-Novell, S. Lawrence, and C. J King. 2010. “Assessing the future landscape of scholarly communication: An exploration of faculty values and needs in seven disciplines.”
+. Harley, D., and S. Krzys Acord. 2010. “Peer Review in Academic Promotion and Publishing: Its Meaning, Locus, and Future.”
+. James, Stephen. 2011. “Flogging a Dead Book?: Prospects for the Scholarly Book and the University Press in Australia.” Journal of Scholarly Publishing 42(2):182-204. Retrieved July 18, 2011.
+. Lynch, Clifford. 2010. “Imagining a University Press System to Support Scholarship in the Digital Age.” Journal of Electronic Publishing 13(2). Retrieved (http://hdl.handle.net/2027/spo.3336451.0013.207).
+. Steele, Colin. 2008. “Scholarly Monograph Publishing in the 21st Century: The Future More Than Ever Should Be an Open Book.” Journal of Electronic Publishing 11(2). Retrieved (http://hdl.handle.net/2027/spo.3336451.0011.201).
+. Thompson, J. W. 2002. “The death of the scholarly monograph in the humanities? Citation patterns in literary scholarship.” Libri 52(3):121–136.
+. Unsworth, J. M. 2003. “The crisis in scholarly publishing in the humanities.” ARL Bimonthly Report 228.
+. Waters, L. 2000. “A modest proposal for preventing the books of the members of the MLA from being a burden to their authors, publishers, or audiences.” Publications of the Modern Language Association of America 315–317.
+. Waters, Lindsay, and Jana L. Argersinger. 2009. “Slow Writing; or, Getting Off the Book Standard: What Can Journal Editors Do?” Journal of Scholarly Publishing 40(2):129-142. Retrieved July 18, 2011.
+. Wicht, Lynn Silipigni Connaway and Heather L. 2007. “What Happened to the E-book Revolution? : The Gradual Integration of E-books into Academic Libraries.” Journal of Electronic Publishing 10(3). Retrieved (http://hdl.handle.net/2027/spo.3336451.0010.302).
+    
+.Situated Work Practice: Ethnomethodology & Situated Action
+. Ackerman, M. S. 2000. “The intellectual challenge of CSCW: The gap between social requirements and technical feasibility.” Human–Computer Interaction 15(2):179–203.
+. Bowers, J., G. Button, and W. Sharrock. 1995. “Workflow from within and without: Technology and cooperative work on the print industry shopfloor.” Pp. 51–66 in Proceedings of the fourth conference on European Conference on Computer-Supported Cooperative Work.
+. Button, Graham, and Richard Harper. 1995. “The relevance of “work-practice” for design.” Computer Supported Cooperative Work 4:263–280. Retrieved May 3, 2011.
+. Carroll, J. M. 2003. Situated Action in the Zeitgeist of Human-Computer Interaction. JSTOR.
+. Dourish, Paul. 2001. Where the Action Is: The Foundations of Embodied Interaction. The MIT Press.
+. Garfinkel, H. 2002. Ethnomethodology’s program: Working out Durkeim’s aphorism. Rowman & Littlefield Pub Inc.
+. Garfinkel, H., and A. W Rawls. 2006. Seeing sociologically: The routine grounds of social action. Paradigm Pub.
+. Goodwin, C. 1994. “Professional vision.” American anthropologist 96(3):606–633.
+. Heath, C., and P. Luff. 2000. Technology in action. Cambridge Univ Pr.
+. Hutchby, Ian. 2001. “Technologies, Texts and Affordances.” Sociology 35(2):441 -456. Retrieved May 11, 2011.
+. Lindtner, S., J. Chen, G. R Hayes, and P. Dourish. 2011. “Towards a framework of publics: Re-encountering media sharing and its user.” ACM Transactions on Computer-Human Interaction (TOCHI) 18(2):5.
+. Lynch, Michael. 1997. Scientific Practice and Ordinary Action: Ethnomethodology and Social Studies of Science. Cambridge University Press.
+. Rawls, Anne Warfield. 2008. “Harold Garfinkel, Ethnomethodology and Workplace Studies.” Organization Studies 29(5):701 -732. Retrieved July 18, 2011.
+. Suchman, L. 1994. “Do categories have politics?” Computer Supported Cooperative Work (CSCW) 2(3):177–190.
+. Suchman, Lucy. 2006. Human-Machine Reconfigurations: Plans and Situated Actions. 2nd ed. Cambridge University Press.
+. Szymanski, Margaret H., and Jack Whalen. 2011. Making Work Visible: Ethnographically Grounded Case Studies of Work Practice. 1st ed. Cambridge University Press.
+    
+
+.Situated Work Practice: Communities of Practice
+. Brown, J. S, and P. Duguid. 2001. “Knowledge and organization: A social-practice perspective.” Organization science 198–213.
+. Brown, J. S, and P. Duguid. 1991. “Organizational learning and communities-of-practice: Toward a unified view of working, learning, and innovation.” Organization science 2(1):40–57.
+. Duguid, P. 2005. “‘The art of knowing’: social and tacit dimensions of knowledge and the limits of the community of practice.” The Information Society 21(2):109–118.
+. Lave, Jean, and Etienne Wenger. 1991. Situated Learning: Legitimate Peripheral Participation. 1st ed. Cambridge University Press.
+. Orlikowski, W. J. 2002. “Knowing in practice: Enacting a collective capability in distributed organizing.” Organization Science 249–273.
+. Orlikowski, Wanda J. 2000. “Using Technology and Constituting Structures: A Practice Lens for Studying Technology in Organizations.” ORGANIZATION SCIENCE 11(4):404-428. Retrieved May 3, 2011.
+. Wenger, E. 1999. Communities of practice: Learning, meaning, and identity. Cambridge Univ Pr.
+. Wenger, Etienne, Nancy White, and John D Smith. 2009. Digital Habitats; stewarding technology for communities. CPsquare.
+    
+
+.Situated Work Practice: Organizational Routine
+. Becker, M., M. C Becker, and N. Lazaric. 2009. Organizational routines: advancing empirical research. Edward Elgar Publishing.
+. Birnholtz, J. P, M. D Cohen, and S. V Hoch. 2007. “Organizational character: On the regeneration of camp poplar grove.” Organization Science 18(2):315.
+. Cohen, M. D et al. 1996. “Routines and other recurring action patterns of organizations: contemporary research issues.” Industrial and Corporate Change 5(3):653.
+. Cohen, Michael D. 2007. “Reading Dewey: Reflections on the Study of Routine.” Organization Studies 28(5):773 -786. Retrieved May 3, 2011.
+. Feldman, M. S, and B. T Pentland. 2003. “Reconceptualizing Organizational Routines as a Source of Flexibility and Change.” Administrative Science Quarterly 48(1):94–121.
+. Hales, Mike, and Joe Tidd. 2009. “The practice of routines and representations in design and development.” Industrial and Corporate Change 18(4):551 -574. Retrieved May 3, 2011.
+. Pentland, Brian T, and Martha S Feldman. 2008. “Designing routines: On the folly of designing artifacts, while hoping for patterns of action.” Information and Organization 18:235–250. Retrieved May 12, 2011.
+. Pentland, Brian T., and Martha S. Feldman. 2005. “Organizational routines as a unit of analysis.” Industrial and Corporate Change 14(5):793 -815. Retrieved May 3, 2011.

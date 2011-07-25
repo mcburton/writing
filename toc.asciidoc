@@ -1,0 +1,33 @@
+= Scholarly Publishing and the Digital Humanities
+
+.Table of Contents
+
+* Introduction
+	** Technology and the Humanities
+		*** Topology of Impact
+	** Electronic Publishing
+	** Ackerman's Aphorism
+	** Engaging the Literature
+
+* Digital Humanities
+	** What is Digital Humanities? A Brief Definition
+		*** Humanities Computing vs. Digital Humanities
+	** Technology and Adaptation
+	
+* Scholarly Publishing
+	** Mechanics of New Digital Publishing
+	    *** Distinction between Journals & Books
+	** The Crisis of Scholarly Monograph Publishing. 
+
+* Situated Work Practice
+	** Ethnomethodology & Situated Action
+	** Communities of Practice
+	** Organizational Routine
+
+* Research Design: A Whole New Kind of Monograph: An Ethnography of the (Digital Humanistic) Book
+	** Scholarly Work Practice
+	** Scholarly Publishing Work Practice
+	** Interactions between Scholar's & Publisher's Practice
+	** The (digital) Book's role as Social Artifact
+
+* Conclusion
