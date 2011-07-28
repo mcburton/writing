@@ -1,3 +1,7 @@
+---
+title: Table of Contents
+---
+
 #Scholarly Publishing and the Digital Humanities
 
 ##Table of Contents

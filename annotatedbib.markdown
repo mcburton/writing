@@ -1,3 +1,7 @@
+---
+title: Annotated Bibliography
+---
+
 # Annotated Bibliography
 
 ## Digital Humanities 
