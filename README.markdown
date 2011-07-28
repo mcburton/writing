@@ -1,3 +1,9 @@
+---
+title: LOLWUT?
+permalink: index.html
+---
+
+
 ## What is this?
 Some folks might end up here who don't already know what this is. This is my field prelim, it is an extensive literature review of a topic (or set of topics) and a proposal for a research project. I am a graduate student at the [School of Information at the University of Michigan](https://si.umich.edu). 
 
