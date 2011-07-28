@@ -1,0 +1,28 @@
+=== Digital Humanities
+. Anon. n.d. “Online Humanities Scholarship: The Shape of Things to Come: Advance Papers and Responses.” Retrieved June 21, 2011 (http://shapeofthings.org/papers/).
+
+
+. Cronin, B. 2004. “Bowling alone together: Academic writing as distributed cognition.” Journal of the American Society for Information Science and Technology 55(6):557–560.
+
+. Hockey, Susan. 2001. Electronic Texts in the Humanities: Principles and Practice. Oxford University Press, USA.
+
+. McCarty, W. 1998. “What is humanities computing? Toward a definition of the field.” McCarty, Willard.
+
+
+=== Scholarly Publishing		
+
+. Brodkey, Linda. 1987. Academic Writing As Social Practice. Temple University Press.
+
+. Burnard, Lou, Katherine O’Brien O’Keeffe, and John Unsworth. 2006. Electronic Textual Editing [With CDROM]. Modern Language Association of America.
+
+. Drucker, Johanna. 2009. “A Review of Matthew Kirschenbaum, Mechanisms: New Media and the Forensic Imagination Cambridge, MA and London, UK: MIT University Press, 2008.” 3(2). Retrieved July 21, 2011 (http://www.digitalhumanities.org/dhq/vol/3/2/000048/000048.html).
+
+. Ferris, Sharmila Pixy. 2002. “Writing Electronically: The Effects of Computers on Traditional Writing.” Journal of Electronic Publishing 8(1). Retrieved (http://hdl.handle.net/2027/spo.3336451.0008.104).
+. Maxwell, John W. et al. 2010. “XML Production Workflows? Start with the Web.” Journal of Electronic Publishing 13(1). Retrieved July 18, 2011 (http://hdl.handle.net/2027/spo.3336451.0013.106).
+. Watkinson, A. 2001. “Electronic Solutions to the Problems of Monograph Publishing.” Library and Information Commission Research Report.
+. Willis G. Regier. 2010. “What Is an ‘American Book’?: Review Essay.” Journal of Scholarly Publishing 41(4):449-482. Retrieved July 18, 2011.
+
+
+=== Work Practice
+. Suchman, L. 1994. “Do categories have politics?” Computer Supported Cooperative Work (CSCW) 2(3):177–190.
+
