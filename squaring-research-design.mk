@@ -1,9 +1,8 @@
-== free writing ==
-====================
-_make a list of all the important things I need need to make the case for this proposed research design. +
-do it fast, free write +
-what needs to be argued so that everyone agrees this is a good research proposal_
-====================
+## free writing ##
+
+>_make a list of all the important things I need need to make the >case for this proposed research design. +
+>do it fast, free write +
+>what needs to be argued so that everyone agrees this is a good >research proposal_
     
 What is the argument I want to make?
 Well I want to say that there is a need for a research project that does a practice centric ethnography of scholarly publishing in the digital humanities. As Paul Conway has described it, there are two wheels of practice, that of the (digital) humanities scholars and that of the scholarly publishers. The site of intersection between these two wheels is my area of interest. But I am not simply interested in these spinning wheels alone, I want to investigate how technological change throws a wrench between these two wheels (gears?).
@@ -29,17 +28,17 @@ I recently attended a meeting between folks from mpublishing and the sweet land 
 
 
 
-== goals
-=== Chapter 1 - *Digital Humanities*  
+## goals
+### Chapter 1 - *Digital Humanities*  
 show how new technology is fermenting (r)evolutionary change in the practices of humanities scholarship. To do this I will need to do a bit of definitional work, focusing on the debate on "Digital Humanities" vs "Humanities Computing." Both names represent the change that is affecting research, pedagogy, and the dissemination of knowledge in the humanities. While I will briefly touch upon the first two of these areas, my focus will be on the third. The dissemination of knowledge leads me into the next chapter, scholarly publishing.
 
-=== Chapter 2 - *Scholarly Publishing*
+### Chapter 2 - *Scholarly Publishing*
 show how evolved modalities of scholarly publishing coupled with these new forms of scholarship afforded by Digital Humanities/Humanities Computing are aggravating the "crisis in scholarly publishing." There are a multitude of facets to this crisis, from economic sustainability, to open access and intellectual property, to technical forms and modalities. 
 
-=== Chapter 3 - *Situated Practice* 
+### Chapter 3 - *Situated Practice* 
 show how studies of technological work practice have informed other domains with similar problems and shooter how it could be brought to bare in scholarly publishing.
 
-=== Chapter 4 - *Research Design* 
+### Chapter 4 - *Research Design* 
 As described above, the research would be a participatory investigation of digital publishing at MPublishing. Using concepts and techniques from the chapter on work studies and situated practice I will analyze a selection of projects, focusing in particular on traditional monograph publishing projects and on new digital publishing projects such as the one described above. 
 
 A survey of Mpub's past, present and planned digital projects will be conducted in an attempt to construct a conceptual topology so that we can better understand the complicated spectrum that encompasses both traditional and digital work.
