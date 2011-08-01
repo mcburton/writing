@@ -12,6 +12,7 @@ The third and final section of this project will be a research proposal that int
 
 
 
+Digital technology affords unfamiliar forms of publishing that challenge existing social institutions. Case and point is Kathleen Fitzpatrick new book "Planned Obsolescence," which has been "published" for free online in its draft form and will be published as a physical book later this year. Fitzpatrick, who interestingly has just become head of the Modern Language Association's Office of Scholarly Communication, has critically examined the practice of scholarly publishing both theoretically, in the content of the book, and practically in the modality in which she has published the book. Using an online publishing platform called CommentPress she published the book’s content as she wrote it and openly accepted comments from interested readers. While this may be radical in the world of scholarly book publishing, it is old news to the professional programming community. Publishers of technical books like O’Reilly and Manning have been putting out (and even charging for) beta copies and allowing comments for years, others have been publishing under open licenses making the content available for free, both as in speech AND as in beer. This begs an interesting question, why are socio-technical publishing practices common, almost to the point of banel, in prevalent in the technical community so astonishing and groundbreaking in the scholarly publishing community?
 
 
 
