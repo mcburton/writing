@@ -8,6 +8,7 @@
 1.  Borgman, C. L. 2009. "The digital future is now: A call to action for the humanities." Digital Humanities Quarterly 3(4) [link](http://digitalhumanities.org/dhq/vol/3/4/000077/000077.html).
 1.  Borgman, Christine L. 2007. Scholarship in the digital age. MIT Press Retrieved [link](http://books.google.com/books?id=ZDDu3CuzDdMC).
 1.  Burgess, Helen J., and Jeanne Hamming. 2011. "New Media in the Academy: Labor and the Production of Knowledge in Scholarly Multimedia." Digital Humanities  Quarterly 5(3) [link](http://digitalhumanities.org/dhq/vol/5/3/000102/000102.html).
+1. Harley, D., S. K Acord, S. Earl-Novell, S. Lawrence, and C. J King. 2010. “Assessing the future landscape of scholarly communication: An exploration of faculty values and needs in seven disciplines.”
 1.  Rosenzweig, Roy. 2010. Clio Wired: The Future of the Past in the Digital Age. Columbia University Press [link](http://books.google.com/books?id=4nivoPD7L40C).
 1.  Unsworth, John M. n.d. "Cyberinfrastructure for the Humanities and Social Sciences." Retrieved June 3, 2009  [link](http://www3.isrl.illinois.edu/~unsworth/Cyberinfrastructure.RLG.html).
 
