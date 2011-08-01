@@ -69,7 +69,10 @@
 
 1.  Ackerman, M. S. 2000. "The intellectual challenge of CSCW: The gap between social requirements and technical feasibility." Human–Computer Interaction 15(2):179–203. (http://portal.acm.org/citation.cfm?id=1463020)
 1.  Button, Graham, and Richard Harper. 1995. "The relevance of "work-practice" for design." Computer Supported Cooperative Work 4:263–280. Retrieved May 3, 2011. (http://www.springerlink.com/content/pj851233076m611n/)
+1.  Button, Graham, and Paul Dourish. 1996. “Technomethodology: paradoxes and possibilities.” Pp. 19–26 in Proceedings of the SIGCHI conference on Human factors in computing systems: common ground, CHI  ’96. Vancouver, British Columbia, Canada: ACM Retrieved July 25, 2011 (http://doi.acm.org.proxy.lib.umich.edu/10.1145/238386.238394).
+1.  Crabtree, A. 2004. “Taking technomethodology seriously: hybrid change in the ethnomethodology–design relationship.” European Journal of Information Systems 13(3):195–209. (http://www.mrl.nott.ac.uk/~axc/documents/papers/EJIS04.pdf)
 1.  Dourish, Paul. 2001. Where the Action Is: The Foundations of Embodied Interaction. The MIT Press. (http://books.google.com/books?id=DCIy2zxrCqcC)
+1.  Dourish, P., and G. Button. 1998. “On Technomethodology: foundational relationships between ethnomethodology and system design.” Human-Computer Interaction 13(4):395–432. (http://citeseer.ist.psu.edu/viewdoc/download;jsessionid=99816C42C85AF970B3598FED602321EB?doi=10.1.1.25.7616&rep=rep1&type=pdf)
 1.  Flor, Grace de la, Marina Jirotka, Paul Luff, John Pybus, Ruth Kirkham (2010) ‘Transforming scholarly practice: embedding technological interventions to support the collaborative analysis of ancient texts’, Computer Supported Cooperative Work (CSCW) 19/3-4: 309-334 (http://www.springerlink.com/content/jj6228l261064264/)
 1.  Goodwin, C. 1994. "Professional vision." American anthropologist 96(3):606–633. (http://onlinelibrary.wiley.com/doi/10.1525/aa.1994.96.3.02a00100/abstract)
 1.  Heath, C., and P. Luff. 2000. Technology in action. Cambridge Univ Pr. (http://books.google.com/books?id=aBMVwhVSyyAC)
@@ -81,7 +84,6 @@
 1.  Szymanski, Margaret H., and Jack Whalen. 2011. 'Making Work Visible: Ethnographically Grounded Case Studies of Work Practice.' 1st ed. Cambridge University Press. (http://books.google.com/books?id=HuC9Zf7IRywC)
 1.  Engeström, Yrjö. (2000) 'From individual action to collective activity and back: developmental work research as an interventionist methodology'. In Luff, P., J. Hindmarsh, C. Heath, eds. Workplace Studies: Recovering Work Practice and Informing Systems Design. Cambridge: Cambridge University Press (http://books.google.com/books?id=w5S8sLDhAqQC)
 
-
 ### Organizational Routine
 
 1.  Becker, M., M. C Becker, and N. Lazaric. 2009. Organizational routines: advancing empirical research. Edward Elgar Publishing. (http://books.google.com/books?id=8DHhSs8r5iMC)
@@ -89,7 +91,9 @@
 1.  Brown, J. S, and P. Duguid. 2001. "Knowledge and organization: A social-practice perspective." Organization science 198–213. (http://www.jstor.org/pss/3086055)
 1.  Cohen, M. D et al. 1996. "Routines and other recurring action patterns of organizations: contemporary research issues." Industrial and Corporate Change 5(3):653. (http://icc.oxfordjournals.org/content/5/3/653.short)
 1.  Cohen, Michael D. 2007. "Reading Dewey: Reflections on the Study of Routine." Organization Studies 28(5):773 -786. Retrieved May 3, 2011. (http://oss.sagepub.com/content/28/5/773.abstract)
+1.  Feldman, M. S, and W. J Orlikowski. 2011. “Theorizing practice and practicing theory.” Organization Science orsc–1100. (http://socialecology.uci.edu/sites/socialecology.uci.edu/files/users/feldmanm/OS_Practice_Theory_Paper_FINAL_submitted.doc)
 1.  Feldman, M. S, and B. T Pentland. 2003. "Reconceptualizing Organizational Routines as a Source of Flexibility and Change." Administrative Science Quarterly 48(1):94–121. (http://www.jstor.org/pss/3556620)
+1.  Feldman, Martha S. 2000. “Organizational Routines as a Source of Continuous Change.” Organization Science 11(6):611–629. Retrieved August 1, 2011. (http://portal.acm.org.proxy.lib.umich.edu/citation.cfm?id=767742.768710)
 1.  Hales, Mike, and Joe Tidd. 2009. "The practice of routines and representations in design and development." Industrial and Corporate Change 18(4):551 -574. Retrieved May 3, 2011. (http://icc.oxfordjournals.org/content/18/4/551.abstract)
 1.  Pentland, Brian T, and Martha S Feldman. 2008. "Designing routines: On the folly of designing artifacts, while hoping for patterns of action." Information and Organization 18:235–250. Retrieved May 12, 2011. (http://www.sciencedirect.com/science/article/pii/S1471772708000298)
 1.  Pentland, Brian T., and Martha S. Feldman. 2005. "Organizational routines as a unit of analysis." Industrial and Corporate Change 14(5):793 -815. Retrieved May 3, 2011. (http://icc.oxfordjournals.org/content/14/5/793.abstract)
