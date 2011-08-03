@@ -6,6 +6,24 @@
 
 1.  Anon. n.d. "Hacking the Academy." Retrieved July 21, 2011a (http://hackingtheacademy.org/).
 1.  Borgman, C. L. 2009. "The digital future is now: A call to action for the humanities." Digital Humanities Quarterly 3(4) (http://digitalhumanities.org/dhq/vol/3/4/000077/000077.html).
+	- She defines DH as "digital humanities is a new set of practices, using new sets of technologies, to address research problems of the discipline"
+	- Digital humanities has a lot of catching up to do with the sciences, infrastructure is lacking.
+	- DH infrastructure needs those who do DH, not just developers, to build out infrastructure.
+	- "The reasons for the slow adoption of digital publishing in the humanities are many, from not trusting online dissemination to a general reluctance to experiment with new technologies, even those well proven — "professionally indisposed to change" as Ken Hamma puts it [Hamma 2009]"
+	- "Monographic publishing, which is core to humanities scholarship, has begun a seismic shift toward digital publishing [Jaschik 2008]; [Jaschik 2009]; [Poe 2001]; [Willinsky 2006]; [Willinsky 2009]. "
+	- Digital publishing in the sciences has afforded wider access to scholarship. It seems that Borgman conflates digital publishing with open access (or at least only very briefly engages the difference in paragraph 18) when she talks about increased citation rates for digital publication. There is more nuance she could have gone into here, but chose not to. I find this interesting.
+	- She goes on to talk about about technological impact with humanities Data, Research Methods, Collaboration, Incentives, and learning. 
+	- Call to acton for Digital humanities:
+		- What are Data?
+		- What are the infrastructure requirements?
+		- Where are the social studies of digital humanities?
+		- What is the humanities laboratory of the 21st century?
+		- What is the value proposition for digital humanities in the era of declining budgets?
+	- The shape of these questions implies, to me at least, that Borgman wants the humanities to become more like the sciences. For got and for bad, concepts like "data", "laboratory" are very science centic and make me wonder if they are potentially mutually exclusive to a humanitarian epistemology. At the same time, I complete agree that we need more social studies of digital humanities (exemplified by this projet). The call for infrastructure also appeals to the builder in me, and I agree there needs to be serious effort to tease out the potential difference between scientific and humanities infrastructure. This relates to the value proposition, which is very complicated. From a funding of infrastructure perspective, do we pay for a cathedral or a bizarre (in the eric raymond sense)? What happens if we fund the wrong cathedral? I think there needs to be some fecundity, but there also needs to be a common platform that evolves to support the fecund boutique projects.
+		- *Cites*
+		- Hamma, K. (2009). "Professionally indisposed to change." EDUCAUSE Review, 44(2): 8-9. (http://net.educause.edu/ir/library/pdf/ERM0929.pdf)
+		- Jaschik, S. (2008). "Publishing and values." Inside Higher Ed. Retrieved from (http://www.insidehighered.com/news/2007/08/22/anthro)
+		- Willinsky 2009 Willinsky, J. (2009). "Toward the Design of an Open Monograph Press." Journal of Electronic Publishing, 12(1). (http://dx.doi.org/10.3998/3336451.0012.103)
 1.  Borgman, Christine L. 2007. Scholarship in the digital age. MIT Press Retrieved (http://books.google.com/books?id=ZDDu3CuzDdMC).
 1.  Burgess, Helen J., and Jeanne Hamming. 2011. "New Media in the Academy: Labor and the Production of Knowledge in Scholarly Multimedia." Digital Humanities  Quarterly 5(3) (http://digitalhumanities.org/dhq/vol/5/3/000102/000102.html).
 1.  Harley, D., S. K Acord, S. Earl-Novell, S. Lawrence, and C. J King. 2010. “Assessing the future landscape of scholarly communication: An exploration of faculty values and needs in seven disciplines.” History Case Study. (http://escholarship.org/uc/item/15x7385g#page-399)
@@ -62,8 +80,9 @@
 1.  Waters, L. 2000. "A modest proposal for preventing the books of the members of the MLA from being a burden to their authors, publishers, or audiences." Publications of the Modern Language Association of America 315–317. (http://www.jstor.org/pss/463452)
 1.  Waters, Lindsay, and Jana L. Argersinger. 2009. "Slow Writing; or, Getting Off the Book Standard: What Can Journal Editors Do?" Journal of Scholarly Publishing 40(2):129-142. Retrieved July 18, 2011. (http://muse.jhu.edu/journals/scp/summary/v040/40.2.waters.html)
 1.  Wicht, Lynn Silipigni Connaway and Heather L. 2007. "What Happened to the E-book Revolution? : The Gradual Integration of E-books into Academic Libraries." Journal of Electronic Publishing 10(3). Retrieved (http://hdl.handle.net/2027/spo.3336451.0010.302).
+1.  Willinsky 2009 Willinsky, J. (2009). "Toward the Design of an Open Monograph Press." Journal of Electronic Publishing, 12(1). (http://dx.doi.org/10.3998/3336451.0012.103)
 
-## Work Practice   
+## Work Practice
 
 ### Ethnomethodology & Situated Practice
 
