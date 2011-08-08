@@ -10,7 +10,7 @@
 	* Engaging the Literature
 
 * Digital Humanities
-	* Technology and Adaptation in the Humanities
+	* Humanities Scholarship in the Digital age
 	* What is Digital Humanities? A Brief Definition
 		* Humanities Computing vs. Digital Humanities
   

@@ -9,7 +9,7 @@ Well I want to say that there is a need for a research project that does a pract
 
 I believe that the theories and methods provided by social science, specifically the perspective afforded by situated work practice, will shed light on the question of why the practices of scholarly publishing manuscripts in the digital humanities is not adapting to technological change.
 
-The "situated practice" literature is going to need to sharpen its focus. I need to show that it has informed the problem of adapting work practice in the face of new technology. Technomethodology? Suchman? I need to review Ackerman's Gap paper, that provides a nice review of "what CSCW knows". I should also go through the CSCW journal and conference backlog. Key off the term 'adaptation.'   
+The "situated practice" literature is going to need to sharpen its focus. I need to show that it has informed the problem of adapting work practice in the face of new technology. Technomethodology? Suchman? I need to review Ackerman's Gap paper, that provides a nice review of "what CSCW knows". I should also go through the CSCW journal and conference backlog. Key off the term 'adaptation.'
 
 I need to do the same thing for the communities of practice literature. Is there anything that directly engages change in communities of practice? If I can't find anything to this effect it might be a reason to drop a substantial investment in CoP literature, although it definitely needs to be there.
 
