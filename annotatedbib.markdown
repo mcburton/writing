@@ -30,6 +30,7 @@
 1.  Rosenzweig, Roy. 2010. Clio Wired: The Future of the Past in the Digital Age. Columbia University Press (http://books.google.com/books?id=4nivoPD7L40C).
 1.  Unsworth, John M. n.d. "Cyberinfrastructure for the Humanities and Social Sciences." Retrieved June 3, 2009  (http://www3.isrl.illinois.edu/~unsworth/Cyberinfrastructure.RLG.html).
 
+
 ### What is Digital Humanities? A Brief Definition
 
 1.  Anon. n.d. "Scholarly Tribes and Tribulations: How Tradition and Technology Are Driving Disciplinary Change." Retrieved July 21, 2011b  (http://www.arl.org.proxy.lib.umich.edu/resources/pubs/tribes/program.shtml).
@@ -71,9 +72,16 @@
 1.  Anon. n.d. "Kairos 15.2: Gold, ‘Becoming Book-Like: Bob Stein and the Future of the Book’ (Interview)." Retrieved July 21, 2011a (http://kairos.technorhetoric.net/15.2/interviews/).
 1.  Davidson, C. N. 2004. "The futures of scholarly publishing." Journal of scholarly publishing 35(3):129–142. (http://muse.jhu.edu/journals/journal_of_scholarly_publishing/summary/v035/35.3davidson.html)
 1.  Fitzpatrick, K. 2010. "Planned obsolescence: Publishing, technology, and the future of the academy." (http://mediacommons.futureofthebook.org/mcpress/plannedobsolescence/)
+	- Challanges, and proposes solutions to, five practice and institutions
+		- Peer review - Peer 2 peer review
+		- Authorship - Networked authorstihp
+		- The construction of text - networked texts
+		- Preservation & Archivies - ???
+		- The instution of the university - ???
 1.  Greco, Albert N., and Robert M. Wharton. 2010. "The Market Demand for University Press Books 2008–15." Journal of Scholarly Publishing 42(1):1-15. Retrieved July 18, 2011. (http://muse.jhu.edu/journals/journal_of_scholarly_publishing/summary/v042/42.1.greco.html)
 1.  Greenblatt, S. 2002. "Call for Action on Problems in Scholarly Book Publishing: A Special Letter from the President." MLA Documents and Reports 28. (http://www.mla.org/scholarly_pub)
 1.  James, Stephen. 2011. "Flogging a Dead Book?: Prospects for the Scholarly Book and the University Press in Australia." Journal of Scholarly Publishing 42(2):182-204. Retrieved July 18, 2011. (http://muse.jhu.edu/journals/journal_of_scholarly_publishing/summary/v042/42.2.james.html)
+1.  Rumsey, Abby. 2011. EMERGING GENRES IN SCHOLARLY COMMUNICATION. Final Report of the Scholarly Communication Institute 8. (http://www.uvasci.org/wp-content/uploads/2010/09/SCI-8-report-final.pdf)
 1.  Steele, Colin. 2008. "Scholarly Monograph Publishing in the 21st Century: The Future More Than Ever Should Be an Open Book." Journal of Electronic Publishing 11(2). Retrieved (http://hdl.handle.net/2027/spo.3336451.0011.201).
 1.  Thompson, J. W. 2002. "The death of the scholarly monograph in the humanities? Citation patterns in literary scholarship." Libri 52(3):121–136. (http://librijournal.org/pdf/2002-3pp121-136.pdf)
 1.  Unsworth, J. M. 2003. "The crisis in scholarly publishing in the humanities." ARL Bimonthly Report 228. (http://www.arl.org/bm~doc/crisis.pdf)
