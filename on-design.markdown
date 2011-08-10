@@ -7,6 +7,9 @@ I had a thought reading the first Technomethodology paper. Could I align traditi
 
 The inhibiting factors are structures of accountability to produces mutually intelligible work. This is the MAYA principal. 
 
+EM - MAYA - Most Advanced Yet Adequate
+Adequacy and competency are recurring themes in EM literature. Actors must be comptetent in their abilities to perform against "background expectancies / schemas of interpretation, [note need to come up with a term for this]" These background expectancies are the restraining factor for technological adoption.
+
 Why not instead of "inventing the future" why don't we recognize that the future will come of it's own accord. 
 We can't "see" the future because our eyes belong to the past. Let's learn how to see the fact that
 "the future is already here, its just not evenly distributed" then lets figure put how to better distribute it.
