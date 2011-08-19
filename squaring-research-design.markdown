@@ -42,3 +42,28 @@ show how studies of technological work practice have informed other domains with
 As described above, the research would be a participatory investigation of digital publishing at MPublishing. Using concepts and techniques from the chapter on work studies and situated practice I will analyze a selection of projects, focusing in particular on traditional monograph publishing projects and on new digital publishing projects such as the one described above. 
 
 A survey of Mpub's past, present and planned digital projects will be conducted in an attempt to construct a conceptual topology so that we can better understand the complicated spectrum that encompasses both traditional and digital work.
+
+
+
+
+## Misc
+
+
+MAYA, borrowed from Raymound Loewy the father of industrial design, is a principal he used while designing. When designing object, a car for instance, Loewy would sketch the evolution of the designs, beginning with the model T and working towards the present day, then projecting forward several iterations into the future to an "optimal" design. In the car example he ended at Buckminster Fuller's Dymaxion car(I have an image to accompany this description which I'll put into the introduction). Given this sequence, Loewy would select not the optimal design, but a design ratcheted back a few steps, finding the design between the current state and the most advanced; the socially acceptable design. 
+
+Borgman's salient question, "Where are the social studies of digital humanities?" (Borgman 2009) provides the basis for this research design. In her article, Borgman points out that while the practices of scientists have been exhaustively examined, the work of humanists remains unexplored. Deeply situated, ethnographic studies of 
+
+However, 
+
+
+
+
+
+MPublishing is the University of Michigan's publishing devisions. Their organization has very practically experienced the destabilizing impacts of information technology in the humanities. 
+
+University presses have found themselves at the front lines of the technologically induced changes within the humanities. 
+
+
+
+Mpublishing is seen as a leader in the field of scholarly publishing, in part because of their active and ongoing experimental approach to scholarly knowledge production. Mpublishing is home to the Journal of Electronic Publishing, a publication that truly practices what it preaches. 
+Beyond ebooks and electronic journals, Mpublishing explores new modalities such as interactive web-sites, driven by modified blogging engines, t
