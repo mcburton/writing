@@ -62,15 +62,7 @@ I also toss into the mix a builder's mentality; baggage indubitably accompanying
 
 Building and designing sociotechnical infrastructure for DH is a key theme for this research design. My interest is not merely in "observing" the work practices of scholars and publishers, rather I believe to fully understand the "crisis of scholarly publishing" and the digital humanities, I need to _work with_ those who _do_. In ethnomethodological terms, I must obtain what is called _unique adequacy_ in , or an actor's understanding of the phenomena of interest. 
 
-From Crabtree (2004), the technomethodologicial approach to design research:
-	1. Let designers build whatever they want with whomever they want, subject to their own constraints.
-	2. Deploy the objects of design in real world settings.
-	3. Treat deployment as a breaching experiment.
-	4. Explicate the accountable structures of practical action made visible in the breach.
-	5. Explore the topics identified in the breach through the study of perspicuous settings.
-	6. Use the studies of perspicuous settings to flesh out abstract design concepts.
-	7. Deploy the new design solution in real world settings and study its use.
-	8. Repeat the process until the research agenda has been satisfied for all practical purposes."
+
 
 
 
