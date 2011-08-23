@@ -2,6 +2,10 @@
 
 ## Intro
 
+[This draft of the research design is drawing on concepts straight out of ethnomethodology, especially ethnomethodological "accounts." The previous chapters, once written, will hopefully situate and develop those concepts within the digital humanities and scholarly publishing. Ackerman's aphorism is not yet fully developed and is being used right now as a conceptual bridge between the motivations described in the introduction and this research design here.
+
+this prose is un-edited.]
+
 The theoretical and conceptual interest of this research is "Ackerman's Aphorism." My interest is in the disparity between technological possibility and social acceptability. Like the disparity between social fluidity and technological rigidity, I believe the gaps opened up by these phenomena provide a fruitful site for informing a broader understanding of human machine interaction. Humanists face, perhaps now more than ever, the tensions of Ackerman's aphorism. As science studies has shown, designing and building (cyber)infrastructure is not simply a matter of "build it an they will come." As humanists embrace scholarship in the digital age, a change embodied by the digital humanities movement, they will wrestle with many of the similar problems as scientists doing the same. However, epistemological differences in the humanist community of practice may also cause significant differences as they "technologize." 
 
 Deeply situated, social scientific investigations bring a fresh set of eyes to the practical challenges of change, be it change in scientific or humanist practice,  in the interactions between scholars, publishers, and technology. The challenge for empirically oriented research is to find where the dynamics of Ackerman's aphorism manifest socio-materially, that is, to find where the rubber hits the road. For this project, I have identified two locations, one at the intersection between scholars and publishers, negotiating publishing strategies at a university press, and another in the interactional traces of the  information standards developers for electronic publishing.
@@ -37,15 +41,10 @@ The second site is of a more historical nature. Using trace ethnographic techniq
 Email discussions, meeting notes, wiki discussions, and the document revision repository are all publicly available. These resources, combined with interviews with working group members, digital humanists and publishers beginning to use epub3, and experiments producing epub3 documents myself all provide insight into how individual's adapt (or don't adapt) their work practice to accommodate new technology.
 
 
-## Design Research as Methodology
+## EPUB3 - Designing Publishing Infrastructure
 
-Where to begin? I attend to what scholars and publishers _do_. For whatever it is, they do it for others and in that visibility, we can _see_ it.
-
-I also toss into the mix a builder's mentality; baggage indubitably accompanying any "recovering" technologist. Once upon a time I was a programmer and computer scientist. Interesting circumstance first led me to the digital humanities as a part time programmer for the Zotero project. The desire to build tools and infrastructure to support scholarship, especially publishing, motivates my current research. One of the things that attracts me to the digital humanities is the "builder's enthusiasm,"[*](http://lenz.unl.edu/papers/2011/01/08/whos-in-and-whos-out.html) although this enthusiasm is accompanied by a dose of trepidation within the community. [*](http://www.samplereality.com/2011/05/25/the-digital-humanities-is-not-about-building-its-about-sharing/)
-
-Building and designing sociotechnical infrastructure for DH is a key theme for this research design. My interest is not merely in "observing" the work practices of scholars and publishers, rather I believe to fully understand the "crisis of scholarly publishing" and the digital humanities, I need to _work with_ those who _do_. In ethnomethodological terms, I must obtain what is called _unique adequacy_ in , or an actor's understanding of the phenomena of interest. 
-
-From Crabtree (2004), the technomethodologicial approach to design research:
+Andy Crabtree describes a technomethodologicial approach to design research as follows:
+"
 	1. Let designers build whatever they want with whomever they want, subject to their own constraints.
 	2. Deploy the objects of design in real world settings.
 	3. Treat deployment as a breaching experiment.
@@ -54,6 +53,20 @@ From Crabtree (2004), the technomethodologicial approach to design research:
 	6. Use the studies of perspicuous settings to flesh out abstract design concepts.
 	7. Deploy the new design solution in real world settings and study its use.
 	8. Repeat the process until the research agenda has been satisfied for all practical purposes."
+" (Crabtree 2004)
+
+As of this writing, the EPUB 3 document format is nearly complete. The designers of the standards have "built whatever they want," rather quickly for standards designers I might add, and we will shortly witness the deployment of EPUB 3 into "real world settings." The latest epub standard is a radical technological advancement to its predecessor, as such it is an _experiment_ that _breaches_ our commonly held expectations of the book. EPUB 3 incorporates the latest web technologies enabling interactive, multimedia enriched presentations. How this technology, the the possibilities for knowledge dissemination it enables, is an open question. 
+
+## Scholars & Publisher's Practice
+
+Where to begin? My desire is to attend very specifically upon what scholars and publishers _do_. Monograph publishing practice in the digital humanities has two facets; facets that are informative both epistemologically and practically. First, there is the facet of ordinary work. This is the ever-present "goings on" 
+
+Second, there is the production of accounts. In my proposed work sites, the scholarly publishing office and the epub3 working group, members of these groups must _account_ for their ordinary work, this is the work of producing artifacts that satisfy pre-existing expectations of a particular context of accountability. What does this mean? Allow me to use an example described by Burgress and Hamming. In their article "New Media in the Academy: Labor and the Production of Knowledge in Scholarly Multimedia." they described how multimedia scholarship toes a fine line between art and scholarship. Using the example of Marcel O'Gorman's _Dreadmill_, which consists of a live on-stage performance by O'Gorman running on a treadmill whilst presenting a critique of our culture's increasingly sedentary lifestyle. Burgess and Hamming ask the question "How might such a performance be classified as a work of scholarship?" Burgess and Hamming answer "[i]n a supreme irony, it is only have the project [performance] has itself become the object of critical inquiry, for instance in a scholarly print article reflecting on the visual rhetorics of multimedia design, do these activities come into view. (Burgess & Hamming 2011)"
+
+What we are seeing, from an ethnomethodological perspective, is an "ordinary" activity, the locally situated performance, followed by the work of producing a suitable account of that activity. An account, the print articles reflecting _about_ the performance, satisfy existing expectations of the scholarly publishing. The reflexive activity of "making visible" the performance to a broader scholarly community, that is, making it cite-able, making it quote-able, making it count-able, is the location of interesting and understudied innovation This site is where the rubber hits the road for Ackerman's aphorism, it a uniquely creative kind of work where scholars and publisher's collaborate to fit square peg into round holes.
+
+The gap between the ordinary work of digital humanist scholars and the accounts they produce of that work is a rich space filled with innovations. Scholars whose work falls well outside the contexts of accountability, that is they don't fit within the traditional publishing models, must come up with creative ways to make their work count. I wish to show how these innovations push and prod the boundaries of traditional publishing, a modest, but relentless selection pressure aggregating from the work individual scholars and publishers to force traditional publishing to adapt.
+
 
 
 
