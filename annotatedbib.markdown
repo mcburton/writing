@@ -51,6 +51,10 @@
 1.  UCLA Digital Humanities & Media Studies. 2008. "A Digital Humanities Manifesto." Retrieved August 11, 2009 (http://dev.cdh.ucla.edu/digitalhumanities/2008/12/15/digital-humanities-manifesto/).
 1.  Unsworth, John. 2003. "The Humanist: ‘Dances with Wolves’ or ‘Bowls Alone’?" Retrieved August 31, 2009 (http://www.arl.org/resources/pubs/tribes/program.shtml).
 1.  Unsworth, John. 2002. "What is Humanities Computing, and What is Not?" (http://computerphilologie.uni-muenchen.de/jg02/unsworth.html)
+1. Check the Digital Humanities conferences proceedings 
+	* [DH2011](http://dh2011abstracts.stanford.edu/xtf/search?browse-title=first;sort=title)
+	* [DH2008](http://www.ekl.oulu.fi/dh2008/programme.html)
+	* [all DH conferece links](http://www.digitalhumanities.org/conference)
 
 ## Scholarly Publishing
 
