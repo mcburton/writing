@@ -45,8 +45,11 @@
 1.  Anon. n.d. "Scholarly Tribes and Tribulations: How Tradition and Technology Are Driving Disciplinary Change." Retrieved July 21, 2011b  (http://www.arl.org.proxy.lib.umich.edu/resources/pubs/tribes/program.shtml).
 1.  Hockey, S. 2004. "The history of humanities computing." A companion to digital humanities 1–19. (http://v.gd/oqlWN4)
 1.  McCarty, Willard. 2005. Humanities Computing. Palgrave Macmillan. (http://books.google.com/books?id=sop5QgAACAAJ)
+	- points out that humanists are not familiar with the literature on collaboration from science
+
 1.  Siemens, Ray, John Unsworth, and Susan Schreibman. 2004. Companion to Digital Humanities (Blackwell Companions to Literature and Culture). Hardcover. Oxford: Blackwell Publishing Professional Retrieved (http://www.digitalhumanities.org/companion/).
 1.  Svensson, P. 2010. "The landscape of digital humanities." Digital Humanities Quarterly 4(1). (http://digitalhumanities.org/dhq/vol/4/1/000080/000080.html)
+	- he defines multiple spheres of definition
 1.  Svensson, Patrik. 2009. "Humanities Computing as Digital Humanities." 3(3). Retrieved July 21, 2011 (http://www.digitalhumanities.org/dhq/vol/3/3/000065/000065.html).
 1.  UCLA Digital Humanities & Media Studies. 2008. "A Digital Humanities Manifesto." Retrieved August 11, 2009 (http://dev.cdh.ucla.edu/digitalhumanities/2008/12/15/digital-humanities-manifesto/).
 1.  Unsworth, John. 2003. "The Humanist: ‘Dances with Wolves’ or ‘Bowls Alone’?" Retrieved August 31, 2009 (http://www.arl.org/resources/pubs/tribes/program.shtml).

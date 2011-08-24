@@ -7,6 +7,11 @@ Those are the things that are changing. But what never changes and will not chan
 From a [1999 interview of Will Eisner by Ernesto Priego, found via HASTAC.](http://hastac.org/blogs/ernesto-priego/will-eisner-what-we-are-always-struggling-technology-storytelling)
 
 
+[in terms of scoping, list the things I'm not going to do...
+sage handbook on rhetoric chapter on digital rhetoric
+doug eyman trinity college open access rhetoric
+"digital rhetoric: Theory, method, practice"]
+
 ## Technology and the Humanities
 
 My interest for the purpose of the field prelim is to investigate how information technology has and currently affects scholarly practice in the humanities. Just as information technology has affected business, education, and science, it has also affected the humanities. These technologically induced changes have been extensively studied by HCI, CSCW, Sociology and Organizational Studies, my hope is to bring the insights from those domains to better understand the digital humanities.
@@ -53,7 +58,9 @@ This prelim has four chapters. A first chapter on the Digital humanities that in
 
 ### Chapter 1 - What are the Digital Humanities
 
-One cannot reasonably engage in any discussion about the digital humanities or its other nom de plume, humanities computing, without doing a bit of definitional work. This chapter will begin by looking at how technology is applying an adaptive pressure to the humanities and situate the humanities within the academy in the digital age. Christine Borgman's "Scholarship in a digital age" serves as a backbone to this discussion. From there I will briefly explore how the digital humanities has emerged as a response to several decades of innovation in information technology. I draw on canonical digital humanities/humanities computing (DH/HC) literature, for example the Blackwell Digital Humanities Companion and Unsworth's "What is Humanities Computing." The second half of this chapter engages in some pragmatic definitional work, teasing out a working distinction (if any) between the terms "digital humanities" and "humanities computing." The goal of this chapter is to show how new technology is fermenting (r)evolutionary change in humanities scholarship, especially in the dissemination of knowledge.
+One cannot reasonably engage in any discussion about the digital humanities or its other nom de plume, humanities computing, without doing a bit of definitional work. This chapter will begin by looking at how technology is applying an adaptive pressure to the humanities and situate the humanities within the academy in the digital age. Christine Borgman's "Scholarship in a digital age" serves as a backbone to this discussion. From there I will briefly explore how the digital humanities has emerged as a response to several decades of innovation in information technology. I draw on canonical digital humanities/humanities computing (DH/HC) literature, for example the Blackwell Digital Humanities Companion and Unsworth's "What is Humanities Computing." The second half of this chapter engages in some pragmatic definitional work, teasing out a working distinction (if any) between the terms "digital humanities" and "humanities computing." The goal of this chapter is to show how new technology is fermenting (r)evolutionary change in humanities scholarship, especially in the dissemination of knowledge
+
+[Julie picked 6 statements that attempted to define the field and "put them in dialog with each other"]
 
 ### Chapter 2 - Scholarly Publishing
 
