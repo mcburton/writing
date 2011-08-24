@@ -75,3 +75,9 @@ University presses have found themselves at the front lines of the technological
 
 Mpublishing is seen as a leader in the field of scholarly publishing, in part because of their active and ongoing experimental approach to scholarly knowledge production. Mpublishing is home to the Journal of Electronic Publishing, a publication that truly practices what it preaches. 
 Beyond ebooks and electronic journals, Mpublishing explores new modalities such as interactive web-sites, driven by modified blogging engines, t
+
+[knowledge production is intertwined with practice]
+
+Scholarly publishing is the production of Ethnomethodological accounts. It is the work of scholars to formulate what they have _done_ in accountable ways. This way of thinking means the practices of knowledge production in are intimately intertwined with those of scholarly publishing. 
+
+If we take seriously Crabtree's (2004) assertion that "the real world of things concrete only exists for human beings as a result of human practice, and as practice changes so does our understanding of the real world of things concrete." Then we consider seriously the fact that the digital humanities, as a change in humanist scholarly practice, may fundamentally threaten humanist knowledge. 
