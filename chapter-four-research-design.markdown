@@ -49,15 +49,14 @@ The gap between the ordinary work of digital humanist scholars and the accounts 
 ## EPUB3 - Designing Publishing Infrastructure
 
 Standards development and standard adoption is an excellent site to observe where the "rubber hits the road" for Ackerman's aphorism. The interactions across multiple communities of practice as they come to a common understanding reveal much about the assumptions and expectations of those communities (Rawls, Garcia, David, Mann, Burton 200?). We can unpack these dynamics using a technomethodologicial approach as advocated by Andy Crabtree:
-"
-	1. Let designers build whatever they want with whomever they want, subject to their own constraints.
-	2. Deploy the objects of design in real world settings.
-	3. Treat deployment as a breaching experiment. [TODO: describe breaching experiment]
-	4. Explicate the accountable structures of practical action made visible in the breach.
-	5. Explore the topics identified in the breach through the study of perspicuous settings. [TODO: describe perspicuous settings]
-	6. Use the studies of perspicuous settings to flesh out abstract design concepts.
-	7. Deploy the new design solution in real world settings and study its use.
-	8. Repeat the process until the research agenda has been satisfied for all practical purposes."
-" (Crabtree 2004)
+
+1.  Let designers build whatever they want with whomever they want, subject to their own constraints.
+2.  Deploy the objects of design in real world settings.
+3.  Treat deployment as a breaching experiment. [TODO: describe breaching experiment]
+4.  Explicate the accountable structures of practical action made visible in the breach.
+5.  Explore the topics identified in the breach through the study of perspicuous settings. [TODO: describe perspicuous settings]
+6.  Use the studies of perspicuous settings to flesh out abstract design concepts.
+7.  Deploy the new design solution in real world settings and study its use.
+8.  Repeat the process until the research agenda has been satisfied for all practical purposes. (Crabtree 2004)
 
 As of this writing, the EPUB 3 document format is nearly complete. The designers of the standards have "built whatever they want," rather quickly for standards designers I might add, and we will shortly witness the deployment of EPUB 3 into "real world settings." The latest epub standard is a radical technological advancement to its predecessor, as such it is an _experiment_ that _breaches_ our commonly held expectations of the book. EPUB 3 incorporates the latest web technologies enabling interactive, multimedia enriched presentations. How this technology, the the possibilities for knowledge dissemination it enables, is an open question. 
