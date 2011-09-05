@@ -39,6 +39,11 @@
 1.  Rosenzweig, Roy. 2010. Clio Wired: The Future of the Past in the Digital Age. Columbia University Press (http://books.google.com/books?id=4nivoPD7L40C).
 1.  Unsworth, John M. n.d. "Cyberinfrastructure for the Humanities and Social Sciences." Retrieved June 3, 2009  (http://www3.isrl.illinois.edu/~unsworth/Cyberinfrastructure.RLG.html).
 
+1. Working together apart (insert cite)
+	- "humanists have access to technology but are in search of questions: What scholarship becomes possible when, from their desktops, scholars can access vast stores of admittedly highly het-erogeneous data together with powerful capabilities for analysis and presentation?"
+	- infrastructure answers the "how" but humanities needs a research program to answer the "what" and "why"
+	- "we have observed four themes that transcend traditional disciplinary boundaries and resonate with major research topics in computer science: scale, language and com-munication, space and time, and social networking."
+	-
 
 ### What is Digital Humanities? A Brief Definition
 
@@ -194,5 +199,6 @@
 1.  Hales, Mike, and Joe Tidd. 2009. "The practice of routines and representations in design and development." Industrial and Corporate Change 18(4):551 -574. Retrieved May 3, 2011. (http://icc.oxfordjournals.org/content/18/4/551.abstract)
 1.  Pentland, Brian T, and Martha S Feldman. 2008. "Designing routines: On the folly of designing artifacts, while hoping for patterns of action." Information and Organization 18:235–250. Retrieved May 12, 2011. (http://www.sciencedirect.com/science/article/pii/S1471772708000298)
 1.  Pentland, Brian T., and Martha S. Feldman. 2005. "Organizational routines as a unit of analysis." Industrial and Corporate Change 14(5):793 -815. Retrieved May 3, 2011. (http://icc.oxfordjournals.org/content/14/5/793.abstract)
+
 
 
