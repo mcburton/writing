@@ -5,6 +5,9 @@
 ### Humanities Scholarship in the Digital Age 
 
 1.  Anon. n.d. "Hacking the Academy." Retrieved July 21, 2011a (http://hackingtheacademy.org/).
+	- these works reflect a rather radical, and purposefully confrontational approach to scholarship, teaching, and XXX, in the academy. 
+	- the styles is interesting, several of the articles (the one on open access publishing, and the one about journals & peer review) are written as lists. I find this interesting. Especially in light of the article "reading and writing" which criticizes the tendency towards light reading and "literary" writing.
+	- 
 1.  Borgman, C. L. 2009. "The digital future is now: A call to action for the humanities." Digital Humanities Quarterly 3(4) (http://digitalhumanities.org/dhq/vol/3/4/000077/000077.html).
 	- She defines DH as "digital humanities is a new set of practices, using new sets of technologies, to address research problems of the discipline"
 	- Digital humanities has a lot of catching up to do with the sciences, infrastructure is lacking.
@@ -78,7 +81,17 @@
 1.  Johns, A. 1998. The nature of the book: Print and knowledge in the making. University of Chicago Press. (http://books.google.com/books?id=ERpBdEUdhz8C)
 1.  Kirschenbaum, Matthew G. 2008. Mechanisms: New Media and the Forensic Imagination. The MIT Press. (http://books.google.com/books?id=CT0oPmcrciAC)
 1.  Kling, R., & Spector, L. (2002). Academic rewards for scholarly research communication via electronic publishing (No. WP- 02-13). Bloomington, IN: Center for Social Informatics. (http://hdl.handle.net/2022/167)
+	- Kling and Spector make an argument that electronic publications should not be discounted out of hand by virtue of the fact they are electronic in nature. They emphasize that publishing exists in a broad spectrum of possible states and they aught to be evaluated not on their form, but through a framework developed by Kling (1999)
+		- Publicity
+		- Trustworthiness
+		- Accessibility
+	- they promote this framework for tenure and promotion decisions, as opposed to dismissing epub out off hand.
+	- This raises a question, this is an old paper, are the claims about the dismissing of electronic publications still true?
+	- Another question, this article is mainly focused upon journal style publication, manuscripts to be submitted to journals, or articles published on scholars websites or on pre-print sites. Do these concerns and does the Kling framework apply to monographs?
 1.  Kling, R. (2003). The internet and unrefereed scholarly publishing (No. WP- 03-01). Bloomington, IN: Center for Social Informatics. (http://hdl.handle.net/2022/166)
+	- a historicized discussion of nomenclature in scholarly communication and scholarly publication. Looking at p-pub and comparing with e-pub.
+	- "We do not have a good theory to explain the ways in which different disciplines have selected these different architectures for communicating via unrefereed e-scripts. We also lack a good theory of why these practices are confined to a minority of academic disciplines.  Kling and McKim's (2001) effort which examines different features of a discipline (ie., relative visibility of projects, patentability of research products) as they pertain to trust between authors and readers stands out as the only systematic effort to conceptualize such disciplinary differences. "
+	- "scholarly publication is part of a much more complex  set of scholarly working arrangements that include credit-assignment and financing arrangements. Since these working arrangements change slowly in a discipline, only those disciplines whose working arrangements are congruent with communicating via unrefereed e-scripts will adopt and extend the practice."
 1.  Lynch, Clifford. 2010. "Imagining a University Press System to Support Scholarship in the Digital Age." Journal of Electronic Publishing 13(2). Retrieved (http://hdl.handle.net/2027/spo.3336451.0013.207).
 1.  Mandel, C. A, M. C Summerfield, and P. Kantor. 1997. "Online Books at Columbia: Measurement and Early Results on Use, Satisfaction, and Effect." (http://www.arl.org/resources/pubs/scat/mandel-2.shtml)
 1.  Sewell, David. 2009. "It’s For Sale, So It Must Be Finished: Digital Projects in the Scholarly Publishing World." 3(2). Retrieved July 21, 2011 (http://www.digitalhumanities.org/dhq/vol/3/2/000039/000039.html).
@@ -110,6 +123,13 @@
 1.  Waters, Lindsay, and Jana L. Argersinger. 2009. "Slow Writing; or, Getting Off the Book Standard: What Can Journal Editors Do?" Journal of Scholarly Publishing 40(2):129-142. Retrieved July 18, 2011. (http://muse.jhu.edu/journals/scp/summary/v040/40.2.waters.html)
 1.  Wicht, Lynn Silipigni Connaway and Heather L. 2007. "What Happened to the E-book Revolution? : The Gradual Integration of E-books into Academic Libraries." Journal of Electronic Publishing 10(3). Retrieved (http://hdl.handle.net/2027/spo.3336451.0010.302).
 1.  Willinsky 2009 Willinsky, J. (2009). "Toward the Design of an Open Monograph Press." Journal of Electronic Publishing, 12(1). (http://dx.doi.org/10.3998/3336451.0012.103)
+
+1. http://theincidentaleconomist.com/wordpress/direct-to-kindle-publishing/
+	- Don Tailor, a professor who blogs at theincidentaleconomist.com, recently wrote an "academic monograph" that he self-published using amazon's Kindle system in lieu of publishing with and academic press. His reasons for doing so related to the fact that his book, _Balancing the Budget is a Progressive Priority_, was extremely relevant to the debates and discussions about the debt ceiling that dominated political discourse in the summer of 2011. Had he gone with an academic publisher, the book would have come out in the summer of 2012, assuming everything went smoothly, nearly a year after the relevant policy debates that he was hoping the book would influence. So what did he do? He self-published the book on Amazon with some intentions to work with an academic press to publish a revised edition of the book (with some analysis of the outcome of the current policy debates).
+	- This is a very interesting, and I suspect soon-to-be-frequent, occurrence for academics who what to publishtime-sensitive monographs. The current system is simply _too slow_ for certain kinds of works. This is not necessarily universally true, not every academic text is time sensitive in the way that Tailor's book was time sensitive, but I believe his argument and justification for the decision was sound. There is one interesting point he makes however, he said:
+	 `I almost certainly would not have done this were I still an Assistant Professor who was still to be reviewed for tenure. However, I got tenure last year, so decided I would rather try and have my ideas have an impact and was therefore willing to risk getting less “academic credit.” Further, I am a professor in a School of Public Policy, and we claim to be interested in “policy engagement” so I decided to move ahead.`
+Here is the power of tenure perpetuating itself within the sphere of scholars. Tenure decisions loom like a black cloud over any professor, regardless of if they have tenure or not. There are two interesting questions that fall out of this, first, how often do academics publish using amazon and second, for those who do, how many already have tenure?
+	- This blog post is also interesting for another, much more banal reason, most of the post is dedicated to his account of the logistics of publishing using Amazon Direct Publishing. How much time did it take, how did formatting work, what was the submission process like, how did he reach his audience and promote his book, etc. These details are extremely interesting from a work-practice perspective because they make visible the ordinary work of publishing.  A very crude and brief review of his blog shows that his post about self-publishing logistics is one of the most popular (measured by  number of comments, I can't speculate about number of page views). Blog posts about "how to do X", especially if X is something new and not well understood are one surefire way to get readers. I found the post because it was linked to by one of the people I follow in my twitter feed (not Don Tailor). I suspect this post has been widely circulated, at least in the scholarly publishing circles in which I run. 
 
 ## Work Practice
 
@@ -199,6 +219,7 @@
 1.  Hales, Mike, and Joe Tidd. 2009. "The practice of routines and representations in design and development." Industrial and Corporate Change 18(4):551 -574. Retrieved May 3, 2011. (http://icc.oxfordjournals.org/content/18/4/551.abstract)
 1.  Pentland, Brian T, and Martha S Feldman. 2008. "Designing routines: On the folly of designing artifacts, while hoping for patterns of action." Information and Organization 18:235–250. Retrieved May 12, 2011. (http://www.sciencedirect.com/science/article/pii/S1471772708000298)
 1.  Pentland, Brian T., and Martha S. Feldman. 2005. "Organizational routines as a unit of analysis." Industrial and Corporate Change 14(5):793 -815. Retrieved May 3, 2011. (http://icc.oxfordjournals.org/content/14/5/793.abstract)
+
 
 
 
