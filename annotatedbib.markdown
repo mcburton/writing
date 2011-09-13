@@ -94,10 +94,47 @@
 	- "scholarly publication is part of a much more complex  set of scholarly working arrangements that include credit-assignment and financing arrangements. Since these working arrangements change slowly in a discipline, only those disciplines whose working arrangements are congruent with communicating via unrefereed e-scripts will adopt and extend the practice."
 1.  Lynch, Clifford. 2010. "Imagining a University Press System to Support Scholarship in the Digital Age." Journal of Electronic Publishing 13(2). Retrieved (http://hdl.handle.net/2027/spo.3336451.0013.207).
 1.  Mandel, C. A, M. C Summerfield, and P. Kantor. 1997. "Online Books at Columbia: Measurement and Early Results on Use, Satisfaction, and Effect." (http://www.arl.org/resources/pubs/scat/mandel-2.shtml)
+	- "Most if not all reference books are used more heavily online than in print. (Section 4.3.1)"
+	- "Early online reference books have experienced falling usage over time, substitution of use of a new delivery system for an old one, or a smaller rate of growth of use than might be expected given the explosion in access to and use of online resources in general. (Section 4.3.1)"
+	- technical limitation such as home access (via dialup), or access in places other than in front of a computer (this is the age before iPads, laptops, and wifi)
+	- digitizing books is not easy "it is much more difficult to bring books into online form than everyone has anticipated"
+	- technology was chaining too rapidly "growth of Web browser technology creates continuous pressure to improve the functionality of the books that go online. We are in the position of surgeons who must keep a patient active, while making drastic changes to that patient's anatomy."
 1.  Sewell, David. 2009. "It’s For Sale, So It Must Be Finished: Digital Projects in the Scholarly Publishing World." 3(2). Retrieved July 21, 2011 (http://www.digitalhumanities.org/dhq/vol/3/2/000039/000039.html).
+	- as I read the title and the abstract of this piece I am reminded of TK's presentation about the Archive Team and their efforts at Defcon TK. One of the interesting points he made during the presentation was how websites have dropped using the "under construction" animated gif. His reasoning for this was because in the modern web era, all websites are "under construction." A static website is a dead website. Everything is dynamic, blogs, tumblers, RSS, twitter feeds, Facebook walls, etc. Everything is constantly being updated because that is the only way to stay at the crest of the wave. In this dynamic age we have no need for an under construction gif because that is the normal expectation.
+	- big question: how does a scholarly contribution that is un-ending and dynamic get peer reviewed or purchased at an institutional level?
+	- there is a contradiction that has emerged, the distinction between "open" and "closed" has been conflated with "finished" and "unfinished." We valorize open and unfinished and demonized closed and finished. This is an interesting quadrant of analysis, especially if we think about visibility. Open and unfinished is visible in the raw (like this current document), open and finished is more akin to OER, closed and finished is the typical situation with most scholarly works. Closed and unfinished is nigh-invisible, we have no visibility to these scholarly objects until they are published. These are the file-drawer findings.
+	-"I would submit that early in the 1990s the postmodern admiration of the "open-ended" at the expense of the "closed" somehow got turned into a celebration of the "unfinished" and a suspicion of the "done," and that this transmutation may have been one of the things that delayed the entrance of digital scholarship into the traditional system of peer-reviewed academic publication."
+	- "Julia Flanders has observed in a memorable phrase that the digital humanities have sometimes suffered from "a culture of the perpetual prototype" [Flanders 2007], " Sewell goes on to draw a connection that "what was the postmodern project if not a cult of the perpetual prototype."
+	- The finished/unfinished conundrum might be the crux of my visibility problem. How can something count if it is unfinished? How can something so technological pre-disposed to dynamicism, like a blog, ever be finished? 
+	- paper then dives into a case study of several digital works produced by UVA press. in reference to these works "it is "done" when the Press is prepared to offer it for purchase and customers are prepared to buy it."
+	- Three examples: 
+		- digital imprints under the name Rotunda
+		- Herman Miller's Typee
+		- Papers of George Washington Digital Edition
+ 	- There is a nice analogy here to software development. Sofware is never done, but often it is "almost done." Zeno's paradox of software development.
+	- "intrinsic criteria are used in both cases to determine when the project qualifies as finished, but as project 2 is formally undecidable (embodying the Turing halting problem that Matt Kirschenbaum mentions in his introduction), extrinsic criteria are also required to make the determination."
+	- starting from the Turning halting problem (of which I am excited to see mentioned and am excited to see in Kirchembaum). sewell explores _intrinsic criteria_ and _extrinsic factors_. 
+	- "Intrinsic criteria are formalist: they assume that the completeness of an object derives from its inner properties alone, without reference to any social or other external context"
+	- there is a table that asks some nice questions and gives interesting examples
+		- Object has definable boundaries (yes/no)
+		- Object has satisfied its design goals (yes/no)
+		- Print examples
+		- digital examples
+		- is it done?
+		- from the combinatorial quadrant we get four categories 1, 2, 3 and 4. 
+	- while intrinsic criteria are important, extrinsic factors generally trump. 
+	- "scholarly discourse must be distributed in the form of discrete objects that can be shared, read or viewed, responded to, assimilated, quoted, disputed, and revised. In the marketplace of ideas, it's less important how you decide when your piece is done than that you do decide, label it and put it on display, and prepare to haggle with others over its value"
+
+
 1.  Steele, Colin. 2008. "Scholarly Monograph Publishing in the 21st Century: The Future More Than Ever Should Be an Open Book." Journal of Electronic Publishing 11(2). Retrieved (http://hdl.handle.net/2027/spo.3336451.0011.201).
 1.  Summerfield, M., C. Mandel, and P. Kantor. 1999. The Online Books Evaluation Project, Columbia University; Final Report. (Still looking for URL)
 1.  Wicht, Lynn Silipigni Connaway and Heather L. 2007. "What Happened to the E-book Revolution? : The Gradual Integration of E-books into Academic Libraries." Journal of Electronic Publishing 10(3). Retrieved (http://hdl.handle.net/2027/spo.3336451.0010.302).
+	- review of e-book lit from 2000-2007. Try to explain the slow adoption of ebooks & some of the issues related to ebooks online
+	- comprehensive history of ebooks, beginning with Bush's Memex and early attempts to implement it to the Google books project.
+	- ebook use among librarians is complicated by the difficulty for both librarians and patrons to find and use ebooks. Also the acquisition of ebooks is complicated and librarians ars still uncomfortable purchasing digital over print books.
+	- info seeking behavior of students & scholars re ebooks: they use public resources like google, yahoo, or amazon to find digital texts. They print if they can. They find library info systems to be confusing.
+	- "Several themes consistently appear in the literature on the barriers to the adoption and integration of e-books into library collections, services, and systems. These include the lack of e-book and hardware standards; incompatible rights and operability; unrealistic price, purchase, and access models; and limited discovery and delivery options."
+	- The basic gist here is that while ebook and digital distribution technology hold a lot of promise, they are still far to complicated due to lack of standardization (format & hardware), do to intellectual property confusion and because of difficulties purchasing and using ebooks. Essentially, the playing field for ebooks is far to challenging, especially for the non-power user. Until these complications are worked out, the advantages that ebooks afford cannot be worked out. This is especially troubling considering ebooks have been around for such a long time as evidenced by their telling of the history of ebooks.
 
 ### The Crisis of Scholarly Monograph Publishing. 
 
@@ -219,6 +256,7 @@ Here is the power of tenure perpetuating itself within the sphere of scholars. T
 1.  Hales, Mike, and Joe Tidd. 2009. "The practice of routines and representations in design and development." Industrial and Corporate Change 18(4):551 -574. Retrieved May 3, 2011. (http://icc.oxfordjournals.org/content/18/4/551.abstract)
 1.  Pentland, Brian T, and Martha S Feldman. 2008. "Designing routines: On the folly of designing artifacts, while hoping for patterns of action." Information and Organization 18:235–250. Retrieved May 12, 2011. (http://www.sciencedirect.com/science/article/pii/S1471772708000298)
 1.  Pentland, Brian T., and Martha S. Feldman. 2005. "Organizational routines as a unit of analysis." Industrial and Corporate Change 14(5):793 -815. Retrieved May 3, 2011. (http://icc.oxfordjournals.org/content/14/5/793.abstract)
+
 
 
 
