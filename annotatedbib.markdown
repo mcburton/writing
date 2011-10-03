@@ -51,6 +51,7 @@
 ### What is Digital Humanities? A Brief Definition
 
 1.  Anon. n.d. "Scholarly Tribes and Tribulations: How Tradition and Technology Are Driving Disciplinary Change." Retrieved July 21, 2011b  (http://www.arl.org.proxy.lib.umich.edu/resources/pubs/tribes/program.shtml).
+1. Kirschenbaum, Matthew. 2010. "What Is Digital Humanities and What's It Doing in English Departments?" ADE Bulletin. Number 150, 2010. (http://mkirschenbaum.files.wordpress.com/2011/01/kirschenbaum_ade150.pdf)
 1.  Hockey, S. 2004. "The history of humanities computing." A companion to digital humanities 1–19. (http://v.gd/oqlWN4)
 1.  McCarty, Willard. 2005. Humanities Computing. Palgrave Macmillan. (http://books.google.com/books?id=sop5QgAACAAJ)
 	- points out that humanists are not familiar with the literature on collaboration from science
@@ -67,6 +68,12 @@
 	* [DH2008](http://www.ekl.oulu.fi/dh2008/programme.html)
 	* [all DH conferece links](http://www.digitalhumanities.org/conference)
 
+1. Pannapacker, William. 2011. "Big-Tent Digital Humanities: a View From the Edge, Part 2" The Chronicle of Higher Education. September 18 2011. (http://chronicle.com/article/Big-Tent-Digital-Humanities-a/129036/)
+	- Pannapacker defines digital humanities in a way I really like. His definition situates DH within a larger academic cultural context, a context that is specifically undergoing a radical change. He sums it up - "Digital humanities is a comprehensive activist project that uses technology to respond to the interconnected cultural and structural problems of academe." he goes on "It redefines the nature of academic careers while dealing with longstanding disciplinary conversations. And it engages in complex, theoretical heavy lifting while building projects that are often based on the Internet, available to the public, and indisputably useful...Like the founders and builders of museums, libraries, concert halls, and critical editions in the last century, digital humanists are creating the new infrastructure of our history and culture and changing the nature of education and scholarship."
+	- I think it is no coincidence that I see many self-identified digital humanists writing blog posts, articles and op-eds not only about the changes in their own discipline, but about the broader changes happening in higher education. While the focus is generally on the humanities, the university as an institution or about the nature of being a scholar in general, the sciences do come into play, at least in their relation to the institution. Scientific research however is generally not a topic oft written about in this context.
+
+	
+
 ## Scholarly Publishing
 
 ### Mechanics of New Digital Publishing
@@ -76,6 +83,13 @@
 1.  Cecile M. Jagodzinski. 2008. "The University Press in North America: A Brief History." Journal of Scholarly Publishing 40(1):1-20. Retrieved July 18, 2011. (http://muse.jhu.edu/journals/scp/summary/v040/40.1.jagodzinski.html)
 1.  Donatich, John. 2009. "Why Books Still Matter." Journal of Scholarly Publishing 40(4):329-342. Retrieved July 18, 2011. (http://muse.jhu.edu/journals/scp/summary/v040/40.4.donatich.html)
 1.  Esposito, Joseph J. 2010. "Stage Five Book Publishing." Journal of Electronic Publishing 13(2). Retrieved (http://hdl.handle.net/2027/spo.3336451.0013.204).
+	- Argument here is that publishers need to move beyond the sustainability montra, for that implies that the current status quo is something worth maintaining, and start thinking about innovation and growth. Esposito believe that "marketing" is the key to this growth.
+	- To help academic publishers think about the future he has created a five stage framework. 
+	- The editorial function is the most important function because it is, from the perspective of energy, the function that costs the most. If we think about the digital ecosystem, the cost of adding things into the mix is cheap. Blogs, tweets, epubs, the marginal cost (is this what I mean, marginal cost?) approaches zero. But curating from that flood of information is increasingly difficult. There is a very fundamental principal at work here, a principal from information theory and physicals. There is a really good description of this principal in Gleick's history of information. Basically, adding information to a system is easy, _removing_ information from the system is hard.
+	- [my opinion] The challenge for presses is to assert/insert themselves as the agents of  information removal/deletion/curation/selection. They need to switch their roles, away from that of a publisher of information, to that of selectors of information. It is apropos that Raggae/danchall DJ's used to call themselves Selectors. http://en.wikipedia.org/wiki/Selector_(disc_jockey)
+	- What is the scholarly equivalent of the DJ. The Scholarly Selector. The Journal Jockie. DJ Monograph.
+	-"Although we know a publisher by its editorial choices, the organizational and business context in which those choices are made have become increasingly complex, and that complexity is likely to grow even more in the years ahead" The work of a publisher extends well beyond their editorial role. Before the current complexities of the publishing ecosystem, presses distinguished themselves via their editorial prowess. But now there are a host of other decisions that distinguish them. "There is almost nothing about scholarly publishing that is not changing. Thus, the editorial strategy is but one of many factors that go into a particular press's success. And this is the reason that university presses today have to think and plan beyond their editorial departments."
+
 1.  Fitzpatrick, Kathleen. 2007. "CommentPress: New (Social) Structures for New (Networked) Texts." Journal of Electronic Publishing 10(3). Retrieved (http://hdl.handle.net/2027/spo.3336451.0010.305).
 1.  Fraser, John W. Maxwell and Kathleen. 2010. "Traversing The Book of Mpub: an Agile, Web-first Publishing Model." Journal of Electronic Publishing 13(3). Retrieved (http://hdl.handle.net/2027/spo.3336451.0013.303).
 1.  Johns, A. 1998. The nature of the book: Print and knowledge in the making. University of Chicago Press. (http://books.google.com/books?id=ERpBdEUdhz8C)
@@ -127,6 +141,18 @@
 
 
 1.  Steele, Colin. 2008. "Scholarly Monograph Publishing in the 21st Century: The Future More Than Ever Should Be an Open Book." Journal of Electronic Publishing 11(2). Retrieved (http://hdl.handle.net/2027/spo.3336451.0011.201).
+	- this is heavily focused on open access
+	- "The British Academy was greatly concerned in 2005 about the impact of such trends and decline of the scholarly monograph:
+	In the 1960s and 1970s, far fewer monographs were published than now, with routine global sales of 1500 or more. But these sales levels were not sustained, and a declining sales step-curve has been evident throughout the past quarter century, with a vicious circle of declining sales driving higher prices driving declining sales. Individual publishers have responded by issuing more and more individual titles, but with lower expectations of each. Global sales can now be as low as 250 or 300 in some fields. At some point in the 1990s, the UK academy ceased to be a self-sustaining monographic community: the subjects that have survived and/or thrived in this context have been those (like economics or linguistics or classics) with international appeal. (British Academy 2005)"
+	- "In 2004 Blaise Cronin and Kathyrn La Barre surveyed major US universities and found that a scholarly monograph was still an essential prerequisite for promotion and tenure in those universities and highlighted the need for new measures of scholarly evaluation, other than simply the monograph publication itself. (Cronin and La Barre, 2004)"
+	- "The Modern Language Association of America has regularly outlined its concerns on the scholarly monograph crisis and the need for new metrics to demonstrate scholarly value. (Modern Language Association 2006) “the vast majority of doctoral students in the social sciences and humanities will never see their theses published in traditional monographic form by university presses.”
+	- "One of the major issues for getting E-press monographs accepted is faculty conservatism, for example, in terms of the use of print books for review purposes and the belief that electronic content is somehow less prestigious than its print equivalent. The restructuring by Columbia University Press of its Gutenberg-e monographs to open access has highlighted some of the structural issues in regard to faculty perceptions. (Howard 2008)"
+	- good point about how the importance of the monograph is lost onSTM folks. "The early 2008 correspondence on the Liblicense and American Scientist email discussion lists have reflected a view by some correspondents that open access monographs are not part of the open access debate. Such comments typically come from those with an STM background who seem unaware of the importance of the book in the social sciences and humanities and the problems of the last two decades. The open access debate is about all disciplines and all scholarly publishing, not simply STM articles, and needs to be linked into university-wide missions of disseminating knowledge. (Thatcher 2007)"
+	- "Cathrine Harboe-Ree, the librarian of Monash University, has provided an overview of the philosophies in the establishment of these e-presses. (Harboe-Ree 2007) This is not to say that librarians see themselves as publishers, nor to decry the difficulties that university presses face, but the library, in scholarly communication terms, is well placed to facilitate a wider distribution of university research." The library is becoming, it seems, an institutional umbrella that can provide cover for the changes occuring in scholarly publishing and scholarly communication. It seems that better understanding how these libraries are functioning as "trading zones"  (porter) or as "safe" fudging space (in the EM sense of the term) that allow radically transformitive practice to be enacted without being held back by traditional structures of accountability. Libraries and librarians, have been at the head of these technological catalyzed transformations for several decades. (recall dan klyn's anectote about how when people needed web-pages they turned to librarians.) Librarians and libraries are _incubators_.
+	- "Sydney University Press (SUP), which was re-established by Sydney University in 2003 under library management, places the press within a wider perspective of e-scholarship in order to address the challenges of scholarly publication in the networked environment. SUP has a “hybrid production and philosophical approach to scholarly publishing ... expressed in terms of delivering both digital and print (on demand) content as appropriate, and a mix of open and paid delivery of publications”. (Coleman 2008)" Seems like a similar move to UofM with the formation of MPublishing.  
+	- How many universities have migrated their presses into their libraries? How does institutional innovation transform the practices of publishing? Why was this necessary for the formation of the epress?
+	- evaluating monographs via citation metrics is difficult "The assessment of research excellence through books, a key issue in the humanities and social sciences, is a neglected topic. In the monograph context the assessment of citations through databases such as Thomson's Web of Science is not a quick exercise due to the lack of automated source material. " and "books are typically not available electronically for citation purposes, and so must be searched manually for references. (Butler and Visser 2006)"
+
 1.  Summerfield, M., C. Mandel, and P. Kantor. 1999. The Online Books Evaluation Project, Columbia University; Final Report. (Still looking for URL)
 1.  Wicht, Lynn Silipigni Connaway and Heather L. 2007. "What Happened to the E-book Revolution? : The Gradual Integration of E-books into Academic Libraries." Journal of Electronic Publishing 10(3). Retrieved (http://hdl.handle.net/2027/spo.3336451.0010.302).
 	- review of e-book lit from 2000-2007. Try to explain the slow adoption of ebooks & some of the issues related to ebooks online
@@ -135,6 +161,8 @@
 	- info seeking behavior of students & scholars re ebooks: they use public resources like google, yahoo, or amazon to find digital texts. They print if they can. They find library info systems to be confusing.
 	- "Several themes consistently appear in the literature on the barriers to the adoption and integration of e-books into library collections, services, and systems. These include the lack of e-book and hardware standards; incompatible rights and operability; unrealistic price, purchase, and access models; and limited discovery and delivery options."
 	- The basic gist here is that while ebook and digital distribution technology hold a lot of promise, they are still far to complicated due to lack of standardization (format & hardware), do to intellectual property confusion and because of difficulties purchasing and using ebooks. Essentially, the playing field for ebooks is far to challenging, especially for the non-power user. Until these complications are worked out, the advantages that ebooks afford cannot be worked out. This is especially troubling considering ebooks have been around for such a long time as evidenced by their telling of the history of ebooks.
+
+1. SCI 9 Report "New-Model Scholarly Communication: Road Map for Change" 9th Scholarly Communication Institute. 2011. (http://www.uvasci.org/current-institute/sci-9-report/)
 
 ### The Crisis of Scholarly Monograph Publishing. 
 
@@ -257,6 +285,11 @@ Here is the power of tenure perpetuating itself within the sphere of scholars. T
 1.  Pentland, Brian T, and Martha S Feldman. 2008. "Designing routines: On the folly of designing artifacts, while hoping for patterns of action." Information and Organization 18:235–250. Retrieved May 12, 2011. (http://www.sciencedirect.com/science/article/pii/S1471772708000298)
 1.  Pentland, Brian T., and Martha S. Feldman. 2005. "Organizational routines as a unit of analysis." Industrial and Corporate Change 14(5):793 -815. Retrieved May 3, 2011. (http://icc.oxfordjournals.org/content/14/5/793.abstract)
 
+
+
+### Research Proposal
+
+1. Park, Ji-Hong & Shim, JiYong. 2011. "Exploring How Library Publishing Services Facilitate Scholarly Communication." Journal of Scholarly Publishing. 43. 76-89. 2011-10-1. http://utpjournals.metapress.com.proxy.lib.umich.edu/content/23361h5514m20608/?p=434cb0141d2c4dc38a633533ec767854&pi=5 --Not available at umich. check http://muse.jhu.edu/journals/scp/
 
 
 
