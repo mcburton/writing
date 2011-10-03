@@ -4,7 +4,14 @@
 
 [This draft of the research design is drawing on concepts straight out of ethnomethodology, especially ethnomethodological "accounts." The previous chapters, once written, will hopefully situate and develop those concepts within the digital humanities and scholarly publishing. Ackerman's aphorism is not yet fully developed and is being used right now as a conceptual bridge between the motivations described in the introduction and the research proposed here.
 
-this prose is severely un-edited.]
+this prose is severely un-edited.
+
+TODO: Explore the finished/unfinished, when is it "done" question. How do publishers and creators of digital objects know when something is "done?"
+What are the implications of being "done"
+	- intrinsic / extrinsic
+	- scholarly contribution
+	- logistics
+]
 
 The theoretical and conceptual interest of this research is "Ackerman's Aphorism." I'll explore the disparity between technological possibility and social acceptability. Like the disparity between social fluidity and technological rigidity, I believe the gap between technology and social practice, or between techno-practice and accounts, provides a fruitful site for informing a broader understanding of human machine interaction. Humanists face, perhaps now more than ever, the tensions of Ackerman's aphorism. As science studies has shown, designing and building (cyber)infrastructure is not simply a matter of "build it an they will come." As humanists embrace scholarship in the digital age, a change embodied in the digital humanities, they will wrestle with many of the similar problems that have been studied in workplaces or in science space. However, epistemological differences in the humanist community of practice may reveal unique features of their work-practice as they "technologize." 
 
