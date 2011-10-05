@@ -169,6 +169,16 @@
 1.  Association of American University Presses, "Digital Publishing in the AAUP Community; Survey Report: Winter 2009-2010," (http://aaupnet.org/resources/reports/0910digitalsurvey.pdf)
 1.  Alonso, C. J, C. N Davidson, J. Unsworth, L. Withey, and American Council of Learned Societies. 2003. Crises and opportunities: the futures of scholarly publishing. American Council of Learned Societies. (http://www.acls.org/Publications/OP/57_Crises_and_Opportunites.pdf)
 1.  Anon. n.d. "Kairos 15.2: Gold, ‘Becoming Book-Like: Bob Stein and the Future of the Book’ (Interview)." Retrieved July 21, 2011a (http://kairos.technorhetoric.net/15.2/interviews/).
+1. Blair, Ann. 2010. "The Chronicle Review: Information Overload, then and now" The Chronicle of Higher Education. (http://chronicle.com/article/Information-Overload-Then-and/125479/)
+1. Blair, ann. 2010. Too Much to Know: Managing Scholarly Information Before the Modern Age. TODO cite.
+	- So Blair is focusing mainly on reference works and note collections in early, pre-modern Europe. These genres help manage the ever-present "information management" challenges faced by the proliferation of books and texts made possible by the printing press (and other factors?). It is important to note however that these genres of text management had existed since the middle ages. 
+	-"My purpose in studying reference tools in early modern Europe, and how they were conceived, produced, and used by contemporaries, is to gain insight into the ideals and practices of what one can anachronistically call “information management” in a period prior to our own."
+	-"The perception of overload is best explained, therefore, not simply as the result of an objective state, but rather as the result of a coincidence of causal factors, including existing tools, cultural or personal expectations, and changes in the quantity or quality of information to be absorbed and managed."
+	-"Nonetheless, the basic methods we deploy are largely similar to those devised centuries ago in early reference books. Early compilations involved various combinations of four crucial operations: *storing, sorting, selecting, and summarizing*, which I think of as the four S’s of text management." this might provide an interesting basis for a comparison between physical books and ebooks
+	- the information explosion renaissance led to the emergence of new forms of text management, namely manuscript notes and reference works. 
+	- the section in chapter one, "impacts of printing" is a nice description of the new textual forms afforded by the printing press as well as some commentary about their adoption.
+	- Seneca represents the conservative tradition  - " [insert pithy quote]"too many books whereas Pliny the Elder represents the progressive tradition - "no book so bad" there is always something of value in every book
+
 1.  Davidson, C. N. 2004. "The futures of scholarly publishing." Journal of scholarly publishing 35(3):129–142. (http://muse.jhu.edu/journals/journal_of_scholarly_publishing/summary/v035/35.3davidson.html)
 1.  Fitzpatrick, K. 2010. "Planned obsolescence: Publishing, technology, and the future of the academy." (http://mediacommons.futureofthebook.org/mcpress/plannedobsolescence/)
 	- Challanges, and proposes solutions to, five practice and institutions
@@ -290,6 +300,7 @@ Here is the power of tenure perpetuating itself within the sphere of scholars. T
 ### Research Proposal
 
 1. Park, Ji-Hong & Shim, JiYong. 2011. "Exploring How Library Publishing Services Facilitate Scholarly Communication." Journal of Scholarly Publishing. 43. 76-89. 2011-10-1. http://utpjournals.metapress.com.proxy.lib.umich.edu/content/23361h5514m20608/?p=434cb0141d2c4dc38a633533ec767854&pi=5 --Not available at umich. check http://muse.jhu.edu/journals/scp/
+
 
 
 
