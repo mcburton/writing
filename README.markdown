@@ -38,4 +38,7 @@ Third, to begin relating the digital humanities and scholarly publishing I synth
 
 Finally, I review the recent discussion, in both peer-review and gray literature, anxiously portending the "crisis of scholarly publishing." This crisis is evidence of the broader paradigm shift in the humanities of which the digital humanities is a salient part. Scholarly publishing and the digital humanities are intimately related and any destabilizing change threatens the practices by which digital humanists constitute knowledge. Through the lens of sociotechnical work-practice and the production of accounts, I believe this crisis raises serious questions about how new forms of work are made _visible_ and _accountable_ under the existing regime of scholarly publishing.
 
+A diagrammatic representation:
+![A visual representation of what I'm talking about](boundaries.jpg)
+
 The final section of this project is a research proposal that attempts to fill the gaps identified in this literature review. 
