@@ -41,7 +41,7 @@ Finally, I review the recent discussion, in both peer-review and gray literature
 A diagrammatic representation:
 
 
-<img src="/mcburton/writing/raw/master/boundaries.jpg" width="436" height="459"/>
+<img src="/mcburton/writing/raw/master/boundaries.png" width="436" height="459"/>
 
 
 The final section of this project is a research proposal that attempts to fill the gaps identified in this literature review. 
