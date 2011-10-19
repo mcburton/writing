@@ -281,6 +281,20 @@ Here is the power of tenure perpetuating itself within the sphere of scholars. T
 1.  Szymanski, Margaret H., and Jack Whalen. 2011. 'Making Work Visible: Ethnographically Grounded Case Studies of Work Practice.' 1st ed. Cambridge University Press. (http://books.google.com/books?id=HuC9Zf7IRywC)
 1.  Engeström, Yrjö. (2000) 'From individual action to collective activity and back: developmental work research as an interventionist methodology'. In Luff, P., J. Hindmarsh, C. Heath, eds. Workplace Studies: Recovering Work Practice and Informing Systems Design. Cambridge: Cambridge University Press (http://books.google.com/books?id=w5S8sLDhAqQC)
 
+From STUDIES OF WORK IN THE PROFESSIONS AND SCIENCES
+Discipline and the Material Form of Images - Michael Lynch
+An Analysis of Scientific Visibility
+Cultures of Proving - Eric Livingstone
+Lebenswelt Structures of Galilean Physics: The Case of Galileo's Pendulum - Dusan I. Bjelic
+Classroom "Floors" - Douglas Macbeth
+Material Organizations as a Course of Affairs
+Introduction to Hermeneutics of the Occult - Trent Eglin
+Alchemy
+Representing Practice in Cognitive Science - Lucy A. Suchman
+Project Work - Graham Button & Wes Sharrock
+The Organisation of Collaborative Design and Development in Software Engineering
+Seeing in Depth - Charles Goodwin
+
 ### Organizational Routine
 
 1.  Becker, M., M. C Becker, and N. Lazaric. 2009. Organizational routines: advancing empirical research. Edward Elgar Publishing. (http://books.google.com/books?id=8DHhSs8r5iMC)
