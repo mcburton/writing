@@ -1,3 +1,50 @@
+=== Paul Meeting
+
+First thing to do is create three abstracts for each of the sections.
+1. Digital Humanities - I want to express, in other peoples words, a useful distinction between humanities computing and digital humanities. I see humanities computing as new research methods and research objects (made possible by technology) producing and constituting knowledge within the traditional system of what I will be calling a Regime of Accountability. Digital humanities on the other-hand is more than just new methods and objects, it also challenges the very system which constitutes knowledge, the "regime of accountability," it challenges the institution of scholarly publishing. I know this because alongside the discussions about Digital Humanities practice (embodied in Unsworths handbook) there is a multitude of conversations about change in the academy. Look at the countless op-eds in the chronicle of higher-ed (and elsewhere) chronicling the anxieties of (digital) humanists about what it is they are supposed to do. Furthermore, there are a multitude of anxieties about the fact that the amount of work is "too damned high." We might say it is "information overload" but really it is _work overload_.
+
+2. Scholarly Publishing as a regime of Accountability - I want to talk a bit about the current system of scholarly publishing, the mechanisms of scholarly publishing, and how that it adds up to form a "regime of accountability" (using accountability in the ethnomethodological term). It is through scholarly publishing, through the mechanisms of peer review and monograph publication, that humanist knowledge is constituted. THe production of a monograph or of a journal article are "accounts" of work. Accounts are always produced to fit within some standard set of practices/expectations. It is similar to the constitution of scientific knowledge (I can draw on Garfinkel, Lynch & Livingston here). 
+
+3. There is a crisis in scholarly publishing. This means that the regime of accountability has been destabilized. There are a host of factors contributing to this, economic, political, institutional, societal, etc. The digital humanities is merely one of these factors. The production of humanist monographs has become, in the words of scholarly publishers, 'unsustainable.' This crisis contributes to the feelings of Work Overload experienced by digital humanists. If we conflate work overload with information overload then I think we are currently in a situation not unlike the one described by Anne Blair in Too Much To Know. We are in a cambrian explosion, but if we have faith, then new patterns and forms of work, new tools, new infrastructure, new _habits and routines_ will emerge to alleviate this tensions. Already we can see how individual scholars are starting to cope and how they fudge around the requirements of the existing Regime of Accountability. While this fudging doesn't amount to a new regime, it does reveal "cracks in the current paradigm" (kuhn). Perhaps that is it. We are undergoing a paradigm shift, not in content of scholarly work, but in the way that we account for it (which we might argue is what Kuhn was _actually_ talking about...)
+
+
+
+Synthesis, Synthesis, Synthesis!
+- What are other people's concerns
+- express this arguement in other people's words.
+
+
+
+=== Argument sequence idea (5oct11)
+
+*  Introduction to the topics of interest
+	- Digital Humanities
+	- Scholarly Publishing
+	- Practice & Accounts
+	- Research Design
+*  Introduction to some key concepts
+	- Situated Practice (suchman)
+	- Regime of Accountability (garfinkel, lynch)
+	- Digital Humanities as a Situated Practice
+	- Scholarly Publishing as a Regime of Accountability
+* Digital Humanities 
+	- Humanities Scholarship in a digital age. (borgman)
+	- Humanities Computing vs. Digital Humanities (Unsworth)
+		- Broader implications of Digital Humanities challenging the Regime of Accountability
+* Scholarly Publishing
+	- The Mechanisms of Scholarly Publishing
+		- Traditional Scholarly Publishing as a facet of the Regime being challenged by DH.
+	- Emergence of a Crisis
+		- This crisis is bigger than just Digital Humanities 
+			- Potential relations to science?
+* Information / Work Overload and Habitual/Routinized relief
+	- The anxieties of the DH and crisis in SP are manifestations of information anxiety/overload
+	- The existing Regime of Accountability is designed to reduce the information anxiety of previous disruptions of practice
+	- The new practices warrant a new set of accountability systems to relieve pressure
+		- the pressure isn't information overload per-se, it is "work overload"
+			- "I have to be on twitter now too!?" or "There isn't enough time to do all that is required"
+	- New collective habits and routines aligned with new expectations of accounts will emerge in time.
+
 === Notes from Finn Meeting (friday 30sept11)
 
 I think I have devised an argument and a structure for that argument. The argument is that the digital humanities and the crisis in scholarly publishing are both aspects of a larger shift and restructuring in what I am calling the "Regime of accountability" that constitutes knowledge in the academy. Regime of acocuntabilt is my adaption of ethnomethodological accounts to be applied to the context of humanistic monograph production. 
