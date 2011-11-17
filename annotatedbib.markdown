@@ -48,17 +48,70 @@
 	- "we have observed four themes that transcend traditional disciplinary boundaries and resonate with major research topics in computer science: scale, language and com-munication, space and time, and social networking."
 	-
 
+
+
+
+
+
 ### What is Digital Humanities? A Brief Definition
 
 1.  Anon. n.d. "Scholarly Tribes and Tribulations: How Tradition and Technology Are Driving Disciplinary Change." Retrieved July 21, 2011b  (http://www.arl.org.proxy.lib.umich.edu/resources/pubs/tribes/program.shtml).
 1. Kirschenbaum, Matthew. 2010. "What Is Digital Humanities and What's It Doing in English Departments?" ADE Bulletin. Number 150, 2010. (http://mkirschenbaum.files.wordpress.com/2011/01/kirschenbaum_ade150.pdf)
+	-  main claim - "computers have been part of our disciplinary lives for well over two decades now. During this time digital humanities has accumulated a robust professional apparatus that is probably more rooted in En glish than any other departmental home."
+	- In talking about the Wikipedia definition of DH "a glance at the page's View history tab reveals individuals closely associated with the digital humanities..."  The "view history" tab in wikipedia is like the "view source" tab in web browsers. with one click we can see the provenance of a statement within wikipedia. These "source" views are extremely powerful and I think we haven't quite come to grips with just how powerful they are. Kirshenbaum is, through the power of view-history, able to contextualize the wikipedia definition, tracing its provenance back to authorities in the digital humanities world. What is interesting is that he didn't take the wikipedia definition at face value, he looked deeper. 
+	- "at its core, then, digital humanities is more akin to a common methodological outlook than an investment in any one specific set of texts or even technologies....Yet digital humanities is also a social undertaking. It harbors networks of people who have been working together, sharing research, arguing, competing, and col-laborating for many years. " - to claim it is merely method is to cut off and isolate all of the social "work" that has emerged from the intersection of humanities and technology. It ignores the _communicative_ change in favor of the _computational_ change.
+	- Three Key events in the emergence of the "digital humanities"
+		- The Companion to the Digital Humanities
+		- Formation of the Alliance of Digital Humanities Organizations
+		- The Digital Humanities Initiative by the NEH
+	- Brett Bobley on Digital Humanities vs humanities computing - "seemed to cast a wider net than “humanities computing” which seemed to imply a form of computing, whereas “digital humanities” implied a form of human-ism. I also thought it would be an easier sell to the humanities community to have the emphasis on “humanities.”" I have said this before, but I think it is important that a funding agency has taken a big tent, communicative approach to digital humanities rather than a HC, computational approach. There seems to be a purposeful movement away from the computational implication and towards the "bigger" implications which for my purposes I am going to call "communicative" because, well, I'm not sure how you can get any bigger than communicative. It is all about the communication.
+	- Kirschenbaum also explicitly acknoledge the impact of twitter, citing MLA '09 when all the DH'ers tweeted up a storm.
+	- "the network effects of blogs and Twitter at a moment when the academy itself is facing massive and often wrenching changes linked both to new technologies and the changing political and economic landscape has led to the construction of “digital humanities” as a free- floating signifier, one that increasingly serves to focus the anxiety and even outrage of individual scholars over their own lack of agency amid the turmoil in their institutions and profession."
+	- "Digital humanities has also, I would propose, lately been galvanized by a group of younger (or not so young) graduate students, faculty members (both tenure line and contingent), and other academic professionals who now wield the label “digital humanities” instrumentally amid an increasingly monstrous institutional terrain defined by declining public support for higher education, rising tuitions, shrinking endowments, the proliferation of distance education and the for- profit university, and, underlying it all, the conversion of full- time, tenure- track academic labor to a part- time adjunct workforce. "
+	- "Whatever else it might be then, the digital humanities today is about a scholarship (and a pedagogy) that is publicly visible in ways to which we are generally unaccustomed, a scholarship and pedagogy that are bound up with infrastructure in ways that are deeper and more explicit than we are generally accustomed to, a scholarship and pedagogy that are collaborative and depend on networks of people and that live an active 24/7 life online."
 1.  Hockey, S. 2004. "The history of humanities computing." A companion to digital humanities 1–19. (http://v.gd/oqlWN4)
 1.  McCarty, Willard. 2005. Humanities Computing. Palgrave Macmillan. (http://books.google.com/books?id=sop5QgAACAAJ)
 	- points out that humanists are not familiar with the literature on collaboration from science
 
 1.  Siemens, Ray, John Unsworth, and Susan Schreibman. 2004. Companion to Digital Humanities (Blackwell Companions to Literature and Culture). Hardcover. Oxford: Blackwell Publishing Professional Retrieved (http://www.digitalhumanities.org/companion/).
+* The Past, Present, and Future of Digital Libraries - Howard Besser
+	- "Though the promise of digital technology in almost any field has been to let one do the same things one did before but better and faster, the more fundamental result has often been the capability of doing entirely new things. It is very possible that digital libraries will enable future humanities scholars to engage in new activities that we haven't yet envisioned." echos of a revolution/evolution. the environment has shifted, now we have to explore various adaptations to find new niches.
+	- conceptual steps of technological development "The conceptual steps typically include first trying to replicate core activities that functioned in the analogue environment, then attempting to replicate some (but not all) of the non-core analogue functions, then (after using the systems for some time) discovering and implementing new functions that did not exist within the previous analogue environment."  - echos of macluhan ' the old medium becomes the message of the new medium'
+	- Besser argues for the importance of (metadata) standards, but I wonder to what extent timing is a key factor of standardization and adoption of said standard. Standardize too soon and you risk not fully taking advantage of the affordances of the new medium, standardize too late and you risk ???? non-adoption and irrevelant (XHTML 2.0).
+	- he is walking around Semantic web / linked data standards. I think one of the major challenges for these technologies is that they do no include the actor, author, linker as a direct part of the ontology. all things linked are linked by a linker.
+	- " to replicate the power that libraries have developed, we need truly persistent naming. This means more than just the indication of a location for a particular work. Sophisticated persistent naming would include the ability to designate a work by its name, and to distinguish between various instantiations of that work and their physical locations."  What if the digital object were its own name? why do we need bins, why can't we just use its artifactual identity as its name? I am led to this thought when thinking about how to cite within digital texts that have no page numbers. Why cite "paragraph 345, sentence 4" when you could just cite the content itself and then search for it within the text. use the power of search. 
+	- " as Lawrence Lessig has made clear, the choices we make in the architecture and design of our systems will limit the social choices we can make around use of those systems in the future (Lessig 1999)." we are spending a lot of time trying to standardize how we structure the relations between information/data/knowledge, but the structure of the relations is going to be different for every person on the planet. rather we should be focusing on standardizing the the methods and techniques we use to search information/data/knowledge. the identity of the digital thing is the thing itself.  "but what if the thing changes?" well, if we are certain maintain a history of its transformations (GIT on steroids) we can search an objects provenance AND see what new objects it has birthed. This is the true power of linked data. I want to use the Digital humanities 1.0 pdf as a search query and get the 2.0 version back as a search result.
+	- is "digital library" a horseless carriage?
+* Thematic Research Collections 
+	- "Thematic research collections are evolving as a new genre of scholarly production in response to these opportunities. They are digital aggregations of primary sources and related materials that support research on a theme." I am reminded of Ann Blairs book "Too Much To Know" and how she argues that the in response to information overload new textual forms emerged, namely note / summary collections. These became legitimate publications in and of themselves.
+	- "John Unsworth (2000b) describes thematic collections as being:
+		-electronic
+		-heterogeneous datatypes
+		-extensive but thematically coherent
+		-structured but open-ended
+		-designed to support research
+		-authored or multi-authored
+		-interdisciplinary
+		-collections of digital primary resources"
+	-"While thematic collections support both research and pedagogy, the scholarly contribution that results from the creation and use of the resources is what qualifies them as a scholarly genre. When electronic sources are brought together for scholarly purposes they become a new, second-generation electronic resource (Unsworth 2000b). "
+	- "like research generated in the fields of engineering, computer science, and information science, some of the research contribution lies in the technical design, functionality, and innovation that makes new kinds of research possible."
+	- "the creators of scholarly collections will need to be a new kind of scholar, or team, with a distinct mix of expertise in at least three areas – the specific subject matter and associated critical and analytical techniques, technical computing processes, and principles of content selection and organization."
+	- "The thematic collections concentrating on contextual mass and activity support are coming closest to creating a laboratory environment where the day-to-day work of scholars can be performed."
+	- "Now scholars have also become creators of research collections, and this change will have an important impact on how our vast arrays of research materials take shape in the future....Where libraries once acquired the documents authored by scholars, they now also need to collect the thematic research collections created by scholars."
+	-"The traditional cycle of document transfer as conceptualized before the advent of digital documents (King and Bryant 1971) "
+	- "Scholar-created research collections are likely to increase in number as the work of producing them becomes more widely accepted as legitimate scholarship."
+	-  "As scholars gain mastery in digital collocation and produce innovative research environments, they are practicing a new kind of collection development. Thematic collections are conceived not only as support for scholarship but as contributions to scholarship. "
 1.  Svensson, P. 2010. "The landscape of digital humanities." Digital Humanities Quarterly 4(1). (http://digitalhumanities.org/dhq/vol/4/1/000080/000080.html)
 	- he defines multiple spheres of definition
+	- five ways digital humanities treats information technology or as he says "modes of engagement"
+		- as a tool
+		- as a study object, 
+		- as an expressive medium, 
+		- as an experimental laboratory and 
+		- as an activist venue.
+	- so one of the things that I was dissatisfied about in Svensson's description of activism was the lack of distinction between activism in a general political sense, that is activities trying to promote a subaltern community versus activities focused on the humanities and the academy itself. The digital humanities is certainly a general activist venue, but so are all disciplines and fields. What is unique about the digital humanities is how it has become a venue for activism challenging the academic system itself.
+	- the descriptions of DH as a tool or experimental medium are part of this "first wave of dh" or what I want to call humanities computing. 
+
 1.  Svensson, Patrik. 2009. "Humanities Computing as Digital Humanities." 3(3). Retrieved July 21, 2011 (http://www.digitalhumanities.org/dhq/vol/3/3/000065/000065.html).
 1.  UCLA Digital Humanities & Media Studies. 2008. "A Digital Humanities Manifesto." Retrieved August 11, 2009 (http://dev.cdh.ucla.edu/digitalhumanities/2008/12/15/digital-humanities-manifesto/).
 1.  Unsworth, John. 2003. "The Humanist: ‘Dances with Wolves’ or ‘Bowls Alone’?" Retrieved August 31, 2009 (http://www.arl.org/resources/pubs/tribes/program.shtml).
@@ -72,7 +125,34 @@
 	- Pannapacker defines digital humanities in a way I really like. His definition situates DH within a larger academic cultural context, a context that is specifically undergoing a radical change. He sums it up - "Digital humanities is a comprehensive activist project that uses technology to respond to the interconnected cultural and structural problems of academe." he goes on "It redefines the nature of academic careers while dealing with longstanding disciplinary conversations. And it engages in complex, theoretical heavy lifting while building projects that are often based on the Internet, available to the public, and indisputably useful...Like the founders and builders of museums, libraries, concert halls, and critical editions in the last century, digital humanists are creating the new infrastructure of our history and culture and changing the nature of education and scholarship."
 	- I think it is no coincidence that I see many self-identified digital humanists writing blog posts, articles and op-eds not only about the changes in their own discipline, but about the broader changes happening in higher education. While the focus is generally on the humanities, the university as an institution or about the nature of being a scholar in general, the sciences do come into play, at least in their relation to the institution. Scientific research however is generally not a topic oft written about in this context.
 
-	
+
+Report on Summit Accomplishments. 2005. Summit on Digital Tools for the Humanities
+	-"It was the consensus of participants that only about six percent of humanist scholars go beyond general purpose information technology and use digital resources and more complex digital tools in their scholarship"
+	- "When information technology is introduced into a discipline or some social activity there seem to be two stages. First, the technology is used to automate what users were already doing, but now doing it better, faster and possibly cheaper. In the second stage (which does not always occur), a revolution takes place. Entirely new phenomena arise." they are talking about skeuomorthism and two phases of technological adoption, first scientists did their arthimetic faster, then they started simulating. 
+	- "It is the belief of the Organizing Committee that humanists are on the verge of such a revolutionary change in their scholarship, enabled by information technology. The objective of the Summit was to test that hypothesis and challenge some leading humanist scholars to enunciate what that revolutionary change might be and how to achieve it. "
+	- "four processes of humanistic scholarship where innovative change was occurring, and that, taken collectively, advancements in those areas could possibly lead to a new stage in humanistic scholarship:
+		- Interpretation 
+		- Exploration of Resources
+		- Collaboration
+		- Visualization of Time, Space, & Uncertainty 
+	- "In the next phase, interpretation may move from private to public, from informal to formal, as the interpreter rehearses and performs it, intending to persuade other readers to share an interest and some conclusions." This is the transition from knowledge to scholarship. I like the inclusion of "performance" as part of the making public part, its is reminiscent of Goffman, but it is the performance of your scholarly self in everyday life.
+	- In the Interpretation section this is basically a requirements process for a tool for use in the interpretation of texts. They perform a rudamentary UxD process with short use-case/user stories. They really need a UxD professional in the room to facilitate that kind of requirements brainstorming. It is a good start and highlights the need. I wonder if these scholars don't necessarily know that an entire class of professional exists to help them design tools.
+	- They envision a tool, "google search aide for scholars" that leverages the latest information retrieval tools.
+	- "Digital scholarly projects, especially if they use custom software for presentation and processing, demand a level of technical, managerial, and design expertise that content providers often do not possess." The are using a line of argument that talks about how the skills needed to implement a modern 'digital scholarly project' have extended far beyond the range of domain scholars. Collaborators, like archivists, programmers, etc. are necessary to provide technical expertise. Demand for technicals skills will push us away from individual author/scholar
+	- "peer review of tools" This is along the lines of Besser?'s arguement that thematic collections should count as scholarship. Given the huge demand for special collections and tools, we need to incentivize scholars to work on these projects. Unfortunately, as long as the heart and minds of scholars are focused on publishing journals & books than tools, archives, collections, and other "service" will play second fiddle. Given the lack of both money and attention it seems like this might be a solution to the problem. A significant require would be that these tools be open source, otherwise their long-term maintainence becomes problematics (although open source doesn't "solve" this problem it is a requirement for success in this regard). Also, it could be a temporary situation, at some point the landscape of tool needs will stabilize, the low hanging fruit will have been picked. It will become more difficult to make a tool contribution (although I'm sure there will always be a need for maintainence). Could the R project be an example of this? Who maintains R? How is it sustained? Has anyone gotten credit for making a contribution to R?
+	- "revolutionary change in digitally-enabled, humanities scholarship is possible because the “right” computer and communications technology aids permit new kinds of analysis and profoundly interactive collaboration that was not possible before." 
+
+Davidson, Cathy.  Humanities 2.0
+	- "More to the point, we need to ac-­ knowledge how much the massive compu-­ tational abilities that have transformed the sciences have also changed our field in ways large and small and hold possibilities for far greater transformation in the three areas—re-­ search, writing, and teaching—that matter most." COMPUTATION
+
+
+
+
+
+
+
+
+
 
 ## Scholarly Publishing
 
@@ -294,6 +374,9 @@ Representing Practice in Cognitive Science - Lucy A. Suchman
 Project Work - Graham Button & Wes Sharrock
 The Organisation of Collaborative Design and Development in Software Engineering
 Seeing in Depth - Charles Goodwin
+	- A consistent theme in many ethnomethodological studies of science is materiality–specifically the materiality of digagrams, images, proofs, floors–and the distinctly social relation between the materials and the participating individual(s). 
+	- in "cultures of proving" Livingston gives an examples of this relation through a Gestalt image - the chalice or the two heads - "the see figure is not literally 'in' the physical object; the perception of either chalice or silhouetted heads goes beyond - or transcends - what retrospectively appears to be te material grounds of that percption."
+	- Using examples from neuronal imaging Lynch shows how scientific data "were...neither wholly constructed, nor simply a 'mirror of nature' arising from an encounter between a rational mind and an inherently orderly nature. Instead, the representational adequacy of the data depended upon a tenuous coherence of actions established in the social environs of the laboratory."
 
 ### Organizational Routine
 
@@ -314,6 +397,8 @@ Seeing in Depth - Charles Goodwin
 ### Research Proposal
 
 1. Park, Ji-Hong & Shim, JiYong. 2011. "Exploring How Library Publishing Services Facilitate Scholarly Communication." Journal of Scholarly Publishing. 43. 76-89. 2011-10-1. http://utpjournals.metapress.com.proxy.lib.umich.edu/content/23361h5514m20608/?p=434cb0141d2c4dc38a633533ec767854&pi=5 --Not available at umich. check http://muse.jhu.edu/journals/scp/
+
+
 
 
 
