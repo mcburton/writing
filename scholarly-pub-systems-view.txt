@@ -1,0 +1,181 @@
+Digital, Scholarly Publishing: A Systems View
+Pochoda, Phillip
+video: http://lecb.physics.lsa.umich.edu/CWIS/browser.php?ResourceId=4116
+
+PHil has a PhD in sociology, from where? with whom?
+
+The digital scholarly publishing system hasn't taken off yet.
+
+the distinctions between articles and books is fake, derived from publisher economics,  not intellectual drivers.
+
+the legacy print system is still very much with us.  mpress revenues come from legacy print model.
+
+didn't come from the intellectual perspective, came from "the trenches"
+
+digital technology biggest change in communication since gutenberg
+
+impossible too over-estiimate the impacts of this change, and how long it will take.
+
+Robert Darton's Publishing Circuit = "What is the history of books"
+	- NEED TO READ THIS
+	= a more or less accurate model of the publishing circuit
+	- see the diagram.
+	- the market & this model has remained stable until recently
+	- cultural context are boundary conditions
+	
+Coalescence of the scholarly publishign system
+	- first US Presses 1878 - hopkins (in the german model)
+	- no commercial market
+	- uni press existed because they lose money
+	- the big uni presses were founded the turn of the century, but the system of scholarly communication didn't coalese until the 1960s (before they were vanity presses)
+	- professionalization of universities
+	- publishing requires faculty to provide books & articles for tenure (wasn't true in the 50s). this all changes in the 60s.
+	- causes professionalization of presses
+		- press "best" books/articles from anywere, not just home institution
+	- uni press system is pretty small (~100) vs ~2000 universities
+
+the "analogue" system of print scholarly publishing	
+	- phil's model
+	- there is asyncronisity between # of presses and # of higher education instutions. 
+	- callilng it analogue b/c the units are clear, stable and identifyable.
+		- the graph is stabile and static'ish
+	- inputs and outputs are clear
+	- maintained by clear negative feedback loops
+	- the digital model is called digital b/c it is hyper-dynamic
+	
+in the 60s living was easy.
+	- defense department subsidized books
+	- government throwing money into publishing
+	- lot of money coming in and no one was paying attention. 
+	- thougght to be an inevitable relation.
+	- in the early 70s the money flow turned down.
+	- everyone had to do more with less, and this has gotten worse over time and future looks bleak.
+	- Science, technology, medicine journals were "captured" or bought by international corpoations
+		- started selling content back to the libraries for mad $$$
+	- started a spiral down starting in the 70s, continuing to the present.
+	- used books spikes and recent economic collapses 2008, post 9/11 fuel for the fire.
+	
+subversion of digital schemes, 
+	- everyone is waiting for it, but no one has any idea what it will look like
+	- anticipating it, but no analysis.
+	
+The digital trojan horse
+	[talking gabout digital tools] - increased the efficiency of the publishing process. 
+	- digital at first "helpful young brother" then "I ain't goingi to be satisfyied'
+	- we begin seeing digital affordances that challenge and disrupt the print system globally and locally.
+	- more like horse buggy/car than radio/tv, no more horse and buggy, but we do still have radio
+	- digital changes the way a text can be deployed and employed
+	- first copy to produce is more expensive than print (will prolly cahnge) the distribution cost is virtually zero. 
+		- changes the dissemination pressure. go global.
+		- especially when promoting scholarlship is collegiate ideal
+	- DIY publishing emerges, at first seemed to be hobbies, but increasing becoming more relevant to the scholarly publishing circuit. pressure building to authorize these DIY works. pressure will continue as more born digital faculty produce DIY objects.
+	- DIY publishing - DIY authorization - post-publication open-crowdsourced reviews
+	- new media & society ask for crowdsourced & anonymouse pre-pub review
+	- digital enables unparalled information retrieval
+
+Digital infancy - remarkable pace given its been ~10 years.
+	- but needs to go faster
+	- digital books, in some cases, can add AV material that was formally physcially impossible with printed books.
+	- every university press is publsihing almost all their books in e-foormats
+		-umich a leader in this
+	- automobniles in 1905 - a ton of new types 
+		- bycicles too - SCOT
+	- 10% of sales in revenue, predictu 50% or higher
+
+The transition to the digital system: an epistemological Break (not just a system change)
+	- like shift from newtonian to quantum physics
+
+towards a stochastic system
+	- more probabilistic
+	- things aren't fixed. they change on their own intiatives
+	- non-linear, circular, unstable, radiate from, dynamic reconfiguring of relations
+	- digital system is always in flux, "a community of shifting community"
+
+Example: the daily flux and transformation already in trade (commercial) publishing
+	- authors become publishers, use social networks
+	- the categories don't map to stable actors
+	
+The creditation and authorization systems remain fixed and they mainain the current traditional system of publishing
+	- being challenged from multiple directions
+	- the same people operating social network communities will eventually creep into the administrative level
+		- creeping expansion of standards
+	
+2011: The ecology of dDigital Scholarly PUblsihing
+	1. We're still thrashing about in a Primordial Digital Soup
+	2. PUblishing-specific cyberinfrastructure still being assembled (and regularly disassembled)
+	3. Not yet a Visible, Viable Digital System
+
+the idea that we can stablize these system in the long run is quite silly, but we should try everything because we have no idea what will work. 
+
+Some Old, Some New Venues and Stakeholders in the Digital Publishing System
+	- the authors are still around
+	- may venues are playing a role in the production of depositories
+	- a robust system with a variety of unauthorized players who are publishing using blogs, ebpub.
+	- most of these will fall by the way-side, some will emerge as stable entities, [strange attractors]
+
+Authorization in the Digital Publishingg System (contested) - What is a Digital Scvholarly Text?
+
+issues -
+	- version control is a problem - what version is the authorized version? print, article, blog, ebook?
+	- storing, usage and sharing of large datasets. are the datasets themselves a publishable entity? integrity? access? 
+	- a book an isolated independent unit or part of a larger dataset?
+	- Who has read/write access to the big book database.
+	
+How are Digital Texts Disseminated (more pathwyas)?
+	- most digital e-texts have displaced the web, ereadresa, tablets, 
+		- propriary DRM, violates 
+	- DIY mainly web-based, comes with openness and zero cost
+	- university presses aggregating their books directly to consumers
+	- direct author to reader - direct delivery of digital verions
+	- everyone is tring to cuut out the middleman, very competitive flux
+
+other big uncertainty - there are already 3 versions of digital books, three verisons of the web
+	- web 1.0, 
+	- 2.0, book is a node in a netwoork of actors, revolving around that book, but connected to other books
+	- 3.0 - semanitic web - publishers know what people are reading, how they are reading, and what they are doing with hit. Privacy implications abound. 
+		- can also make books more valueable though
+	
+Paying the Digital Piper
+	- the first copy is always expensive. traditionally was "buyer pays"
+	- in the digital system "who pays" problematics 
+		- open access at one extreme - author pays (would be ideal)
+			- fits with the ideals of the university. 
+			- the opportunity is there, despite digital devide
+		- mixed models, sponsor open access, but monitize somehow
+			- commercial publishers moving very fast compared to uni press
+
+Institutions of higher education will aggregate and collaborate
+	- pony up in a way commensurate with wealth and usage.
+
+Where are we know - (uneven and combined development in the embryonic digital system)
+	- uni digital books 3% vs 20-30% everywhere else
+		- will be solved by libraries
+	- new formats (amazon kindle 8 this week!)
+	- epub3 for everyone except amazon
+accredidation and 
+
+1. 30-50% revanue in 5 years
+2. university administration crediting born-digital, peer-reviewed as part of tenure revuew proces
+3. social networking among academics will increase. crrowed sourced, non-peer reviewed material will be marginalized
+4. digital humanities/ digital press - indistinguishable
+5. who will lead digital scholarship - right now presses and libraries, next? who knows
+6. backend stuff will be consolidated across university presses. presses will increasingly outsource non essential functions
+7. administration will have to step up to the plate. scholarly publshinig needs administrative center. 
+8. stumbling towards stochastic - need to try a lot of different schemes. this model will eventually present alternatives and contenders to traditional vendors. network models. publishing will be organized by spontaneously emergent activities.
+9. shrews and dinosaurs - nimble, digitally saavy risk takers will emerge without incumbent costs. some commercial dinosaurces have shown agility in adopting open access & and will move further upstream to manage monographs. (like they did with STM book publishing)
+10. finally, I/we don't know much about what's really coming up or going down digitally....but thats not a bad thing.
+
+
+will academics be expected to publish more?
+plluraism in what counts.
+	match the format to the project, not the project to the format.
+	born digital will just be used to this, new routines & habits
+	
+how will marketing work?
+	the porblem in digital area, the overpowering amount of information. sorting, filtering, decisionmaking will become more insturmental. 
+	- centralization of marketing so we can search on a rational basis 
+	- needs powerful algorithms & needs semantic web
+	- its about searching and discovery
+	- people will continue to market their own project, won't be as cold as the algorithm. 
+
+
