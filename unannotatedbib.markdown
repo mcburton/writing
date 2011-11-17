@@ -24,7 +24,12 @@
 
 
 ### Digital Humanities and Humanities Scholarship in the Digital Age
-[todo include blog & various articles from instapaper]
+[todo 
+include blog & various articles from 
+Add from - http://www.nines.org/about/scholarship/readings.html
+http://cdrh.unl.edu/articles/promotion_and_tenure.php
+]
+
 
 1. Day in the Digital Humanities - A collection of blog posts (looking for aggregat URL) 
 
@@ -41,6 +46,8 @@
 1. Online Humanities Scholarship: The Shape of Things to Come. Proceedings of the Mellon Foundation Online Humanities Conference at the University of Virginia, March 26-28, 2010. Rice University Press, 2010. (http://shapeofthings.org/papers/)
 
 ## Scholarly Publishing
+
+http://www.digital-scholarship.org/sepb/sepb.html
 
 ### Mechanics of New Digital Publishing
 
@@ -85,6 +92,9 @@
 1.  Willinsky 2009 Willinsky, J. (2009). "Toward the Design of an Open Monograph Press." Journal of Electronic Publishing, 12(1). (http://dx.doi.org/10.3998/3336451.0012.103)
 
 1. Tailor, Don. "Direct to Kindle Publishing" http://theincidentaleconomist.com/wordpress/direct-to-kindle-publishing/
+
+1. Peter M. Robinson, “What Scholarly Editors Need to Help us Make Sense Together in the Digital Age,” Journal of the Chicago Colloquium on Digital Humanities and Computer Science 1, no. 1 (July 17, 2009), https://letterpress.uchicago.edu/index.php/jdhcs/article/view/64.
+
 
 ## Work Practice [This section may need to be dropped with some aspects folded in above...]
 
@@ -140,6 +150,7 @@ Seeing in Depth - Charles Goodwin
 ### Research Proposal
 
 1. Park, Ji-Hong & Shim, JiYong. 2011. "Exploring How Library Publishing Services Facilitate Scholarly Communication." Journal of Scholarly Publishing. 43. 76-89. 2011-10-1. http://utpjournals.metapress.com.proxy.lib.umich.edu/content/23361h5514m20608/?p=434cb0141d2c4dc38a633533ec767854&pi=5 --Not available at umich. check http://muse.jhu.edu/journals/scp/
+
 
 
 
