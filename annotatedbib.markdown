@@ -46,7 +46,6 @@
 	- "humanists have access to technology but are in search of questions: What scholarship becomes possible when, from their desktops, scholars can access vast stores of admittedly highly het-erogeneous data together with powerful capabilities for analysis and presentation?"
 	- infrastructure answers the "how" but humanities needs a research program to answer the "what" and "why"
 	- "we have observed four themes that transcend traditional disciplinary boundaries and resonate with major research topics in computer science: scale, language and com-munication, space and time, and social networking."
-	-
 
 
 
@@ -142,11 +141,44 @@ Report on Summit Accomplishments. 2005. Summit on Digital Tools for the Humaniti
 	- "peer review of tools" This is along the lines of Besser?'s arguement that thematic collections should count as scholarship. Given the huge demand for special collections and tools, we need to incentivize scholars to work on these projects. Unfortunately, as long as the heart and minds of scholars are focused on publishing journals & books than tools, archives, collections, and other "service" will play second fiddle. Given the lack of both money and attention it seems like this might be a solution to the problem. A significant require would be that these tools be open source, otherwise their long-term maintainence becomes problematics (although open source doesn't "solve" this problem it is a requirement for success in this regard). Also, it could be a temporary situation, at some point the landscape of tool needs will stabilize, the low hanging fruit will have been picked. It will become more difficult to make a tool contribution (although I'm sure there will always be a need for maintainence). Could the R project be an example of this? Who maintains R? How is it sustained? Has anyone gotten credit for making a contribution to R?
 	- "revolutionary change in digitally-enabled, humanities scholarship is possible because the “right” computer and communications technology aids permit new kinds of analysis and profoundly interactive collaboration that was not possible before." 
 
-Davidson, Cathy.  Humanities 2.0
+1. Davidson, Cathy.  Humanities 2.0
 	- "More to the point, we need to ac-­ knowledge how much the massive compu-­ tational abilities that have transformed the sciences have also changed our field in ways large and small and hold possibilities for far greater transformation in the three areas—re-­ search, writing, and teaching—that matter most." COMPUTATION
 
-
-
+1. Gibbs, Fred. 2011 "Critical Discourse in the Digital Humanities" http://historyproef.org/blog/digital-humanities/critical-discourse-in-the-digital-humanities/
+    - "i suggest that DH criticism needs to go beyond typical peer review and inhabit a genre of its own—a critical discourse—that itself provides a valuable service both inside and outside the community. More importantly, criticism and the intellectual work that it does makes the value of our work clearer to those outside of the DH community."
+    - "rubrics for evaluating DH work."
+    - "Everyone in the field knows that the most innovative DH projects cannot be fully evaluated through the traditional, critical, and theoretical lenses of the humanities. But what lenses do we have?" 
+    - "Not only do we need a more crystallized rubric, but new models of publishing now require a fundamentally new kind of peer review—and i don’t mean simply online peer review or open peer review, two efforts that i think have gotten the lion’s share of (much-needed) attention when it comes to reforming antiquated review processes. The multifaceted nature of DH requires a different kind of critique than is typical in the humanities because it puts rather unique demands on both critics and criticism itself."
+    - "will suffice for present purposes to say that digital humanities is different enough from the analog humanities, at least at the moment. But allow me a brief moment of justification that will be important later on. The digital humanities are of course not fundamentally different in any larger epistemological or hermeneutic sense from the humanities at large."
+    - "Part of what defines a discipline is its rhetoric and the aesthetics of its scholarly discourse. Philosophy texts sound different from history texts, which sound different from literary analysis. These differences become especially apparent during collaborative projects. As much as we champion cross-disciplinary work, there is an inherent unease to it, in no small part because it becomes harder to tell how to evaluate it. Given a particular piece of scholarship: How should one read it? Which criteria should be applied?" 
+    - "in the larger view, they’re there." are they really there? I am not entirely convinced. this reminds me of the missing masses arguement and of struxtural sociology. perhaps my micro is showing, bu i can buy into the idea that theyare "there" in any real sense except in our discursive practice, the reality of which cannot and should not be denied, but should be put in its place.
+    - "One major way in which DH is in fact separate from the humanities (again, at least for now) is in that it requires new ways of evaluating very complex work in terms that are often unfamiliar to most humanists." there are no maps to these territories
+    - William Thomas’s article, “Writing a Digital History Journal Article from Scratch.” this article is listed under "documents" a non distinctive section in his CV thaf lists what appears to be non peer reviewed work
+    - "What we might perceive as ignorance on the part of reviewers is at least in part because the rhetoric and aesthetics of DH work is not particularly well established. In other words, the critical sphere has not yet materialized." 
+    - "we can’t be unhappy that tradition-bound hiring committees, promotion and tenure committees, deans, and other humanists don’t appreciate the value of our work when we haven’t really outlined how it’s different and how it should be appreciated." 
+    - "We haven’t provided a public critical discourse that offers the traditional signals to those who are not expert as to what work is good and what is not—and thus serves as a compass for practitioners, critics, and outsiders alike. In sum, DH needs more critical theory" 
+    - "We haven’t provided a public critical discourse that offers the traditional signals to those who are not expert as to what work is good and what is not—and thus serves as a compass for practitioners, critics, and outsiders alike." 
+    - "Exactly what constitutes the sound scholarship that we want to do (and actually do) is not nearly as apparent to others, especially those outside the DH community, as it should be. It befalls the producers of that good scholarship to explain what is and what is not considered good, and why." this might be the seed to answer the question of how to chsnge the regime of accountability
+    - "a critical discourse for DH would be far more valuable than grant applications that sell potential work and post-facto white papers that champion whatever work happened to get completed. We need more than traditional journal articles that describe the so-called “real” humanities research that came out of digital projects. "
+    - "Matthew Arnold in his The Function of Criticism at the Present Time defined it as “a disinterested endeavor to learn and propagate the best that is known as thought in the world.” (1864/5, 75) "
+    - "criticism is especially good at establishing and debating terms of how to analyze a particular work. This discourse of critique where new standards get hammered out. It’s the connective tissue of projects that pronouncements from on-high simply cannot have." 
+    - "There is the MLA site that outlines types of digital work; guidelines for evaluating digital work." als "NINES guidelines for peer review."
+    - Criteria for criticism:
+        - Design 
+        - Data
+        - Reusability
+        - Transparency 
+    - "While traditional scholarship (books and articles) is held accountable to its stated goals and methodologies (as far as the medium permits), digital projects have not had that accountability from the scholarly community." 
+    - "we do need more peer review! But that’s not all. We need a fundamentally different kind of peer review. Just as the nature of publishing is changing, the nature of peer review must evolve, especially for large DH projects, but even individual ones as well. Digital humanities work requires a different kind of criticism than most academic criticism because of the very nature of the work. DH projects often serve much broader audiences, and embody interdisciplinary in a way that eludes traditional models of critique." 
+    - "More people to review individual projects. How many people can really critique various facets of a digital humanities project, when they range from graphic design, interface design, code, encoding standards, etc. Even if one could, it’s a herculean task not befitting the typical lone reviewer "
+    - "DH work is often iterative in nature, and the review process needs to be as well. Just as digital humanities projects are inherently more public than the typical humanities project, everyone benefits when their critiques are more public." 
+    - " A project without accountability, without connectedness, without critique, simply fills another plot in the DH project graveyard." i likes gibbs use of the term accountability here. this is exactly the angle i want to take. the regime of accountability, that is in Gibbs terms the system of critique, evaluation, and review for scholarly products needs to change as to accommodate the new forms of scholarship that are emerging from the digital humanities.....one thing i want to note is that the criteria that Gibbs has proposed is very close to those being used in Science. indeed he does have a rather scientifical vision of digital scholarship (with data and cod and process and method). this is a slippery slope.
+    -Forms of Critique
+        - "formalist critique examines the form of the work, examining how well its structure, form, and design serve its purpose in the context of similar works;"
+        - "didactic criticism focuses on the ability for the work to reach, inform, and educate an audience;" 
+        - "mimetic criticism might evaluate how well the DH work is truly humanist work or facilitates it (this replaces “universe” in the original diagram);" 
+        - "expressive critique discuss how the work reflects the unique characteristics and style of the creator(s). Here the “team” anchor replaces the original “artist” label,"
+    - "we must remember that code and metadata, as well as data and whatever structures govern it, are not entirely objective entities but are informed, attacked, and defended by ideology and theory."
 
 
 
