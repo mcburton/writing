@@ -28,6 +28,7 @@
 include blog & various articles from 
 Add from - http://www.nines.org/about/scholarship/readings.html
 http://cdrh.unl.edu/articles/promotion_and_tenure.php
+http://shapeofthings.org/papers/
 ]
 
 
