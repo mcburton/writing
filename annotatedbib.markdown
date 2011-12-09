@@ -7,7 +7,11 @@
 1.  Anon. n.d. "Hacking the Academy." Retrieved July 21, 2011a (http://hackingtheacademy.org/).
 	- these works reflect a rather radical, and purposefully confrontational approach to scholarship, teaching, and XXX, in the academy. 
 	- the styles is interesting, several of the articles (the one on open access publishing, and the one about journals & peer review) are written as lists. I find this interesting. Especially in light of the article "reading and writing" which criticizes the tendency towards light reading and "literary" writing.
-	- 
+	- These works for the most part land in the big tent of digital humanities, what is interesting however is some of them speak with a Humanities Comuting lens, but by being situated within a big tent publication re-inforce the fact that the big tent includes humanities computing within it. Now members who identify themselves strongly within the HC enclave (characterized by the McGann, Ramsay, Unsworth, McCarty clique) might react with dismay to such a positioning. Many of the positions they have taken (Ramsay "on coding" & "Who's in Who's out", Unsworth?, McGann-presentational/representational split) are those that bound their notion of the digital humanities squarely within a computational and methodological transformation. They present an unease or even hostility to the broader big tent definitions (best articulated by the Pannacker, but maybe Svensson? Also I am sure Cathy Davidson has staked a claim in the hastac blog somewhere), as to why they do this is 
+	
+1. Bryson, Tim, Posner, Miriam, St. Pierre, Alain, and Varner, Stewart. SPEC Kit 326 Digital Humanities. Association of Research Libraries, 2006.
+	- Executive summary provides some support for the idea that library support, both in services, sustainability, and space, is still emerging. The relation between the digital humanities and the library is unclear. Some universities have DH centers which have little interaction with the library (GMU comes to mind) vs. universities where all DH support comes from the library. 
+	
 1.  Borgman, C. L. 2009. "The digital future is now: A call to action for the humanities." Digital Humanities Quarterly 3(4) (http://digitalhumanities.org/dhq/vol/3/4/000077/000077.html).
 	- She defines DH as "digital humanities is a new set of practices, using new sets of technologies, to address research problems of the discipline"
 	- Digital humanities has a lot of catching up to do with the sciences, infrastructure is lacking.
