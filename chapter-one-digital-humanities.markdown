@@ -14,8 +14,7 @@
 ### Grey Literature & the Digital Humanities
 
 
-
-
+For some time now I have been trying to organize my thoughts so that I man contribute to the cacophonous cloud of voices each shouting for a discursive perch in the ongoing debates and discussions in the digital humanities. With this I must preface, anything we may know or think we may know about the digital humanities will certainly change. The pace of these changes, both technological, but also sociological has reached an escape velocity of sorts, away from a grounding in traditional knows of humanist academic practice and into an orbit of new heights. From this point where the digital humanities travels is something we can excitedly watch and see for we all have a ticket to ride.
 
 ################################
 Here is a bit of an abstract for my final project in this course. I
