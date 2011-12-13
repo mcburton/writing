@@ -19,6 +19,7 @@ As noted in my introduction, the impact of technology upon the academy has profo
 	[humanities collaboration? HASTAC]
 	[hockey 2004 Orlando project as new mode of Collaboration (over internet)]
 	[besser 2004 digital library as DH CI, but is it horseless carriage?]
+	[Hedstrom & King - epistemic infrastructure]
 	
 
 ## Computing Humanists: Humanities Computing
@@ -56,8 +57,8 @@ As noted in my introduction, the impact of technology upon the academy has profo
 	[theory in digital humanities? Hockey talks of two cultures...]
 	[transducer ]
 
-### multimodal scholarship
-	[what was Busa's contribution?]
+### Multimodal Sholarship
+	[what ultimately was Busa's contribution? more than a book]
 	[Palmer 2004 thematic research collections]
 	[scheinfeld sunrise sunset, Sarton's major contribution was curation, editorial]
 	[mcpherson 2009 notes the evolution from computing humanist to blogging humanist to multimodal humanist]
