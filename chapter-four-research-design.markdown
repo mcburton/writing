@@ -67,3 +67,17 @@ Standards development and standard adoption is an excellent site to observe wher
 8.  Repeat the process until the research agenda has been satisfied for all practical purposes. (Crabtree 2004)
 
 As of this writing, the EPUB 3 document format is nearly complete. The designers of the standards have "built whatever they want," rather quickly for standards designers I might add, and we will shortly witness the deployment of EPUB 3 into "real world settings." The latest epub standard is a radical technological advancement to its predecessor, as such it is an _experiment_ that _breaches_ our commonly held expectations of the book. EPUB 3 incorporates the latest web technologies enabling interactive, multimedia enriched presentations. How this technology, the the possibilities for knowledge dissemination it enables, is an open question. 
+
+
+### Rendering Visible the Invisible College
+
+The impact of twitter on the academy at large, is not well understood. The use of twitter in the digital humanities is an understudied phenomena. The enthusiasm by which digital humanists have incorporated twitter into their scholarly practice may know no equal. The rise of twitter has also sparked some consternation. Notions of in-crowd/out-crowd (Pannapacker 2011), grey literature, and information overload (????) are not yet fully understood in the realtionship between the digital humanities and twitter. 
+
+Twitter renders visible and public the so-called "invisible college" in the academy. The invisible college, or the network of communication between scholars has historically existed as an informal, private communicative space. However, new technologies like twitter have begun to change the shape of the conversation. New technologies of communication, such as twitter, are not host to a completely new discursive structure within the realm of scholarly communication. Twitter conversations, like blogs, are public but do not constitute scholarship in the traditional sense.  While they exist outside of the realm of scholarly publishing, their visibility within the community makes them an ever increasingly important form of scholarly communication in the digital humanities.
+
+This research project proposes not only to passively study this phenomena, but also actively engage it directly. Through the simultaneous construction of an infrastructure for monitoring & preserving conversational streams, an ongoing discursive analysis of that stream, and a constant "publishing" back into the stream, I hope to both challenge and explore the boundaries of scholarly communities, communication, and publishing. 
+
+It will be easiest to think about this research project as three separate, but interconnected components. First, is the design and implementation of an infrastructure for monitoring the twitter conversations of the digital humanities community. Second, is a set of analytical practices that can distill and synthesize the threads of conversation on a weekly basis. Third, a summary of the conversation will be "published" back into the conversational ecosystem in the form of weekly podcasts, a kind of "this week in tweets" for the digital humanities.  
+
+
+
