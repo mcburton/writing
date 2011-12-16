@@ -1,16 +1,17 @@
 # What is an Digital Humanities
 
-As noted in my introduction, the impact of technology upon the academy has profound implications for the humanities as a scholarly endeavor.  
+As noted in my introduction, the impact of technology upon the academy has profound implications for the humanities as a scholarly endeavor. 
 
 
-## Research
+## Computing Humanists: Humanities Computing
+	[summarize humanities computing as a revolution in methodology]
 
 ### When all you have is a hammer: Tools & Methods
 	[busa as a shot across the bow of what we knew is possible. ] 
 	[scheinfeld sunset ideology, sunrise methodology]
 	[ Unsworth 2002 HC as modeling]
 	[summit on tools in the humanities]
-	[Davidson - Humanities 2.0]
+	[Davidson - this is Humanities 1.0]
 	
 ### I want a Pink Pony: Cyberinfrastructure
 	[unsworth on infrastructure ]
@@ -22,15 +23,7 @@ As noted in my introduction, the impact of technology upon the academy has profo
 	[Hedstrom & King - epistemic infrastructure]
 	
 
-## Computing Humanists: Humanities Computing
-	[summarize humanities computing as a revolution in methodology] 
-
-## Learn you a Haskell: Pedagogy
-
-### Humanists do it better: The Humanist Mystique
-	[Unsworth quote on humanists are better builders]
-	[borgman calling for DH on infrastructure building]
-	[steve jobs typography example & liberal arts]
+## Pedagogy
 
 ### To code or not to code: Computational Literacy
 	[Ramsay blog posts, responses?]
@@ -38,6 +31,12 @@ As noted in my introduction, the impact of technology upon the academy has profo
 	[hockey 2004, 1986 - code is the new latin? This is an endless debate]
 	[the praxis program]
 	[joula 2008 scholarship in HC languished b/c traditional humanities lack incentive]
+	[Kirschenbaum 201? Hello worlds]
+
+### Humanists do it better: The Humanist Mystique
+	[Unsworth quote on humanists are better builders]
+	[borgman calling for DH on infrastructure building]
+	[steve jobs typography example & liberal arts]
 
 ## The revolution will not be peer-reviewed: Scholarship & Dissemination
 
@@ -46,7 +45,7 @@ As noted in my introduction, the impact of technology upon the academy has profo
 	[siva & courant debate and ???s comments about blogging]
 	[a day in the life of a digital humanist] 
 	[Kirschenbaum 2010 twitter at MLA, visibility, infrastructure & collaboration ]
-	
+	[many books on DH coming, mapping the DH, debates in DH, teaching DH. did these books begin in twitter/blogosphere] 
 
 ### Trolling is a Art: Critique
 	[flanders 2009 productive unease]
@@ -57,7 +56,7 @@ As noted in my introduction, the impact of technology upon the academy has profo
 	[theory in digital humanities? Hockey talks of two cultures...]
 	[transducer ]
 
-### Multimodal Sholarship
+### Multimodal Scholarship
 	[what ultimately was Busa's contribution? more than a book]
 	[Palmer 2004 thematic research collections]
 	[scheinfeld sunrise sunset, Sarton's major contribution was curation, editorial]
