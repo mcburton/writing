@@ -4,6 +4,27 @@
 
 ### Humanities Scholarship in the Digital Age 
 
+1. Unsworth et al. 2006 Unsworth, J., Courant, P., Fraser, S., Goodchild, M., Hedstrom, M., Henry, C., Kaufman, P. B., McGann, J., Rosenzweig, R. & Zuckerman, B. (2006). Our Cultural Commonwealth: The Report of the American Council of Learned Societies Commission on Cyberinfrastructure for Humanities and Social Sciences. American Council of Learned Societies. Retrieved from http://www.acls.org/cyberinfrastructure/cyber.htm on 17 July 2007.
+	- "As more personal, social, and professional time is spent online, it will become increasingly important to have an online environment that cultivates the richness of human experience, the diversity of human languages and cultures, and the full range of human creativity. Such an environment will best emerge if its design can benefit from the strengths of the humanities and social sciences: clarity of expression, the ability to uncover meaning even in scattered or garbled information, and centuries of experience in organizing knowledge. These strengths are especially important as the volume of digital resources grows, as complexity increases, and as we struggle to preserve and make sense of billions of sources of information." Here is a nice articulation about why "humanists do it better"
+	- 
+	- "the constraints that must be overcome in creating such a cyberinfrastructure—insufficient training, outdated policies, unsatisfactory tools, incomplete resources, and inadequate access. These con-straints are not primarily technological but, instead, cultural, economic, legal, and institutional. They include
+	• the loss, fragility, and inaccessibility of the cultural record; 
+	• the complexity of the cultural record; 
+	• intellectual property restrictions on the use of the cultural record; 
+	• lack of incentives to experiment with cyberinfrastructure in the humanities and social sciences; 
+	• uncertainty about the future mechanisms, forms, and economics of scholarly publishing and scholarly communication more generally; 
+	• insufficient resources, will, and leadership to build cyberinfrastructure for the humanities and social sciences." Humanities   
+	- "Recommendations 29 1.  Invest in cyberinfrastructure for the humanities and social sciences, as a matter of strategic priority . 29 2. Develop public and institutional policies that foster openness and access. 30 3. Promote cooperation between the public and private sectors. 32 4. Cultivate leadership in support of cyberinfrastructure from within the humanities and social sciences. 33 5. Encourage digital scholarship. 34 6. Establish national centers to support scholarship that contributes to and exploits cyberinfrastructure. 35 7. Develop and maintain open standards and robust tools. 36 8. Create extensive and reusable digital collections."		
+	- The report lays out 8 recommendations for universities to enable the development of social & technical infrastructure for the humanities. These range from making humanities cyberinfrastructure a strategic priority to promoting open-access scholarship.  
+	- "The humanities and the social sciences are critical players in the development of cyberinfrastructure because they deal with the intractability, the rich ambiguity, and the magnificent complexity that is the human experience." more fodder for why the humanities are necessary in the development of cyberinfrastructre, not only for the humanities, but for teh sciences as well. 
+	- From the Arts & Humanities Act of 1965 "(3) An advanced civilization must not limit its efforts to science and technology alone, but must give full value and support to the other great branches of scholarly and cultural activity in order to achieve a better understanding of the past, a better analysis of the present, and a better view of the future. ...(4) Democracy demands wisdom and vision in its citizens. It must therefore foster and support a form of education, and access to the arts and the humanities, designed to make people of all back-grounds and wherever located masters of their technology and not its unthinking servants." 
+	- If we take for granted the assumption of the 1965 Act, which to be clear 	I would argue we should, then our collective societal understanding of resent technological change will come from humanities academic community. To enable the humanities to that end, he report argues for a "leveraged, coordinated investment" in humanities cyberinfrastructure. This said, there are a host of complicated barriers that must be overcome. [insert constraints]
+	- As of the writing of the report, there has been no coordinated efforts like those in the sciences, in humanities cyberinfrastructure. This is not to say there have not been substaintial efforts in the development of humanities infrastructure. [insert early projects from Hockey 2004, also describe the institutional difficultiies]. As the ACLS report identifies institutional stability necessary to sustain humanities cyberinfrastructure must not only be fiscial, it must also be intellectual. Only through the passionate attention of sufficient human capital can a national effort towards humanities cyberinfrastucture succeed. 
+	-   
+
+	
+
+
 1.  Anon. n.d. "Hacking the Academy." Retrieved July 21, 2011a (http://hackingtheacademy.org/).
 	- these works reflect a rather radical, and purposefully confrontational approach to scholarship, teaching, and XXX, in the academy. 
 	- the styles is interesting, several of the articles (the one on open access publishing, and the one about journals & peer review) are written as lists. I find this interesting. Especially in light of the article "reading and writing" which criticizes the tendency towards light reading and "literary" writing.
@@ -303,6 +324,9 @@ the Council on Library and Information Resources and The National Endowment for 
 
 1. Davidson, Cathy.  Humanities 2.0
 	- "More to the point, we need to ac-­ knowledge how much the massive computational abilities that have transformed the sciences have also changed our field in ways large and small and hold possibilities for far greater transformation in the three areas—re-­ search, writing, and teaching—that matter most." COMPUTATION
+	- "The so-­called crisis in the humanities is nothing new. Even in The Two Cul-tures and the Scientific Revolution (1959), C. P. Snow was already lamenting that “thirty years ago the cultures had long ceased to speak to each other” and blamed the bifurcation in part on the devaluing of humanists: “young scientists"- now feel that they are part of a culture on the rise,” while humanists feel their worth “in retreat” (18, 19)" TWO CULTURES. Implicitly Davidson is also juxtaposing two cultures within the Humanites, 1.0 and 2.0. 
+	- "humanities computing (Humanities 1.0)" I'm not sure how that went down with the HC folks, but I can imagine not very well.
+	- "Humanities 2.0: Collaborative Archives, Interpretation, Theory"
 
 1. Gibbs, Fred. 2011 "Critical Discourse in the Digital Humanities" http://historyproef.org/blog/digital-humanities/critical-discourse-in-the-digital-humanities/
     - "i suggest that DH criticism needs to go beyond typical peer review and inhabit a genre of its own—a critical discourse—that itself provides a valuable service both inside and outside the community. More importantly, criticism and the intellectual work that it does makes the value of our work clearer to those outside of the DH community."
@@ -616,6 +640,7 @@ Seeing in Depth - Charles Goodwin
 ### Research Proposal
 
 1. Park, Ji-Hong & Shim, JiYong. 2011. "Exploring How Library Publishing Services Facilitate Scholarly Communication." Journal of Scholarly Publishing. 43. 76-89. 2011-10-1. http://utpjournals.metapress.com.proxy.lib.umich.edu/content/23361h5514m20608/?p=434cb0141d2c4dc38a633533ec767854&pi=5 --Not available at umich. check http://muse.jhu.edu/journals/scp/
+
 
 
 
