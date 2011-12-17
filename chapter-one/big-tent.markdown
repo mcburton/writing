@@ -33,7 +33,7 @@ We can think about the digital humanities as a multi-method, multi-modal, interd
 
 It is perhaps reductionist and categorical, but in light of the current chaos of the disciplines, a quadrant juxtaposing digital methods vs. digital objects is useful as a map.
 
-<img src="/mcburton/writing/raw/master/humanist-quadrant.jpg" width="563" height="517"/>
+<img src="/mcburton/writing/raw/master/humanist-quadrant.png" width="563" height="517"/>
 <!-- <img src="../humanist-quadrant.png" width="1177" height="459"/> -->
 
 
