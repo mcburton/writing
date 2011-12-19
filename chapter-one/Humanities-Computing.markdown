@@ -1,5 +1,5 @@
 
-# <a href="/mcburton/writing/tree/master/chapter-one/#hc-intro" name="hc-intro" >Computing Humanists: Humanities Computing</a>
+# Computing Humanists: Humanities Computing<a href="/mcburton/writing/tree/master/chapter-one/#hc-intro" name="hc-intro" ></a>
 
 <a href="/mcburton/writing/tree/master/chapter-one/#hc-intro" name="hc-intro" >
 Insert intro here.
