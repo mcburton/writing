@@ -18,7 +18,7 @@ When drawn with respect to humanities computing, the scope of research practice 
 
 The discursive shift from humanities computing to digital humanities has been a significant moment in the evolution of the field (Svensson 2009, Unsworth 200?). In less than a decade, the digital humanities, not humanities computing, has risen to prominence as a significant cultural shift within the humanities. Tensions and contests emerge when attempts are made to define the digital humanities as simply a re-branded humanities computing. This tension arises from digital humanities coming to represent a much larger domain of practice than tools and methods. I will address full scope of the "big tent" of the digital humanities later, but for now I suggest it is useful to think of digital humanities as an amorphous super-set of a tightly defined humanities computing.
 
-<img src="HCtoDHtoH.png" width="618" height="607"/>
+<img src="./HCtoDHtoH.png" width="618" height="607"/>
 
 Humanities computing, both the term and the practice, have been with the humanities for a very long time. Yet, humanities computing scholarship has, by external measures, had dramatic impact upon the humanities community (Joula 2008). Joula attributes this to both a lack of incentive by traditional humanists, but also an inability to understand the work. For scholars versed in the methods of the traditional humanities, say for example close reading, the notion of statistical analysis of texts is not only foreign but glosses aspects of the text they deem most important. 
 
@@ -32,7 +32,7 @@ The humanities, which is celebrated by some as open to all methods and ideologie
 	[Davidson - this is Humanities 1.0]
 	
 ### I want a Pink Pony: Cyberinfrastructure
-<a href="Cyberinfrastructure#cyber-intro" name="#cyber-intro" >Infrastructure, or CyberInfrastructure (Atkins 2003) has unquestioningly been a topic of major importance in the sciences. "Big science" like the Large Hadron Collider have unprecedented instrument, sensor, computation, and network needs. National cyberinfrastructure in the US and eScience in Europe have been vital to the advancement of large scale scientific endeavors. Given the impact of cyberinfrastructure for the sciences, the question of cyberinfrastructure for the humanities is obvious.</a> 
+<a href="/mcburton/writing/blob/master/chapter-one/CyberInfrastructure.markdown#cyber-intro" name="cyber-intro" >Infrastructure, or CyberInfrastructure (Atkins 2003) has unquestioningly been a topic of major importance in the sciences. "Big science" like the Large Hadron Collider have unprecedented instrument, sensor, computation, and network needs. National cyberinfrastructure in the US and eScience in Europe have been vital to the advancement of large scale scientific endeavors. Given the impact of cyberinfrastructure for the sciences, the question of cyberinfrastructure for the humanities is obvious.</a> 
 
 	
 
