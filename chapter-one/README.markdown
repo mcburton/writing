@@ -13,24 +13,24 @@ Interesting, I found Tom Schienfelds article about ideology and methodolgoy from
 
 ## Computing Humanists: Humanities Computing<a href="/mcburton/writing/blob/master/chapter-one/Humanities-Computing.markdown#hc-intro" name="hc-intro" >.</a>
 
-<a href="/mcburton/writing/blob/master/chapter-one/Humanities-Computing.markdown#hc-intro" name="hc-intro" >
+<a href="/mcburton/writing/blob/master/chapter-one/Humanities-Computing.markdown#hc-intro" name="hc-intro">
 The current momentum for the digital humanities is rooted in the slow, but steady, velocity of humanities computing. 
 </a> 
 
 
-### <a href="/mcburton/writing/blob/master/chapter-one/Tools.markdown#tools-intro" name="tools-intro" >When all you have is a hammer: Tools & Methods</a>
+### When all you have is a hammer: Tools & Methods<a href="/mcburton/writing/blob/master/chapter-one/Tools.markdown#tools-intro" name="tools-intro" >.</a>
 
 <a href="/mcburton/writing/blob/master/chapter-one/Tools.markdown#tools-intro" name="tools-intro" >
 It can't be denied that information technology is affecting the humanities and in the spirit of a postmodern pluralism we must recognize there are multiple ways of accounting for these changes. We can give primacy to one or another factor, the complexity of the changes probably extends beyond what is comprehensible. This complexity is precisely why the impact of technology on society and upon the humanities must be in and of itself a "humanistic” endeavor. Only humanists can fully appreciate and tease out the nuances of this complexity. (Unsworth 2009)
 </a>
 	
-### <a href="/mcburton/writing/blob/master/chapter-one/CyberInfrastructure.markdown#cyber-intro" name="cyber-intro" >I want a Pink Pony: Cyberinfrastructure</a>
+### I want a Pink Pony: Cyberinfrastructure<a href="/mcburton/writing/blob/master/chapter-one/CyberInfrastructure.markdown#cyber-intro" name="cyber-intro" >.</a>
 
 <a href="/mcburton/writing/blob/master/chapter-one/CyberInfrastructure.markdown#cyber-intro" name="cyber-intro" >
 Infrastructure, or CyberInfrastructure (Atkins 2003) has unquestioningly been a topic of major importance in the sciences. "Big science" like the Large Hadron Collider have unprecedented instrument, sensor, computation, and network needs. National cyberinfrastructure in the US and eScience in Europe have been vital to the advancement of large scale scientific endeavors. Given the impact of cyberinfrastructure for the sciences, the question of cyberinfrastructure for the humanities is obvious.
 </a> 
 
-## <a href="/mcburton/writing/blob/master/chapter-one/Pedagogy.markdown#pedagogy-intro" name="pedagogy-intro">Pedagogy</a>
+## Pedagogy<a href="/mcburton/writing/blob/master/chapter-one/Pedagogy.markdown#pedagogy-intro" name="pedagogy-intro">.</a>
 
 <a href="/mcburton/writing/blob/master/chapter-one/Pedagogy.markdown#pedagogy-intro" name="pedagogy-intro">
 The tensions associated with the changes in the humanities are particularly visible in the structures of social reproducibility. If we are to worry about distortion of the humanities, then more attention should be spent considering what kinds of training, in terms of method, theory and practice, the next generation of (digital) humanists receives.
@@ -67,7 +67,7 @@ The tensions associated with the changes in the humanities are particularly visi
 	[theory in digital humanities? Hockey talks of two cultures...]
 	[transducer ]
 	
-### <a href="/mcburton/writing/blob/master/chapter-one/Multimodal.markdown#multimodal-intro" name="multimodal-intro" >Multimodal Humanities 2.0</a>
+### Multimodal Humanities 2.0<a href="/mcburton/writing/blob/master/chapter-one/Multimodal.markdown#multimodal-intro" name="multimodal-intro" >.</a>
 
 <a href="/mcburton/writing/blob/master/chapter-one/Multimodal.markdown#multimodal-intro" name="multimodal-intro" >
 Both Cathy Davidson (2008) and Tara McPherson (2009) have written that the digital humanities is something larger than the narrowly and rigidly defined notions that evolved out of humanities computing. Both treatments of the digital humanities expand its scope to connect with the existing "crises" in the academy, namely the crisis in the humanities and the criss in scholarly publishing.
@@ -81,7 +81,7 @@ Both Cathy Davidson (2008) and Tara McPherson (2009) have written that the digit
 	[Pannapacker part 2]
 
 
-### <a href="/mcburton/writing/blob/master/chapter-one/Humanities-Quadrant.markdown#quadrant-intro" name="quadrant-intro" >From `Blaise_Pascal` to `Pascal (programming_language)`: The Humanities Quadrant</a>
+### From `Blaise_Pascal` to `Pascal (programming_language)`: The Humanities Quadrant<a href="/mcburton/writing/blob/master/chapter-one/Humanities-Quadrant.markdown#quadrant-intro" name="quadrant-intro" >.</a>
 
 <a href="/mcburton/writing/blob/master/chapter-one/Humanities-Quadrant.markdown#quadrant-intro" name="quadrant-intro" >
 No good analysis would be complete without an analytical quadrant to frame the big picture. It is perhaps reductionist and categorical, but in light of the current chaos of the disciplines, a quadrant juxtaposing digital methods vs. digital objects is useful as a map. Thusly, I present The Humanities Quadrant. 
