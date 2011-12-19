@@ -11,7 +11,7 @@ Interesting, I found Tom Schienfelds article about ideology and methodolgoy from
 
 
 
-## <a href="/mcburton/writing/blob/master/chapter-one/Humanities-Computing.markdown#hc-intro" name="hc-intro" >Computing Humanists: Humanities Computing</a>
+## Computing Humanists: Humanities Computing<a name="hc-intro"/>
 
 <a href="/mcburton/writing/blob/master/chapter-one/Humanities-Computing.markdown#hc-intro" name="hc-intro" >
 The current momentum for the digital humanities is rooted in the slow, but steady, velocity of humanities computing. 

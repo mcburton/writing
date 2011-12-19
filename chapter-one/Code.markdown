@@ -1,4 +1,4 @@
-<h1 id="code-intro"> To code or not to code: Computational Literacy</h1>
+# To code or not to code: Computational Literacy <a name="code-intro">
 
 
 	[Ramsay blog posts, responses?]
