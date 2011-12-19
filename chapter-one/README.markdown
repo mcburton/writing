@@ -10,26 +10,29 @@ Interesting, I found Tom Schienfelds article about ideology and methodolgoy from
 (4) The rise of collaborative, interdisciplinary work in the humanities."
 
 
-<a href="/mcburton/writing/blob/master/chapter-one/Humanities-Computing.markdown#hc-intro" name="hc-intro" >
-## Computing Humanists: Humanities Computing
 
+## <a href="/mcburton/writing/blob/master/chapter-one/Humanities-Computing.markdown#hc-intro" name="hc-intro" >Computing Humanists: Humanities Computing</a>
+
+<a href="/mcburton/writing/blob/master/chapter-one/Humanities-Computing.markdown#hc-intro" name="hc-intro" >
 The current momentum for the digital humanities is rooted in the slow, but steady, velocity of humanities computing. 
 </a> 
 
-<a href="/mcburton/writing/blob/master/chapter-one/Tools.markdown#tools-intro" name="tools-intro" >
-### When all you have is a hammer: Tools & Methods
 
+### <a href="/mcburton/writing/blob/master/chapter-one/Tools.markdown#tools-intro" name="tools-intro" >When all you have is a hammer: Tools & Methods</a>
+
+<a href="/mcburton/writing/blob/master/chapter-one/Tools.markdown#tools-intro" name="tools-intro" >
 It can't be denied that information technology is affecting the humanities and in the spirit of a postmodern pluralism we must recognize there are multiple ways of accounting for these changes. We can give primacy to one or another factor, the complexity of the changes probably extends beyond what is comprehensible. This complexity is precisely why the impact of technology on society and upon the humanities must be in and of itself a "humanistic” endeavor. Only humanists can fully appreciate and tease out the nuances of this complexity. (Unsworth 2009)
+</a>
 	
-### I want a Pink Pony: Cyberinfrastructure
+### <a href="/mcburton/writing/blob/master/chapter-one/CyberInfrastructure.markdown#cyber-intro" name="cyber-intro" >I want a Pink Pony: Cyberinfrastructure</a>
 
 <a href="/mcburton/writing/blob/master/chapter-one/CyberInfrastructure.markdown#cyber-intro" name="cyber-intro" >
 Infrastructure, or CyberInfrastructure (Atkins 2003) has unquestioningly been a topic of major importance in the sciences. "Big science" like the Large Hadron Collider have unprecedented instrument, sensor, computation, and network needs. National cyberinfrastructure in the US and eScience in Europe have been vital to the advancement of large scale scientific endeavors. Given the impact of cyberinfrastructure for the sciences, the question of cyberinfrastructure for the humanities is obvious.
 </a> 
 
-## Pedagogy
+## <a href="/mcburton/writing/blob/master/chapter-one/Pedagogy.markdown#pedagogy-intro" name="pedagogy-intro">Pedagogy</a>
 
-<a href="/mcburton/writing/blob/master/chapter-one/Pedagogy.markdown#pedagogy-intro" name="pedagogy-intro" >
+<a href="/mcburton/writing/blob/master/chapter-one/Pedagogy.markdown#pedagogy-intro" name="pedagogy-intro">
 The tensions associated with the changes in the humanities are particularly visible in the structures of social reproducibility. If we are to worry about distortion of the humanities, then more attention should be spent considering what kinds of training, in terms of method, theory and practice, the next generation of (digital) humanists receives.
 </a>
 

@@ -1,6 +1,8 @@
-<a href="/mcburton/writing/tree/master/chapter-one/#hc-intro" name="hc-intro" >
-# Computing Humanists: Humanities Computing
 
+# <a href="/mcburton/writing/tree/master/chapter-one/#hc-intro" name="hc-intro" >Computing Humanists: Humanities Computing</a>
+
+<a href="/mcburton/writing/tree/master/chapter-one/#hc-intro" name="hc-intro" >
+Insert intro here.
 </a>
 
 In an MLA report, Cathy Davidson situated the revolution in computational technology in the humanities as Humanities 1.0. Drawing upon Tim O'Reily's Web 1.0 / 2.0 distinction, Davidson argues humanities computing, which like web 1.0, was a first generational shift in the humanities instigated by technological change. This shift, Davidson claims–and I am inclined to agree–resulted in new research practice in the humanities. 
