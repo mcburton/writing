@@ -1,7 +1,8 @@
+<a href="/mcburton/writing/tree/master/chapter-one/#tools-intro" name="tools-intro" >
 # When all you have is a hammer: Tools & Methods
 
-
 It can't be denied that information technology is affecting the humanities and in the spirit of a postmodern pluralism we must recognize there are multiple ways of accounting for these changes. We can give primacy to one or another factor, the complexity of the changes probably extends beyond what is comprehensible. This complexity is precisely why the impact of technology on society and upon the humanities must be in and of itself a "humanistic” endeavor. Only humanists can fully appreciate and tease out the nuances of this complexity. (Unsworth 2009)
+</a>
 
 Humanities computing explores the newly afforded possibilities for research in the humanities as a result of computation _as a tool_. As Unsworth puts it,
 >"..one of the many things you can do with computers is something that I would call humanities computing, in which the computer is used as tool for modeling humanities data and our understanding of it, and that activity is entirely distinct from using the computer when it models the typewriter, or the telephone, or the phonograph, or any of the many other things it can be." (Unsworth 2002)

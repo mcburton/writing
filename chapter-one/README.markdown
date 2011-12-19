@@ -10,39 +10,28 @@ Interesting, I found Tom Schienfelds article about ideology and methodolgoy from
 (4) The rise of collaborative, interdisciplinary work in the humanities."
 
 
+<a href="/mcburton/writing/blob/master/chapter-one/Humanities-Computing.markdown#hc-intro" name="hc-intro" >
 ## Computing Humanists: Humanities Computing
 
-In an MLA report, Cathy Davidson situated the revolution in computational technology in the humanities as Humanities 1.0. Drawing upon Tim O'Reily's Web 1.0 / 2.0 distinction, Davidson argues humanities computing, which like web 1.0, was a first generational shift in the humanities instigated by technological change. This shift, Davidson claims–and I am inclined to agree–resulted in new research practice in the humanities. 
-	>"Humanities 1.0— computational humanities—has changed the way we do research, the kinds of questions we can ask, and the depth, breadth, and detail of the answers we can provide to those questions" (Davidson 2008)
-When drawn with respect to humanities computing, the scope of research practice does not appear to be a contested boundary. All agree that tools and methods in humanities research is squarely the domain of humanities computing. 
+The current momentum for the digital humanities is rooted in the slow, but steady, velocity of humanities computing. 
+</a> 
 
-The discursive shift from humanities computing to digital humanities has been a significant moment in the evolution of the field (Svensson 2009, Unsworth 200?). In less than a decade, the digital humanities, not humanities computing, has risen to prominence as a significant cultural shift within the humanities. Tensions and contests emerge when attempts are made to define the digital humanities as simply a re-branded humanities computing. This tension arises from digital humanities coming to represent a much larger domain of practice than tools and methods. I will address full scope of the "big tent" of the digital humanities later, but for now I suggest it is useful to think of digital humanities as an amorphous super-set of a tightly defined humanities computing.
-
-<img src="./HCtoDHtoH.png" width="618" height="607"/>
-
-Humanities computing, both the term and the practice, have been with the humanities for a very long time. Yet, humanities computing scholarship has, by external measures, had dramatic impact upon the humanities community (Joula 2008). Joula attributes this to both a lack of incentive by traditional humanists, but also an inability to understand the work. For scholars versed in the methods of the traditional humanities, say for example close reading, the notion of statistical analysis of texts is not only foreign but glosses aspects of the text they deem most important. 
-
-The humanities, which is celebrated by some as open to all methods and ideologies, should embrace, but also critically situate these "harder" methods and tools. Recent efforts like the [Praxis Program at the UVA Scholars Lab](http://praxis.scholarslab.org/) or books like the Oxford Companion to the Digital Humanities have begun to help alleviate the alien-ness of these methods. As I will explore further below, the questions of skills is a hotly debated topic, in part due to the porous boundary between humanities computing and the digital humanities. Specifically, the question of "should digital humanists know how to code" is a focal point of tension between the digital humanities and humanities computing.
-
+<a href="/mcburton/writing/blob/master/chapter-one/Tools.markdown#tools-intro" name="tools-intro" >
 ### When all you have is a hammer: Tools & Methods
-	[busa as a shot across the bow of what we knew is possible. ] 
-	[scheinfeld sunset ideology, sunrise methodology]
-	[ Unsworth 2002 HC as modeling]
-	[summit on tools in the humanities]
-	[Davidson - this is Humanities 1.0]
+
+It can't be denied that information technology is affecting the humanities and in the spirit of a postmodern pluralism we must recognize there are multiple ways of accounting for these changes. We can give primacy to one or another factor, the complexity of the changes probably extends beyond what is comprehensible. This complexity is precisely why the impact of technology on society and upon the humanities must be in and of itself a "humanistic” endeavor. Only humanists can fully appreciate and tease out the nuances of this complexity. (Unsworth 2009)
 	
+<a href="/mcburton/writing/blob/master/chapter-one/CyberInfrastructure.markdown#cyber-intro" name="cyber-intro" >
 ### I want a Pink Pony: Cyberinfrastructure
-<a href="/mcburton/writing/blob/master/chapter-one/CyberInfrastructure.markdown#cyber-intro" name="cyber-intro" >Infrastructure, or CyberInfrastructure (Atkins 2003) has unquestioningly been a topic of major importance in the sciences. "Big science" like the Large Hadron Collider have unprecedented instrument, sensor, computation, and network needs. National cyberinfrastructure in the US and eScience in Europe have been vital to the advancement of large scale scientific endeavors. Given the impact of cyberinfrastructure for the sciences, the question of cyberinfrastructure for the humanities is obvious.</a> 
 
-	
+Infrastructure, or CyberInfrastructure (Atkins 2003) has unquestioningly been a topic of major importance in the sciences. "Big science" like the Large Hadron Collider have unprecedented instrument, sensor, computation, and network needs. National cyberinfrastructure in the US and eScience in Europe have been vital to the advancement of large scale scientific endeavors. Given the impact of cyberinfrastructure for the sciences, the question of cyberinfrastructure for the humanities is obvious.
+</a> 
 
+<a href="/mcburton/writing/blob/master/chapter-one/Pedagogy.markdown#pedagogy-intro" name="pedagogy-intro" >
 ## Pedagogy
 
 The tensions associated with the changes in the humanities are particularly visible in the structures of social reproducibility. If we are to worry about distortion of the humanities, then more attention should be spent considering what kinds of training, in terms of method, theory and practice, the next generation of (digital) humanists receives.
-
-The debate amongst digital humanists about learning to program is fascinating. While I do not intend to do full justice to the debate, I will explore some recent discussion below. I am including this discussion because it raises some interesting questions about how the humanities is changing/distorting as a field and also the debate implicitly asks "what is being lost." Throughout the humanities infrastructure discussion are calls to include humanists because of the specific insights they can bring to the design of technology and infrastructure. I,  call this the 'humanist mystique' 
-
-The full extent to which pedagogy is affected by the digital humanities covers a much larger spectrum than just the code debate and the humanist mystique. I am making no claims as to completeness. I include these two topics because of their relation to humanities infrastructure and, as I'll explore in the section on scholarship and dissemination, grey literature.
+</a>
 
 ### To code or not to code: Computational Literacy
 	[Ramsay blog posts, responses?]
@@ -75,21 +64,24 @@ The full extent to which pedagogy is affected by the digital humanities covers a
 	[theory in digital humanities? Hockey talks of two cultures...]
 	[transducer ]
 
-### Multimodal Scholarship
-	[what ultimately was Busa's contribution? more than a book]
-	[Palmer 2004 thematic research collections]
-	[scheinfeld sunrise sunset, Sarton's major contribution was curation, editorial]
-	[mcpherson 2009 notes the evolution from computing humanist to blogging humanist to multimodal humanist]
-	[Kirschenbaum 2010 provides evidence of mcpherson's claim of  textual focus in DH]
-	[burgess & hamming 2011 labor & multimedia scholarship]
-	[Vectors as a shot across the bow of textual scholarship ]
-	[dh manifesto 2.0] 
-	
+<a href="/mcburton/writing/blob/master/chapter-one/Multimodal.markdown#multimodal-intro" name="multimodal-intro" >	
+### Multimodal Humanities 2.0
+
+Both Cathy Davidson (2008) and Tara McPherson (2009) have written that the digital humanities is something larger than the narrowly and rigidly defined notions that evolved out of humanities computing. Both treatments of the digital humanities expand its scope to connect with the existing "crises" in the academy, namely the crisis in the humanities and the criss in scholarly publishing.
+</a>
+
+
 
 ## Bring in the Clowns: Big Tent Digital Humanities
 	[svensson parts 1 and 2]
 	[transducer digital humanities situation]
 	[Pannapacker part 2]
+
+<a href="/mcburton/writing/blob/master/chapter-one/Humanities-Quadrant.markdown#quadrant-intro" name="quadrant-intro" >	
+### From [Blaise_Pascal](http://en.wikipedia.org/wiki/Blaise_Pascal) to [Pascal (programming_language)](http://en.wikipedia.org/wiki/Pascal_(programming_language)): The Humanities Quadrant
+
+No good analysis would be complete without an analytical quadrant to frame the big picture. It is perhaps reductionist and categorical, but in light of the current chaos of the disciplines, a quadrant juxtaposing digital methods vs. digital objects is useful as a map. Thusly, I present The Humanities Quadrant. 
+</a>
 
 ## Conclusion
 
