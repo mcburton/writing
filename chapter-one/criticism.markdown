@@ -1,4 +1,4 @@
-*** Reflexive Criticism
+# Trolling is a Art: Critique
 
 	
 
@@ -15,7 +15,7 @@
 	infrastructure answers the "how" but humanities needs a research program to answer the "what" and "why" -"There exists an important but often-ignored distinction between the research programs that rely on an infrastructure and the research infrastructure itself." (Working together apart 2009) This echos the calls for "grand challenges" what are the big problems in the humanities? Of course isn't this a problematic question? Can any question ever be "solved" in the humanities, seems like there is an epistemological conflict here. Does (cyber)infrastructure, which is in itself a grand notion, imply grand narratives and grand challenges?
 	
 Wouldn't the humanities, being fully afflicted with The Postmodern Condition, react against the notion of "grand challenges" and "big humanities
-### Trolling is a Art: Critique
+### 
 	[flanders 2009 productive unease]
 	[gibbs critical discourse in DH]
 	[lui “Where is Cultural Criticism in the Digital Humanities”

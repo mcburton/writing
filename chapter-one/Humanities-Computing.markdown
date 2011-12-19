@@ -5,7 +5,8 @@ Insert intro here.
 </a>
 
 In an MLA report, Cathy Davidson situated the revolution in computational technology in the humanities as Humanities 1.0. Drawing upon Tim O'Reily's Web 1.0 / 2.0 distinction, Davidson argues humanities computing, which like web 1.0, was a first generational shift in the humanities instigated by technological change. This shift, Davidson claims–and I am inclined to agree–resulted in new research practice in the humanities. 
-	>"Humanities 1.0— computational humanities—has changed the way we do research, the kinds of questions we can ask, and the depth, breadth, and detail of the answers we can provide to those questions" (Davidson 2008)
+
+>"Humanities 1.0— computational humanities—has changed the way we do research, the kinds of questions we can ask, and the depth, breadth, and detail of the answers we can provide to those questions" (Davidson 2008)
 When drawn with respect to humanities computing, the scope of research practice does not appear to be a contested boundary. All agree that tools and methods in humanities research is squarely the domain of humanities computing. 
 
 The discursive shift from humanities computing to digital humanities has been a significant moment in the evolution of the field (Svensson 2009, Unsworth 200?). In less than a decade, the digital humanities, not humanities computing, has risen to prominence as a significant cultural shift within the humanities. Tensions and contests emerge when attempts are made to define the digital humanities as simply a re-branded humanities computing. This tension arises from digital humanities coming to represent a much larger domain of practice than tools and methods. I will address full scope of the "big tent" of the digital humanities later, but for now I suggest it is useful to think of digital humanities as an amorphous super-set of a tightly defined humanities computing.
