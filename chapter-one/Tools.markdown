@@ -1,6 +1,6 @@
-<a href="/mcburton/writing/tree/master/chapter-one/#tools-intro" name="tools-intro" >
-# When all you have is a hammer: Tools & Methods
+# When all you have is a hammer: Tools & Methods<a href="/mcburton/writing/tree/master/chapter-one/#tools-intro" name="tools-intro" >.</a>
 
+<a href="/mcburton/writing/tree/master/chapter-one/#tools-intro" name="tools-intro" >
 It can't be denied that information technology is affecting the humanities and in the spirit of a postmodern pluralism we must recognize there are multiple ways of accounting for these changes. We can give primacy to one or another factor, the complexity of the changes probably extends beyond what is comprehensible. This complexity is precisely why the impact of technology on society and upon the humanities must be in and of itself a "humanistic” endeavor. Only humanists can fully appreciate and tease out the nuances of this complexity. (Unsworth 2009)
 </a>
 

@@ -1,4 +1,4 @@
-# To code or not to code: Computational Literacy <a name="code-intro">
+# To code or not to code: Computational Literacy <a name="code-intro">.</a>
 
 
 	[Ramsay blog posts, responses?]

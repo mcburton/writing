@@ -1,4 +1,4 @@
-# <a href="/mcburton/writing/tree/master/chapter-one/#tent-intro" name="tent-intro">Big Tent Digital Humanities</a>
+# Big Tent Digital Humanities<a href="/mcburton/writing/tree/master/chapter-one/#tent-intro" name="tent-intro">.</a>
 	
 <a href="/mcburton/writing/tree/master/chapter-one/#tent-intro" name="tent-intro">Intro here</a>
 	

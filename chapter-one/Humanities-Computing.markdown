@@ -1,4 +1,3 @@
-
 # Computing Humanists: Humanities Computing<a href="/mcburton/writing/tree/master/chapter-one/#hc-intro" name="hc-intro" >.</a>
 
 <a href="/mcburton/writing/tree/master/chapter-one/#hc-intro" name="hc-intro" >

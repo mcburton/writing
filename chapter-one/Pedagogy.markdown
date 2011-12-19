@@ -1,4 +1,4 @@
-# <a href="/mcburton/writing/tree/master/chapter-one/#pedagogy-intro" name="pedagogy-intro">Pedagogy</a>
+# Pedagogy<a href="/mcburton/writing/tree/master/chapter-one/#pedagogy-intro" name="pedagogy-intro">.</a>
 
 <a href="/mcburton/writing/tree/master/chapter-one/#pedagogy-intro" name="pedagogy-intro">
 The tensions associated with the changes in the humanities are particularly visible in the structures of social reproducibility. If we are to worry about distortion of the humanities, then more attention should be spent considering what kinds of training, in terms of method, theory and practice, the next generation of (digital) humanists receives.
