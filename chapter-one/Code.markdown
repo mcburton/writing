@@ -1,4 +1,6 @@
-## To code or not to code: Computational Literacy
+<h1 id="code-intro"> To code or not to code: Computational Literacy</h1>
+
+
 	[Ramsay blog posts, responses?]
 	[Salter 2010, program or be programmed. See also comments]
 	[hockey 2004, 1986 - code is the new latin? This is an endless debate]
