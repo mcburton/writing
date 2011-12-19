@@ -11,7 +11,7 @@ When drawn with respect to humanities computing, the scope of research practice 
 
 The discursive shift from humanities computing to digital humanities has been a significant moment in the evolution of the field (Svensson 2009, Unsworth 200?). In less than a decade, the digital humanities, not humanities computing, has risen to prominence as a significant cultural shift within the humanities. Tensions and contests emerge when attempts are made to define the digital humanities as simply a re-branded humanities computing. This tension arises from digital humanities coming to represent a much larger domain of practice than tools and methods. I will address full scope of the "big tent" of the digital humanities later, but for now I suggest it is useful to think of digital humanities as an amorphous super-set of a tightly defined humanities computing.
 
-<img src="HCtoDHtoH.png" width="618" height="607"/>
+<img src="/mcburton/writing/blob/master/chapter-one/HCtoDHtoH.png" width="618" height="607"/>
 
 Humanities computing, both the term and the practice, have been with the humanities for a very long time. Yet, humanities computing scholarship has, by external measures, had dramatic impact upon the humanities community (Joula 2008). Joula attributes this to both a lack of incentive by traditional humanists, but also an inability to understand the work. For scholars versed in the methods of the traditional humanities, say for example close reading, the notion of statistical analysis of texts is not only foreign but glosses aspects of the text they deem most important. 
 

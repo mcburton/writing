@@ -66,10 +66,10 @@ The tensions associated with the changes in the humanities are particularly visi
 	[McGann theory of Rossetti archive?]
 	[theory in digital humanities? Hockey talks of two cultures...]
 	[transducer ]
+	
+### <a href="/mcburton/writing/blob/master/chapter-one/Multimodal.markdown#multimodal-intro" name="multimodal-intro" >Multimodal Humanities 2.0</a>
 
-<a href="/mcburton/writing/blob/master/chapter-one/Multimodal.markdown#multimodal-intro" name="multimodal-intro" >	
-### Multimodal Humanities 2.0
-
+<a href="/mcburton/writing/blob/master/chapter-one/Multimodal.markdown#multimodal-intro" name="multimodal-intro" >
 Both Cathy Davidson (2008) and Tara McPherson (2009) have written that the digital humanities is something larger than the narrowly and rigidly defined notions that evolved out of humanities computing. Both treatments of the digital humanities expand its scope to connect with the existing "crises" in the academy, namely the crisis in the humanities and the criss in scholarly publishing.
 </a>
 
