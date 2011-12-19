@@ -4,7 +4,7 @@
 No good analysis would be complete without an analytical quadrant to frame the big picture. It is perhaps reductionist and categorical, but in light of the current chaos of the disciplines, a quadrant juxtaposing digital methods vs. digital objects is useful as a map. Thusly, I present The Humanities Quadrant. 
 </a>
 
-<img src="../humanist-quadrant.png" width="570" height="517"/>
+<img src="/mcburton/writing/raw/master/chapter-one/humanist-quadrant.png" width="570" height="517"/>
 
 The delegation of the so called "traditional humanities" to the lower left square of the quadrant is by no means a minimization of salience. Nor am I seriously implying there is no relation between the traditional humanities and the rest of the square. But this quadrant needs to be here, as an other, because the discussions about humanities computing and the digital humanities often define themselves in relation to a mythical "traditional humanities." Somewhere, a humanist still scours paper archives, jotting down notes on their yellow pad to write up on their typewriter in the form of a 300 page monograph to be mailed to a university press. Obviously, digital methods and objects have leaked into even the most traditional of humanities scholar's practice, but the point remains, humanities computing and the digital humanities see themselves as something distinct and new from the traditional humanities. 
 
