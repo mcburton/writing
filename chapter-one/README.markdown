@@ -21,17 +21,13 @@ The current momentum for the digital humanities is rooted in the slow, but stead
 
 It can't be denied that information technology is affecting the humanities and in the spirit of a postmodern pluralism we must recognize there are multiple ways of accounting for these changes. We can give primacy to one or another factor, the complexity of the changes probably extends beyond what is comprehensible. This complexity is precisely why the impact of technology on society and upon the humanities must be in and of itself a "humanistic” endeavor. Only humanists can fully appreciate and tease out the nuances of this complexity. (Unsworth 2009)
 	
-<a href="/mcburton/writing/blob/master/chapter-one/CyberInfrastructure.markdown#cyber-intro" name="cyber-intro" >
-### I want a Pink Pony: Cyberinfrastructure
+<h3 id="cyber-intro">I want a Pink Pony: Cyberinfrastructure</h3>
 
-Infrastructure, or CyberInfrastructure (Atkins 2003) has unquestioningly been a topic of major importance in the sciences. "Big science" like the Large Hadron Collider have unprecedented instrument, sensor, computation, and network needs. National cyberinfrastructure in the US and eScience in Europe have been vital to the advancement of large scale scientific endeavors. Given the impact of cyberinfrastructure for the sciences, the question of cyberinfrastructure for the humanities is obvious.
-</a> 
+[Infrastructure, or CyberInfrastructure (Atkins 2003) has unquestioningly been a topic of major importance in the sciences. "Big science" like the Large Hadron Collider have unprecedented instrument, sensor, computation, and network needs. National cyberinfrastructure in the US and eScience in Europe have been vital to the advancement of large scale scientific endeavors. Given the impact of cyberinfrastructure for the sciences, the question of cyberinfrastructure for the humanities is obvious.](/mcburton/writing/blob/master/chapter-one/CyberInfrastructure.markdown#cyber-intro)
 
-<a href="/mcburton/writing/blob/master/chapter-one/Pedagogy.markdown#pedagogy-intro" name="pedagogy-intro" >
-## Pedagogy
+<h2 id="pedagogy-intro"> Pedagogy </h2>
 
-The tensions associated with the changes in the humanities are particularly visible in the structures of social reproducibility. If we are to worry about distortion of the humanities, then more attention should be spent considering what kinds of training, in terms of method, theory and practice, the next generation of (digital) humanists receives.
-</a>
+[The tensions associated with the changes in the humanities are particularly visible in the structures of social reproducibility. If we are to worry about distortion of the humanities, then more attention should be spent considering what kinds of training, in terms of method, theory and practice, the next generation of (digital) humanists receives.](/mcburton/writing/blob/master/chapter-one/Pedagogy.markdown#pedagogy-intro)
 
 ### To code or not to code: Computational Literacy
 	[Ramsay blog posts, responses?]
