@@ -5,9 +5,9 @@
 ## Humanities Computing vs. Digital Humanities
 
 
-<script type="text/javascript" src="http://www.gmodules.com/ig/ifr?url=http%3A%2F%2Fwww.google.com%2Fig%2Fmodules%2Fgoogle_insightsforsearch_interestovertime_searchterms.xml&amp;up__property=empty&amp;up__search_terms=digital+humanities%7Chumanities+computing&amp;up__location=empty&amp;up__category=0&amp;up__time_range=empty&amp;up__compare_to_category=false&amp;synd=open&amp;w=600&amp;h=350&amp;lang=en-US&amp;title=Google+Insights+for+Search&amp;border=%23ffffff%7C3px%2C1px+solid+%23999999&amp;output=js"></script>
+<img src="/mcburton/writing/raw/master/chapter-one/insights-DHvsHC.png" width="610" height="298"/>
 
-<img src="/mcburton/writing/raw/master/chapter-one/ngram-DHvsHC.png" width="510" height="110"/>
+<img src="/mcburton/writing/raw/master/chapter-one/ngram-DHvsHC.png" width="600" height="300"/>
 
 
 
