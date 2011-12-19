@@ -1,7 +1,6 @@
 # Bring in the Clowns: Big Tent Digital Humanities
-
-
-
+	
+	
 "Let me expand on what I mean by “digital humanities.” We use “digital humanities” as an umbrella term for a number of different activities that surround technology and humanities scholarship. Under the digital humanities rubric, I would include topics like open access to materials, intellectual property rights, tool development, digital libraries, data mining, born-digital preservation, multimedia publication, visualization, GIS, digital reconstruction, study of the impact of technology on numerous fields, technology for teaching and learning, sustainability models, and many others." (Bobley 2008 [http://www.neh.gov/whoweare/cio/odhfiles/Why.The.Digital.Humanities.pdf])
 
 
