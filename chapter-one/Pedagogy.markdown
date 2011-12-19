@@ -1,4 +1,4 @@
-<h1 id="pedagogy-intro"> Pedagogy </h1>
+<h1 name="pedagogy-intro"> Pedagogy </h1>
 
 [The tensions associated with the changes in the humanities are particularly visible in the structures of social reproducibility. If we are to worry about distortion of the humanities, then more attention should be spent considering what kinds of training, in terms of method, theory and practice, the next generation of (digital) humanists receives.](/mcburton/writing/tree/master/chapter-one/#pedagogy-intro)
 
