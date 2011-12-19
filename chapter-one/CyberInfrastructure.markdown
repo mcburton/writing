@@ -11,24 +11,23 @@ At the risk of evoking science envy(more below), I think there is a productive a
 
 ### National Cyberinfrastructure
 
-In 2006, the American Council for Learned Societies Commisson on CyberInfrastructure issued their report, Our Cultural Commonwealth, o
+In 2006, the American Council for Learned Societies Commission on CyberInfrastructure issued their report, Our Cultural Commonwealth, o
 
  From the Arts & Humanities Act of 1965 "(3) An advanced civilization must not limit its efforts to science and technology alone, but must give full value and support to the other great branches of scholarly and cultural activity in order to achieve a better understanding of the past, a better analysis of the present, and a better view of the future. ...(4) Democracy demands wisdom and vision in its citizens. It must therefore foster and support a form of education, and access to the arts and the humanities, designed to make people of all back-grounds and wherever located masters of their technology and not its unthinking servants." 
-	- If we take for granted the assumption of the 1965 Act, which to be clear 	I would argue we should, then our collective societal understanding of resent technological change will come from humanities academic community. To enable the humanities to that end, he report argues for a "leveraged, coordinated investment" in humanities cyberinfrastructure. This said, there are a host of complicated barriers that must be overcome. [insert constraints]
-	- As of the writing of the report, there has been no coordinated efforts like those in the sciences, in humanities cyberinfrastructure. This is not to say there have not been substaintial efforts in the development of humanities infrastructure. There is a long history of challenges in sustaining humanities computing infrastructure (Hockey 2004), early projects like COCOA or the Oxford concordance program suffered from loss of institutional support to rapidly changing technological ecosystems (Hockey 2004).  As the ACLS report identifies institutional stability necessary to sustain humanities cyberinfrastructure must not only be fiscial, it must also be intellectual. Only through the passionate attention of sufficient human capital can a national effort towards humanities cyberinfrastucture succeed. 
+
+If we take for granted the assumption of the 1965 Act, which to be clear I would argue we should, then our collective societal understanding of resent technological change would be informed by the humanities academic community. To enable the humanities in that endeavor, the report argues for a "leveraged, coordinated investment" in humanities cyberinfrastructure. As of the writing of the report, there has been no coordinated efforts like those in the sciences, in humanities cyberinfrastructure. This is not to say there have not been substaintial efforts in the development of humanities infrastructure. There is a long history of challenges in sustaining humanities computing infrastructure (Hockey 2004), early projects like COCOA or the Oxford concordance program suffered from loss of institutional support to rapidly changing technological ecosystems (Hockey 2004).  As the ACLS report identifies institutional stability necessary to sustain humanities cyberinfrastructure must not only be fiscial, it must also be intellectual. Only through the passionate attention of sufficient human capital can a national effort towards humanities cyberinfrastucture succeed. 
 
 
 ### Science Envy?
 
 Borgman, drawing upon her groundbreaking analysis of scholarship in the digital age (2007), focuses specifically on the digital humanities, asking a series of questions. Her call to action asks 5 questions of the digital humanities:
 
-"
-What are Data?
-What are the infrastructure requirements?
-Where are the social studies of digital humanities?
-What is the humanities laboratory of the 21st century?
-What is the value proposition for digital humanities in the era of declining budgets"
-"
+* What are Data?
+* What are the infrastructure requirements?
+* Where are the social studies of digital humanities?
+* What is the humanities laboratory of the 21st century?
+* What is the value proposition for digital humanities in the era of declining budgets"
+
 
 Underlying each of these questions is a potentially problematic comparison. This call to action implicitly places the humanities in relation to the sciences. "Data", "infrastructure", "laboratories", "value propositions" these are the analytical building blocks of the social studies of science. Now it would obviously come as no surprise that Borgman, who comes out of science studies, would draw this comparison. Having come from science studies myself Borgman's call "Where are the social studies of digital humanities?" resonates with me. 
 
