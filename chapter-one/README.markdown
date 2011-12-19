@@ -32,7 +32,7 @@ The humanities, which is celebrated by some as open to all methods and ideologie
 	[Davidson - this is Humanities 1.0]
 	
 ### I want a Pink Pony: Cyberinfrastructure
-<a href="README#cyber-intro" id="#cyber-intro" >Infrastructure, or CyberInfrastructure (Atkins 2003) has unquestioningly been a topic of major importance in the sciences. "Big science" like the Large Hadron Collider have unprecedented instrument, sensor, computation, and network needs. National cyberinfrastructure in the US and eScience in Europe have been vital to the advancement of large scale scientific endeavors. Given the impact of cyberinfrastructure for the sciences, the question of cyberinfrastructure for the humanities is obvious.</a> 
+<a href="Cyberinfrastructure#cyber-intro" id="#cyber-intro" >Infrastructure, or CyberInfrastructure (Atkins 2003) has unquestioningly been a topic of major importance in the sciences. "Big science" like the Large Hadron Collider have unprecedented instrument, sensor, computation, and network needs. National cyberinfrastructure in the US and eScience in Europe have been vital to the advancement of large scale scientific endeavors. Given the impact of cyberinfrastructure for the sciences, the question of cyberinfrastructure for the humanities is obvious.</a> 
 
 	
 
