@@ -18,6 +18,8 @@ The coding debates are nothing new in humanities computing,
 
 > "[The early] period [of humanities computing] also saw the introduction of courses on various aspects of humanities computing. Some courses were given by staff within academic computing centers and concentrated mostly on the mechanics of using specific software programs. Others looked more broadly at application areas. Those given by academics tended to concentrate on their own interests giving rise to student projects in the same application areas. A debate about whether or not students should learn computer programming was ongoing. Some felt that it replaced Latin as a "mental discipline" (Hockey 1986)." (Hockey 2004) 
 
+> "DH shouldn’t only be about the production of knowledge. It’s about challenging the ways that knowledge is represented and shared." [(Sample 2011)](http://www.samplereality.com/2011/05/25/the-digital-humanities-is-not-about-building-its-about-sharing/
+)
 
 
 > "Much early archaeological computing required scholars to write their own programs, but that is no longer necessary. Most now use commercial software, although special archaeological problems such as certain statistical procedures and seriation routines
