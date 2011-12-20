@@ -45,15 +45,28 @@ Perhaps ironically it is also William Pannapacker who notes,
 
 He makes a really good point about twitter, is overwhelming. In a time when we are completely overwhelmed with the sheer amount of work necessary to be a scholar, to add yet another thing, a thing which is constantly streaming, updating, tweeting, re-tweeting, at-replying, seems to be too much. There isn't enough time in the day to all of one's scholarly obligations (reading, writing, research, teaching, committees, conferences, grant writing, etc.). 
 
+### The Pace of Scholarly Communication
 <img src="/mcburton/writing/raw/master/chapter-one/pace-scholarly-communication.png" width="525" height="350"/>
 
-The various technologies of scholarly communication each afford a distinctive discursive pace. Books are slow, they take a long time to read and even longer to write, but the long-form arguments has no equal in the discourse. Journals provide somewhat of a break to the time commitment of the monograph, but they can sometimes take as long as books to be published. Blogging provides the perfect release valve to the time constraints. There is nothing preventing long-form argument and the feedback cycle with blogging comments is immediate. As Dan Cohen notes, [the pace of blogging is perfect for the busy scholar. ](http://www.dancohen.org/2006/08/21/professors-start-your-blogs/) 
+The various technologies of scholarly communication each afford a distinctive discursive pace. Books are slow, they take a long time to read and even longer to write, but the long-form argument has no equal in the scholarly discourse. Journals provide a smaller time commitment of the monograph to write, but can sometimes take just as long to be published. The slow pace of journals and monographs creates a high barrier to scholarly discourse, you really have to work at back-and-forth debate. Blogging on the other hand, provides release from such time constraints. There is nothing preventing long-form argument and the publishing/feedback cycle is immediate. As Dan Cohen notes, [the pace of blogging is perfect for the busy scholar. ](http://www.dancohen.org/2006/08/21/professors-start-your-blogs/) 
 
 In a blog post about the pace of scholarly debate, Jeffery Pomerantz notes how technologically mediated public forums afford a radically different discursive dynamic. First, he notes a back-and-forth in the journal JASIST which took two years to complete three moves. In the blogosphere,
 
 > "I witnessed another intellectual debate with three moves recently: Paul Courant to Siva Vaidhyanathan to Paul Courant. Total elapsed time: two days. Two days! The Courant-Vaidhyanathan exchange was literally 365 times faster than the Bates-Hjørland exchange." [(Pomerantz 2008)](http://www.ibiblio.org/pomerantz/blog/2008/02/intellectual-debates-in-public-forums/)
 
-Twitter is the wildcard. Twitter's demand upon your attention is addictive, yet, as Pannapacker notes, it seems to be "where the action is." While there is no question that twitter has had a significant impact upon the digital humanities community, there is little reflective analysis about the nature of that impact. Twitter has been criticized as the ["cool-kids' table"](http://chronicle.com/blogs/brainstorm/pannapacker-at-mla-digital-humanities-triumphant/30915) and there are [serious issues about inclusion/exclusion.](http://chronicle.com/blogs/profhacker/academics-and-social-media-mla11-free-wifi-and-the-question-of-inclusion/29945) Yet, as Dan Cohen notes,
+As noted by the diagram, twitter is the wildcard. Twitter's demand upon your attention is addictive, yet, as Pannapacker notes, it seems to be "where the action is."  In a blog post about twitter Mark Sample explores how twitter affects his own writing process,
+
+>"There’s one final realization I’ve had about Twitter. For a while I had been wondering whether every word I wrote on Twitter was one less word I would write somewhere else. Was Twitter distracting me from what I really needed to write? Was Twitter making me less prolific? And so here it is, my most coherent articulation of what led me to break suddenly from social media: I quit Twitter because I wished to write deliberately, to type only the essential words of my research, and see if I could not learn what Twitterless life had to teach, and not, when I came up for tenure, discover that I had not written at all.
+>
+>Or something like that.
+>
+>It only took a few days before I knew the answer to my question about Twitter and writing. And it’s this: writing is not a zero sum game.
+>
+>I write more when I tweet."[(Sample 2010)](http://www.samplereality.com/2010/12/03/twitter-is-a-happening-to-which-i-am-returning/)
+
+What Sample is telling us here is it isn't the infrastructure of twitter from which he derives value, it isn't it followers or followees. Rather it is the act of tweeting, of crafting 140 characters into a pithy, snarky little quip, that helps him write more outside of twitter. While this is interesting, it is also important to remember this is a personal reflection, written on a blog, and not any sort of general valuation of twitter. There is no question that twitter has had a significant impact upon the digital humanities community and scholarly practice. What we need now is more reflective analysis about the nature of that impact.
+
+Twitter has been criticized as the ["cool-kids' table"](http://chronicle.com/blogs/brainstorm/pannapacker-at-mla-digital-humanities-triumphant/30915) and there are [serious issues about inclusion/exclusion.](http://chronicle.com/blogs/profhacker/academics-and-social-media-mla11-free-wifi-and-the-question-of-inclusion/29945) Yet, as Dan Cohen notes,
 
 > "social media such as Twitter has provided a surprisingly good set of pointers toward worthy materials I should be reading or exploring. (And as happened with blogs five years ago, the critics are now dismissing Twitter as unscholarly, missing the filtering function it somehow generates among so many unfiltered tweets.)" [(Cohen 2009)](http://www.dancohen.org/2009/11/18/introducing-digital-humanities-now/)
 
