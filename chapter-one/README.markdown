@@ -1,6 +1,13 @@
 # What is a/the Digital Humanities?
 
-Before you read, watch my screencast: [TODO: insert link]
+Before you read, watch my screencasts: 
+
+* [How did I make this?](http://www.youtube.com/watch?v=y4KLIPdRGW4)
+<iframe width="420" height="315" src="http://www.youtube.com/embed/y4KLIPdRGW4" frameborder="0" allowfullscreen></iframe>
+
+* [How to "read" this document(s)](http://www.youtube.com/watch?v=Ymx_KtmMjqg)
+
+
 
 The question, "what is the digital humanities" is extremely difficult to answer, which of course has attracted humanists to pontificate about it endlessly. Unlike the sciences, the humanities relishes in uncertainty [(Unsworth 2009)](http://www3.isrl.illinois.edu/~unsworth/Cyberinfrastructure.RLG.html) for it is far more interesting than certainty. I suspect there will never be a clear answer because quiddity(what-ness) of the digital humanities is lost in a sea of haecceities(this-ness). What you will find below is my attempt to index the varied "this-ness" of the digital humanities. I make no claims at completeness, nor at done-ness. Instead, I encourage the patient reader to explore the various interlinked explorations of the literature and even return after a time for the content below is an ever-shifting stream.
 
