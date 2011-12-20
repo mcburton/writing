@@ -8,7 +8,7 @@ The question, "what is the digital humanities" is extremely difficult to answer,
 ### Computing Humanists: Humanities Computing<a href="/mcburton/writing/blob/master/chapter-one/Humanities-Computing.markdown#hc-intro" name="hc-intro" >.</a>
 
 <a href="/mcburton/writing/blob/master/chapter-one/Humanities-Computing.markdown#hc-intro" name="hc-intro">
-The current momentum for the digital humanities is rooted in the slow, but steady, velocity of humanities computing. 
+The current momentum of the digital humanities is rooted in the slow, methodological plodding of humanities computing for the past 60 years. 
 </a> 
 
 

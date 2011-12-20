@@ -184,7 +184,7 @@ the Council on Library and Information Resources and The National Endowment for 
 	- "The MA that the University of Virginia is soon to start is called Digital Humanities and is under the auspices of the Media Studies Program." This isn't dismissive, but it is interesting the use of the word "auspices."
 	- The conclusion to Hockey's history of humanities computing highlights TEI and repeatedly discusses the broad applicability of HC "tools and techniques." 
 	    
-1. Juola 2008 Juola, Patrick. 2008. "Killer applications in digital humanities." Literary and Linguistic Computing, 23(1):73-83.
+1. Juola 2008 Juola, Patrick. 2008. "Killer applications in digital humanities." Literary and Linguistic Computing, 23(1):73-83. (http://llc.oxfordjournals.org/content/23/1/73.abstract)
 	- from Svensson 2009 "In an interesting and provocative paper, [Juola 2008, 83] argues that the emerging discipline of "digital humanities" has been emerging for decades and that there is a perceived neglect on the part of the broader humanities community. While he is appreciative of the work done in humanities computing, he also finds that 'For the past forty years, humanities computing have more or less languished in the background of traditional scholarship. Scholars lack incentive to participate (or even to learn about) the results of humanities computing.'"
 	- from Svensson 2009 "Juola's analysis shows that citation scores for humanities computing journals are very low and he also points out that the American Ivy League universities are sparsely represented in humanities computing publications and at humanities computing conferences."
 
