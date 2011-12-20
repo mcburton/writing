@@ -18,7 +18,7 @@ What you will find below is my attempt to index some of the varied "this-is-ness
 ### Computing Humanists: Humanities Computing<a href="/mcburton/writing/blob/master/chapter-one/Humanities-Computing.markdown#hc-intro" name="hc-intro" >.</a>
 
 <a href="/mcburton/writing/blob/master/chapter-one/Humanities-Computing.markdown#hc-intro" name="hc-intro">
-The current momentum of the digital humanities is rooted in the slow, methodological plodding of humanities computing for the past 60 years.
+To understand the digital humanities it is important to understand humanities computing. The current momentum of the digital humanities is rooted in the slow, methodological plodding of humanities computing for the past 60 years. Without humanities computing, we would not have digital humanities. The path cleared by computing humanists created the opportunity space the digital humanities now occupies.
 </a> 
 
 
