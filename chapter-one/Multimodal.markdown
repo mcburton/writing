@@ -1,20 +1,22 @@
 # Multimodal Humanities 2.0<a href="/mcburton/writing/blob/master/chapter-one/README.markdown#multimodal-intro" name="multimodal-intro" >.</a>
 
 <a href="/mcburton/writing/blob/master/chapter-one/README.markdown#multimodal-intro" name="multimodal-intro" >
-Both Cathy Davidson (2008) and Tara McPherson (2009) have written that the digital humanities is something larger than the narrowly and rigidly defined notions that evolved out of humanities computing. Both treatments of the digital humanities expand its scope to connect with the existing "crises" in the academy, namely the crisis in the humanities and the criss in scholarly publishing. 
+Both Cathy Davidson (2008) and Tara McPherson (2009) have written that the digital humanities is something larger than the narrowly and rigidly defined notions that evolved out of humanities computing. Both treatments of the digital humanities expand its scope to connect with the existing "crises" in the academy, namely the crisis in the humanities and the crisis in scholarly publishing. 
 </a>
 
 Cathy Davidson situates the digital humanities within the existing "crisis in the humanities" and the relationship between the humanities and the sciences. 
 
 > "The so-called crisis in the humanities is nothing new. Even in The Two Cultures and the Scientific Revolution (1959), C. P. Snow was already lamenting that “thirty years ago the cultures had long ceased to speak to each other” and blamed the bifurcation in part on the devaluing of humanists: “young scientists" now feel that they are part of a culture on the rise,” while humanists feel their worth “in retreat” (18, 19)"
 
-Crisis precipitates change. Rather than retreat, Davidson wants the digital humanities to become a rallying point for change not only in research questions and methods but also in the way teach, what we teach, our intellectual products, our systems of promotion & credentialing, and the very foundations of humanities social institution. This vision of the digital humanities is fundamentally different, but very much related to, humanities computing. As I mentioned elsewhere, Davidson considers humanities computing to be humanities 1.0 (although I'm not sure what then the traditional humanities might be, humanities 0.0?), the digital humanities with its revolutionary rhetoric is humanities 2.0.
+Crisis precipitates change. Rather than retreat, <a name="humanities-2" href="mcburton/writing/blob/master/chapter-one/Big-Tent.markdown#humanities-2">Davidson wants the digital humanities to become a rallying point for change not only in research questions and methods but also in the way teach, what we teach, our intellectual products, our systems of promotion & credentialing, and the very foundations of humanities social institution. This vision of the digital humanities is fundamentally different, but very much related to, humanities computing. Davidson considers humanities computing to be humanities 1.0 (although I'm not sure what then the traditional humanities might be, humanities 0.0?), the digital humanities with its revolutionary rhetoric is humanities 2.0.</a>
 
->"Humanities 2.0 is distinguished from monumental, first-generation, data-based projects not just by its interactivity but also by openness about participation grounded in a different set of theoretical premises, which decenter knowledge and authority" (Davidson 2008).
+<a name="expanded-humanities" href="/mcburton/writing/blob/master/chapter-one/Alt-Ac.markdown#expanded-humanities">
+>"Humanities 2.0 is distinguished from monumental, first-generation, data-based projects not just by its interactivity but also by openness about participation grounded in a different set of theoretical premises, which decenter knowledge and authority" [(Davidson 2008)](http://www.mlajournals.org/doi/abs/10.1632/pmla.2008.123.3.707).
+</a>
 
 Much like the transition of the internet from web 1.0 to web 2.0, the transition from humanities 1.0 to humanities 2.0 is one in which the afforded capabilities of information technology are more fully utilized. Where humanities computing namely used information technology for its computational abilities, the digital humanities leverage both the computational and communicative power of information  technology.
 
-[No one has explored the expressive potential of information technology for the the digital humanities than Tara McPherson and her team with the journal Vectors. The aim of the journal is to publish "that which cannot be printed." Each "article" is a lovingly hand-crafted work of art, the result of an intense collaboration between designers, coders, editors, and scholars. The works themselves are fully multi-modal, leveraging the full power of the web, to create textual, auditory, visual, and interactive experiences and experiments in rhetoric and narrative.](connect to dissemination discussion?)
+No one has explored the expressive potential of information technology for the the digital humanities than Tara McPherson and her team with the journal Vectors. The aim of the journal is to publish "that which cannot be printed." Each "article" is a lovingly hand-crafted work of art, the result of an intense collaboration between designers, coders, editors, and scholars. The works themselves are fully multi-modal, leveraging the full power of the web, to create textual, auditory, visual, and interactive experiences and experiments in rhetoric and narrative.
 
 With Vectors, McPherson created a platform for what she calls "multimodal humanities." In her account, the digital humanities has evolved in three stages: computing humanities, blogging humanities, and multimodal humanities.
 
@@ -31,14 +33,3 @@ This is the realm of Dan Cohen, Cathy Davidson, HASTAC and Humanities 2.0. This 
 >"[W]e have been slow to explore the potential of interactive, immersive, and multimedia expression for our own thinking and scholarship, even as we dabble with such forms in our teaching. With a few exceptions, we remain content to comment about technology and media, rather than to participate more actively in constructing knowledge in and through our objects of study." (McPherson 2008)
 
 As I mentioned above, with Vectors McPherson envisions a radically departure from textual content and forms. Digital information technology affords a media experience that we have only just begun to explore. 
-
-
-
-[what ultimately was Busa's contribution? more than a book]
-[Palmer 2004 thematic research collections]
-[scheinfeld sunrise sunset, Sarton's major contribution was curation, editorial]
-[mcpherson 2009 notes the evolution from computing humanist to blogging humanist to multimodal humanist]
-[Kirschenbaum 2010 provides evidence of mcpherson's claim of  textual focus in DH]
-[burgess & hamming 2011 labor & multimedia scholarship]
-[Vectors as a shot across the bow of textual scholarship ]
-[dh manifesto 2.0]

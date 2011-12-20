@@ -26,6 +26,12 @@ Much of discussion and debate in the digital humanities is happening outside the
 
 The alt-academy site at media commons represents the most lofty ideals of the digital humanities. It is open-access, post-publish-peer-reviewed, contributions are measures by their merit, not who wrote them (at least at face value). The cast of contributors includes senior & junior scholars, post-docs, librarians, administrators, developers, and even at least graduate student (although he identified himself as a designer). 
 
+The expanded list of participants in the digital humanities is one of the features noted by Cathy Davidson in her description of "humanities 2.0,"
+
+<a name="expanded-humanities" href="/mcburton/writing/blob/master/chapter-one/Multimodal.markdown#expanded-humanities">
+>"Humanities 2.0 is distinguished from monumental, first-generation, data-based projects not just by its interactivity but also by openness about participation grounded in a different set of theoretical premises, which decenter knowledge and authority" [(Davidson 2008)](http://www.mlajournals.org/doi/abs/10.1632/pmla.2008.123.3.707).
+</a>
+
 Matt Kirschenbaum has also noticed the trend to include an expanded notion of legitimate participant in the digital humanities.
 
 >"Digital humanities has also, I would propose, lately been galvanized by a group of younger (or not so young) graduate students, faculty members (both tenure line and contingent), and other academic professionals who now wield the label “digital humanities” instrumentally amid an increasingly monstrous institutional terrain defined by declining public support for higher education, rising tuitions, shrinking endowments, the proliferation of distance education and the for- profit university, and, underlying it all, the conversion of full- time, tenure- track academic labor to a part- time adjunct workforce." (2010)

@@ -77,7 +77,7 @@
 
 1.  Harley, D., S. K Acord, S. Earl-Novell, S. Lawrence, and C. J King. 2010. “Assessing the future landscape of scholarly communication: An exploration of faculty values and needs in seven disciplines.” History Case Study. (http://escholarship.org/uc/item/15x7385g#page-399)
 
-1. Tara McPherson. "Introduction: Media Studies and the Digital Humanities." Cinema Journal 48.2 (2009): 119-123. Project MUSE. Web. 21 Jan. 2011. <http://muse.jhu.edu.proxy.lib.umich.edu/>.
+1. Tara McPherson. "Introduction: Media Studies and the Digital Humanities." Cinema Journal 48.2 (2009): 119-123. Project MUSE. Web. 21 Jan. 2011. (http://muse.jhu.edu/journals/cj/summary/v048/48.2.mcpherson.html)
 	- "humanities scholars have been actively engaged in working with computer technology for over twenty years. Nonetheless, these “computing humanists” sometimes labored in relative isolation from the questions that animated research in other aspects of their home disciplines, particularly work derived from interpretative frameworks or from poststructuralist theories"
 	- "More recently, we have seen an explosion of what I might call the “blogging humanists”—folks very interested in the hopes for participation promised by emerging Web 2.0 technologies. Faced with severe cut-backs at academic presses and dated systems for peer review, this second breed of digital humanists port the words and monographs of humanities scholarship to networked spaces of conversation and dialogue. They envision new modes of con-nection and peer-to-peer conversation, and text often remains the lingua franca of their scholarly productions."
 	- like Kirchembaum (others) attributes significance to the formation of the Office of Digital Humanities.
