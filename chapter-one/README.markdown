@@ -51,12 +51,12 @@ The tensions associated with the changes in the humanities are particularly visi
 
 ## The revolution will not be peer-reviewed: Scholarship & Dissemination
 
-### His Dark Materials: Grey Literature
-	[the pace of change diagram]
-	[siva & courant debate and ???s comments about blogging]
-	[a day in the life of a digital humanist] 
-	[Kirschenbaum 2010 twitter at MLA, visibility, infrastructure & collaboration ]
-	[many books on DH coming, mapping the DH, debates in DH, teaching DH. did these books begin in twitter/blogosphere] 
+### His Dark Materials: Grey Literature<a href="/mcburton/writing/blob/master/chapter-one/Grey-Literature.markdown#grey-intro" name="grey-intro" >.</a>
+
+
+<a href="/mcburton/writing/blob/master/chapter-one/Grey-Literature.markdown#grey-intro" name="grey-intro" >	 
+One of the underlying promises of the digital humanities has been a re-evaluation of the boundary between formal scholarly publishing and informal scholarly communication. In my review of the digital humanities literature I would be remiss if I didn't pay attention to the so-called "grey literature," which has come to mean more than simply technical reports and white papers, but also blogging, list-serves and maybe even tweets. Most of the interesting discussion and debate about the digital humanities happens far too fast for the existing system of scholarly publishing.
+</a>
 
 ### Trolling is a Art: Critique
 	[flanders 2009 productive unease]
