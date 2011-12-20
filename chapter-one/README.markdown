@@ -1,13 +1,6 @@
-# What is a Digital Humanities?
+# What is a/the Digital Humanities?
 
-One place to start answering questions about the digital humanities relationship within both the academy and the society is to look to the National Endowment for the Humanities new Office of the Digital Humanities. The institutionalization of the digital humanities has been recognized by many members of the community as a watershed moment (Kirschenbaum 2010, McPherson 2009). In many ways it represents a materialization of the digital humanities within the institutional social-infrastructure of the humanities as a whole. 
-
-Interesting, I found Tom Schienfelds article about ideology and methodolgoy from a speech given by Brett Bobley...http://www.neh.gov/whoweare/cio/odhfiles/Why.The.Digital.Humanities.pdf
-"four major “game-changing” impacts of technology on the humanities: 
-(1) The changing relationship between a scholar and the materials he studies; 
-(2) The introduction of technology-based tools and methodologies; 
-(3) The changing relationship among scholars, libraries, and publishers; and 
-(4) The rise of collaborative, interdisciplinary work in the humanities."
+The question, "what is the digital humanities" is extremely difficult to answer, which of course has attracted humanists to pontificate about it endlessly. Unlike the sciences, the humanities relishes in uncertainty [(Unsworth 2009)](http://www3.isrl.illinois.edu/~unsworth/Cyberinfrastructure.RLG.html) for it is far more interesting than certainty. I suspect there will never be a clear answer because quiddity(what-ness) of the digital humanities is lost in a sea of haecceities(this-ness). What you will find below is my attempt to index the varied "this-ness" of the digital humanities. I make no claims at completeness, nor at done-ness. Instead, I encourage the patient reader to explore the various interlinked explorations of the literature and even return after a time for the content below is an ever-shifting stream.
 
 
 ## Scholarship in the Digital Age
