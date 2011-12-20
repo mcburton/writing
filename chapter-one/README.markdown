@@ -89,7 +89,7 @@ What has become painfully clear is that while digital humanities has its histori
 No good analysis would be complete without an analytical quadrant to frame the big picture. It is perhaps reductionist and categorical, but in light of the current chaos of the disciplines, a quadrant juxtaposing digital methods vs. digital objects is useful as a map. Thusly, I present The Humanities Quadrant. 
 </a>
 
-### Alternative Academics<a href="/mcburton/writing/blob/master/chapter-one/Alt-Ac.markdown#quadrant-intro" name="quadrant-intro" >.</>
+### Alternative Academics<a href="/mcburton/writing/blob/master/chapter-one/Alt-Ac.markdown#quadrant-intro" name="quadrant-intro" >.</a>
 
 <a href="/mcburton/writing/blob/master/chapter-one/Alt-Ac.markdown#quadrant-intro" name="quadrant-intro" >
 One of the most significant implications of the big-tent, activist digital humanities is the tearing down of the wall between academia and world of administrators, librarians, researchers, and others who orbit around the ivory tower. Given the its ever expanding activist agenda, it obvious that the "alternative academic" or "alt-ac" movement would find a home in the digital humanities. For the very question of "what is the digital humanities" naturally leads us to test the boundaries of the disciplines.
