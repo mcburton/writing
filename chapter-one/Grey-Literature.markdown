@@ -1,6 +1,6 @@
-# His Dark Materials: Grey Literature<a href="/mcburton/writing/blob/master/chapter-one/README.markdown#grey-intro" name="gre-intro" >.</a>
+# His Dark Materials: Grey Literature<a href="/mcburton/writing/blob/master/chapter-one/README.markdown#grey-intro" name="grey-intro" >.</a>
 
-<a href="/mcburton/writing/blob/master/chapter-one/README.markdown#grey-intro" name="gre-intro" >
+<a href="/mcburton/writing/blob/master/chapter-one/README.markdown#grey-intro" name="grey-intro" >
 One of the underlying promises of the digital humanities has been a re-evaluation of the boundary between formal scholarly publishing and informal scholarly communication. In my review of the digital humanities literature I would be remiss if I didn't pay attention to the so-called "grey literature," which has come to mean more than simply technical reports and white papers, but also blogging, list-serves and maybe even tweets. Most of the interesting discussion and debate about the digital humanities happens far too fast for the existing system of scholarly publishing.
 </a>
 

@@ -56,7 +56,7 @@ The full extent to which pedagogy is affected by the digital humanities covers a
 
 ### His Dark Materials: Grey Literature<a href="/mcburton/writing/blob/master/chapter-one/Grey-Literature.markdown#grey-intro" name="grey-intro" >.</a>
 
-<a href="/mcburton/writing/blob/master/chapter-one/Grey-Literature.markdown#grey-intro" name="grey-intro" >	 
+<a href="/mcburton/writing/blob/master/chapter-one/Grey-Literature.markdown#grey-intro" name="grey-intro" >
 One of the underlying promises of the digital humanities has been a re-evaluation of the boundary between formal scholarly publishing and informal scholarly communication. In my review of the digital humanities literature I would be remiss if I didn't pay attention to the so-called "grey literature," which has come to mean more than simply technical reports and white papers, but also blogging, list-serves and maybe even tweets. Most of the interesting discussion and debate about the digital humanities happens far too fast for the existing system of scholarly publishing.
 </a>
 
@@ -74,8 +74,6 @@ One of the underlying promises of the digital humanities has been a re-evaluatio
 <a href="/mcburton/writing/blob/master/chapter-one/Multimodal.markdown#multimodal-intro" name="multimodal-intro" >
 Both Cathy Davidson (2008) and Tara McPherson (2009) have written that the digital humanities is something larger than the narrowly and rigidly defined notions that evolved out of humanities computing. Both treatments of the digital humanities expand its scope to connect with the existing "crises" in the academy, namely the crisis in the humanities and the criss in scholarly publishing.
 </a>
-
-
 
 ## Send in the Clowns: Big Tent Digital Humanities<a href="/mcburton/writing/blob/master/chapter-one/Big-Tent.markdown#tent-intro" name="tent-intro" >.</a>
 
