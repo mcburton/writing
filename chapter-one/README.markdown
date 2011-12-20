@@ -3,7 +3,6 @@
 Before you read, watch my screencasts: 
 
 * [How did I make this?](http://www.youtube.com/watch?v=y4KLIPdRGW4)
-<iframe width="420" height="315" src="http://www.youtube.com/embed/y4KLIPdRGW4" frameborder="0" allowfullscreen></iframe>
 
 * [How to "read" this document(s)](http://www.youtube.com/watch?v=Ymx_KtmMjqg)
 
