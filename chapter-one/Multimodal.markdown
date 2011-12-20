@@ -1,6 +1,6 @@
-# Multimodal Humanities 2.0<a href="/mcburton/writing/tree/master/chapter-one/#multimodal-intro" name="multimodal-intro" >.</a>
+# Multimodal Humanities 2.0<a href="/mcburton/writing/blob/master/chapter-one/README.markdown#multimodal-intro" name="multimodal-intro" >.</a>
 
-<a href="/mcburton/writing/tree/master/chapter-one/#multimodal-intro" name="multimodal-intro" >
+<a href="/mcburton/writing/blob/master/chapter-one/README.markdown#multimodal-intro" name="multimodal-intro" >
 Both Cathy Davidson (2008) and Tara McPherson (2009) have written that the digital humanities is something larger than the narrowly and rigidly defined notions that evolved out of humanities computing. Both treatments of the digital humanities expand its scope to connect with the existing "crises" in the academy, namely the crisis in the humanities and the criss in scholarly publishing. 
 </a>
 

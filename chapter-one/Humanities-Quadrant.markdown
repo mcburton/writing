@@ -1,6 +1,6 @@
-# From `Blaise_Pascal` to `Pascal (programming_language)`: The Humanities Quadrant <a href="/mcburton/writing/blob/master/chapter-one/Humanities-Quadrant.markdown#quadrant-intro" name="quadrant-intro" >.</a>
+# From `Blaise_Pascal` to `Pascal (programming_language)`: The Humanities Quadrant <a href="/mcburton/writing/blob/master/chapter-one/README.markdownn#quadrant-intro" name="quadrant-intro" >.</a>
 
-<a href="/mcburton/writing/blob/master/chapter-one/Humanities-Quadrant.markdown#quadrant-intro" name="quadrant-intro" >
+<a href="/mcburton/writing/blob/master/chapter-one/README.markdown#quadrant-intro" name="quadrant-intro" >
 No good analysis would be complete without an analytical quadrant to frame the big picture. It is perhaps reductionist and categorical, but in light of the current chaos of the disciplines, a quadrant juxtaposing digital methods vs. digital objects is useful as a map. Thusly, I present The Humanities Quadrant. 
 </a>
 

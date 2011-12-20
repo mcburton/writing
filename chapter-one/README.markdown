@@ -10,8 +10,9 @@ Interesting, I found Tom Schienfelds article about ideology and methodolgoy from
 (4) The rise of collaborative, interdisciplinary work in the humanities."
 
 
+## Research
 
-## Computing Humanists: Humanities Computing<a href="/mcburton/writing/blob/master/chapter-one/Humanities-Computing.markdown#hc-intro" name="hc-intro" >.</a>
+### Computing Humanists: Humanities Computing<a href="/mcburton/writing/blob/master/chapter-one/Humanities-Computing.markdown#hc-intro" name="hc-intro" >.</a>
 
 <a href="/mcburton/writing/blob/master/chapter-one/Humanities-Computing.markdown#hc-intro" name="hc-intro">
 The current momentum for the digital humanities is rooted in the slow, but steady, velocity of humanities computing. 
@@ -30,11 +31,13 @@ It can't be denied that information technology is affecting the humanities and i
 Infrastructure, or CyberInfrastructure (Atkins 2003) has unquestioningly been a topic of major importance in the sciences. "Big science" like the Large Hadron Collider have unprecedented instrument, sensor, computation, and network needs. National cyberinfrastructure in the US and eScience in Europe have been vital to the advancement of large scale scientific endeavors. Given the impact of cyberinfrastructure for the sciences, the question of cyberinfrastructure for the humanities is obvious.
 </a> 
 
-## Pedagogy<a href="/mcburton/writing/blob/master/chapter-one/Pedagogy.markdown#pedagogy-intro" name="pedagogy-intro">.</a>
+## Pedagogy
 
-<a href="/mcburton/writing/blob/master/chapter-one/Pedagogy.markdown#pedagogy-intro" name="pedagogy-intro">
 The tensions associated with the changes in the humanities are particularly visible in the structures of social reproducibility. If we are to worry about distortion of the humanities, then more attention should be spent considering what kinds of training, in terms of method, theory and practice, the next generation of (digital) humanists receives.
-</a>
+
+The debate amongst digital humanists about learning to program is fascinating. While I do not intend to do full justice to the debate, I will explore some recent discussion below. I am including this discussion because it raises some interesting questions about how the humanities is changing/distorting as a field and also the debate implicitly asks "what is being lost." Throughout the humanities infrastructure discussion are calls to include humanists because of the specific insights they can bring to the design of technology and infrastructure. I,  call this the 'humanist mystique' 
+
+The full extent to which pedagogy is affected by the digital humanities covers a much larger spectrum than just the code debate and the humanist mystique. I am making no claims as to completeness. I include these two topics because of their relation to humanities infrastructure and, as I'll explore in the section on scholarship and dissemination, grey literature.
 
 ### To code or not to code: Computational Literacy
 	[Ramsay blog posts, responses?]
@@ -49,10 +52,9 @@ The tensions associated with the changes in the humanities are particularly visi
 	[borgman calling for DH on infrastructure building]
 	[steve jobs typography example & liberal arts]
 
-## The revolution will not be peer-reviewed: Scholarship & Dissemination
+## Scholarship & Dissemination
 
 ### His Dark Materials: Grey Literature<a href="/mcburton/writing/blob/master/chapter-one/Grey-Literature.markdown#grey-intro" name="grey-intro" >.</a>
-
 
 <a href="/mcburton/writing/blob/master/chapter-one/Grey-Literature.markdown#grey-intro" name="grey-intro" >	 
 One of the underlying promises of the digital humanities has been a re-evaluation of the boundary between formal scholarly publishing and informal scholarly communication. In my review of the digital humanities literature I would be remiss if I didn't pay attention to the so-called "grey literature," which has come to mean more than simply technical reports and white papers, but also blogging, list-serves and maybe even tweets. Most of the interesting discussion and debate about the digital humanities happens far too fast for the existing system of scholarly publishing.

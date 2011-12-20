@@ -1,6 +1,6 @@
-# Computing Humanists: Humanities Computing<a href="/mcburton/writing/tree/master/chapter-one/#hc-intro" name="hc-intro" >.</a>
+# Computing Humanists: Humanities Computing<a href="/mcburton/writing/blob/master/chapter-one/README.markdown#hc-intro" name="hc-intro" >.</a>
 
-<a href="/mcburton/writing/tree/master/chapter-one/#hc-intro" name="hc-intro" >
+<a href="/mcburton/writing/blob/master/chapter-one/README.markdown#hc-intro" name="hc-intro" >
 Insert intro here.
 </a>
 
