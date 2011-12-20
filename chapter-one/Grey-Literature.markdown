@@ -7,7 +7,9 @@ One of the underlying promises of the digital humanities has been a re-evaluatio
 ## Where the action Is 
 
 As a little experiment I decided to compare the use of the terms "humanities computing" and "digital humanities" using Google ngrams for books and Google Insights for the web. The results were interesting.
+
 <img src="/mcburton/writing/raw/master/chapter-one/ngram-DHvsHC.png" width="600" height="300"/>
+
 What this images shows is a slow rise of the term "humanities computing" starting in the 1960s and peaking in the early 2000s. I consider the google books ngram to be a very rough approximation of "traditionally published" literature since this visualization draws from the Google Books index. It is interesting to see the dominance of "humanities computing," especially in the last decade. This makes sense if we consider the slow pace of monograph publishing. Digital humanities as a term of art is very recent, only gaining wide popularity in 2004. We see a small peak on this graph in 2005, a year after the publication of the Oxford Companion, and then a small decline coming into 2008, when the data set ends. My hunch is that we will start to see a big spike in the term "digital humanities" in the literature starting in 2012. I believe this because of what I see in the Google Insights data, which tracks the popularity of search terms through time.
 
 <img src="/mcburton/writing/raw/master/chapter-one/insights-DHvsHC.png" width="610" height="298"/>
@@ -43,7 +45,7 @@ Perhaps ironically it is also William Pannapacker who notes,
 
 He makes a really good point about twitter, is overwhelming. In a time when we are completely overwhelmed with the sheer amount of work necessary to be a scholar, to add yet another thing, a thing which is constantly streaming, updating, tweeting, re-tweeting, at-replying, seems to be too much. There isn't enough time in the day to all of one's scholarly obligations (reading, writing, research, teaching, committees, conferences, grant writing, etc.). 
 
-<img src="/mcburton/writing/raw/master/chapter-one/pace-scholarly-communication" width="525" height="350"/>
+<img src="/mcburton/writing/raw/master/chapter-one/pace-scholarly-communication.png" width="525" height="350"/>
 
 The various technologies of scholarly communication each afford a distinctive discursive pace. Books are slow, they take a long time to read and even longer to write, but the long-form arguments has no equal in the discourse. Journals provide somewhat of a break to the time commitment of the monograph, but they can sometimes take as long as books to be published. Blogging provides the perfect release valve to the time constraints. There is nothing preventing long-form argument and the feedback cycle with blogging comments is immediate. As Dan Cohen notes, [the pace of blogging is perfect for the busy scholar. ](http://www.dancohen.org/2006/08/21/professors-start-your-blogs/) 
 
