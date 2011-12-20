@@ -1,8 +1,10 @@
-# Big Tent Digital Humanities<a href="/mcburton/writing/blob/master/chapter-one/README.markdown#tent-intro" name="tent-intro">.</a>
+# Send in the Clowns: Big Tent Digital Humanities<a href="/mcburton/writing/blob/master/chapter-one/README.markdown#tent-intro" name="tent-intro">.</a>
 	
-<a href="/mcburton/writing/blob/master/chapter-one/README.markdown#tent-intro" name="tent-intro">Intro here</a>
-	
-"Let me expand on what I mean by “digital humanities.” We use “digital humanities” as an umbrella term for a number of different activities that surround technology and humanities scholarship. Under the digital humanities rubric, I would include topics like open access to materials, intellectual property rights, tool development, digital libraries, data mining, born-digital preservation, multimedia publication, visualization, GIS, digital reconstruction, study of the impact of technology on numerous fields, technology for teaching and learning, sustainability models, and many others." (Bobley 2008 [http://www.neh.gov/whoweare/cio/odhfiles/Why.The.Digital.Humanities.pdf])
+<a href="/mcburton/writing/blob/master/chapter-one/README.markdown#tent-intro" name="tent-intro">
+What has become painfully clear is that while digital humanities has its historical roots in humanities computing, as it has matured, it has become something far greater and more ambitious than humanities computing. From humble origins in automated concordances to harbinger of a Kuhnian paradigm shift, the full impact of the digital humanities has yet to be felt.
+</a>
+
+> "Let me expand on what I mean by “digital humanities.” We use “digital humanities” as an umbrella term for a number of different activities that surround technology and humanities scholarship. Under the digital humanities rubric, I would include topics like open access to materials, intellectual property rights, tool development, digital libraries, data mining, born-digital preservation, multimedia publication, visualization, GIS, digital reconstruction, study of the impact of technology on numerous fields, technology for teaching and learning, sustainability models, and many others." [(Bobley 2008)] (http://www.neh.gov/whoweare/cio/odhfiles/Why.The.Digital.Humanities.pdf)
 
 
 Brett Bobley on Digital Humanities vs humanities computing - "seemed to cast a wider net than “humanities computing” which seemed to imply a form of computing, whereas “digital humanities” implied a form of humanism. I also thought it would be an easier sell to the humanities community to have the emphasis on “humanities.”(from Kirschenbaum 2010) It is important that a funding agency has taken a big tent approach to digital humanities rather than either adopt the name humanities computing (and its epistemological commitments) or a computationally focused approach to the digital humanities.

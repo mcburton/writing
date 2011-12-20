@@ -10,7 +10,7 @@ Interesting, I found Tom Schienfelds article about ideology and methodolgoy from
 (4) The rise of collaborative, interdisciplinary work in the humanities."
 
 
-## Research
+## Scholarship in the Digital Age
 
 ### Computing Humanists: Humanities Computing<a href="/mcburton/writing/blob/master/chapter-one/Humanities-Computing.markdown#hc-intro" name="hc-intro" >.</a>
 
@@ -31,7 +31,7 @@ It can't be denied that information technology is affecting the humanities and i
 Infrastructure, or CyberInfrastructure (Atkins 2003) has unquestioningly been a topic of major importance in the sciences. "Big science" like the Large Hadron Collider have unprecedented instrument, sensor, computation, and network needs. National cyberinfrastructure in the US and eScience in Europe have been vital to the advancement of large scale scientific endeavors. Given the impact of cyberinfrastructure for the sciences, the question of cyberinfrastructure for the humanities is obvious.
 </a> 
 
-## Pedagogy
+<!-- ## Pedagogy
 
 The tensions associated with the changes in the humanities are particularly visible in the structures of social reproducibility. If we are to worry about distortion of the humanities, then more attention should be spent considering what kinds of training, in terms of method, theory and practice, the next generation of (digital) humanists receives.
 
@@ -50,9 +50,9 @@ The full extent to which pedagogy is affected by the digital humanities covers a
 ### Humanists do it better: The Humanist Mystique
 	[Unsworth quote on humanists are better builders]
 	[borgman calling for DH on infrastructure building]
-	[steve jobs typography example & liberal arts]
+	[steve jobs typography example & liberal arts] -->
 
-## Scholarship & Dissemination
+## Dissemination in the Digital Age
 
 ### His Dark Materials: Grey Literature<a href="/mcburton/writing/blob/master/chapter-one/Grey-Literature.markdown#grey-intro" name="grey-intro" >.</a>
 
@@ -60,14 +60,14 @@ The full extent to which pedagogy is affected by the digital humanities covers a
 One of the underlying promises of the digital humanities has been a re-evaluation of the boundary between formal scholarly publishing and informal scholarly communication. In my review of the digital humanities literature I would be remiss if I didn't pay attention to the so-called "grey literature," which has come to mean more than simply technical reports and white papers, but also blogging, list-serves and maybe even tweets. Most of the interesting discussion and debate about the digital humanities happens far too fast for the existing system of scholarly publishing.
 </a>
 
-### Trolling is a Art: Critique
+<!-- ### Trolling is a Art: Critique
 	[flanders 2009 productive unease]
 	[gibbs critical discourse in DH]
 	[lui “Where is Cultural Criticism in the Digital Humanities”
 	[unsworths, evaluating digital scholarship]
 	[McGann theory of Rossetti archive?]
 	[theory in digital humanities? Hockey talks of two cultures...]
-	[transducer ]
+	[transducer ] -->
 	
 ### Multimodal Humanities 2.0<a href="/mcburton/writing/blob/master/chapter-one/Multimodal.markdown#multimodal-intro" name="multimodal-intro" >.</a>
 
@@ -77,11 +77,11 @@ Both Cathy Davidson (2008) and Tara McPherson (2009) have written that the digit
 
 
 
-## Bring in the Clowns: Big Tent Digital Humanities
-	[svensson parts 1 and 2]
-	[transducer digital humanities situation]
-	[Pannapacker part 2]
+## Send in the Clowns: Big Tent Digital Humanities<a href="/mcburton/writing/blob/master/chapter-one/Big-Tent.markdown#tent-intro" name="tent-intro" >.</a>
 
+<a href="/mcburton/writing/blob/master/chapter-one/Big-Tent.markdown#tent-intro" name="tent-intro" >
+What has become painfully clear is that while digital humanities has its historical roots in humanities computing, as it has matured, it has become something far greater and more ambitious than humanities computing. From humble origins in automated concordances to harbinger of a Kuhnian paradigm shift, the full impact of the digital humanities has yet to be felt.
+</a>
 
 ### From `Blaise_Pascal` to `Pascal (programming_language)`: The Humanities Quadrant<a href="/mcburton/writing/blob/master/chapter-one/Humanities-Quadrant.markdown#quadrant-intro" name="quadrant-intro" >.</a>
 
@@ -89,7 +89,15 @@ Both Cathy Davidson (2008) and Tara McPherson (2009) have written that the digit
 No good analysis would be complete without an analytical quadrant to frame the big picture. It is perhaps reductionist and categorical, but in light of the current chaos of the disciplines, a quadrant juxtaposing digital methods vs. digital objects is useful as a map. Thusly, I present The Humanities Quadrant. 
 </a>
 
+### Alternative Academics<a href="/mcburton/writing/blob/master/chapter-one/Humanities-Quadrant.markdown#quadrant-intro" name="quadrant-intro" >.</>
+
+<a href="/mcburton/writing/blob/master/chapter-one/Humanities-Quadrant.markdown#quadrant-intro" name="quadrant-intro" >
+One of the most significant implications of the big-tent, activist digital humanities is the tearing down of the wall between academia and world of administrators, librarians, researchers, and others who orbit around the ivory tower. Given the its ever expanding activist agenda, it obvious that the "alternative academic" or "alt-ac" movement would find a home in the digital humanities. For the very question of "what is the digital humanities" naturally leads us to test the boundaries of the disciplines.
+</a>
+
 ## Conclusion
+
+So what then is "digital humanities?" It is an immuno response by the academic organism of the humanities, to a host of crises, some of which are directly or indirectly connected to broader technological change. We can think about the digital humanities as a multi-method, multi-modal, interdisciplinary domain focused on studying digital culture in the broadest of terms. Inside of this domain lives specific methodological thrusts, like humanities computing or common sets of research interests like new media studies.
 
 For some time now I have been trying to organize my thoughts so that I may contribute to the cacophonous cloud of voices each shouting for a discursive perch in the ongoing debates and discussions in the digital humanities. With this I must preface, anything we may know or think we may know about the digital humanities will certainly change. The pace of these changes, both technological, but also sociological has reached an escape velocity of sorts, away from a grounding in traditional humanist academic practice and into an orbit of new heights. From this point where the digital humanities travels is something we can excitedly watch; we all have a ticket to ride.
 

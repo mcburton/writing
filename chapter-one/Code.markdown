@@ -22,8 +22,7 @@ The coding debates are nothing new in humanities computing,
 )
 
 
-> "Much early archaeological computing required scholars to write their own programs, but that is no longer necessary. Most now use commercial software, although special archaeological problems such as certain statistical procedures and seriation routines
-continue to inspire programming by archaeologists." (Eiteljorg 2004, Companion)
+> "Much early archaeological computing required scholars to write their own programs, but that is no longer necessary. Most now use commercial software, although special archaeological problems such as certain statistical procedures and seriation routines continue to inspire programming by archaeologists." (Eiteljorg 2004, Companion)
 
 The Oxford Companion to the Digital Humanities provides an entire section on the principals of computing, explaining how a computer works (Laue 2004), databases (Ramsay 2004), and modeling (McCarty 2004). These selection, which get down to the level of explaining the SQL code to create a relational database, have an opinion as to whether digital humanists should learn to code. 
 
