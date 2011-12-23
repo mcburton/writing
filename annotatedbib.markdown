@@ -193,6 +193,8 @@ the Council on Library and Information Resources and The National Endowment for 
 1.  McCarty, Willard. 2005. Humanities Computing. Palgrave Macmillan. (http://books.google.com/books?id=sop5QgAACAAJ)
 	- points out that humanists are not familiar with the literature on collaboration from science
 	- from Svensson 2010? "In his Humanities Computing, Willard McCarty describes the development from "computers and the humanities" via "computing in the humanities" to "humanities computing." He characterizes these three denotations as follows: "when the relationship was desired but largely unrealized" (computers and the humanities), "once entry has been gained" (computing in the humanities) and "confident but enigmatic" (humanities computing) [McCarty 2005, 3]."
+    - "The discrepancy between the potential of computing for scholarship, emerging clearly in the work of many individuals across the humanities,2 and various misconstructions or attempts to turn it aside." This is a nice confirmation of my hunch that there is a frustration between what is technically possible and what is socially possible. This is Ackerman's Aphorism
+    - 
 
 1.  Siemens, Ray, John Unsworth, and Susan Schreibman. 2004. Companion to Digital Humanities (Blackwell Companions to Literature and Culture). Hardcover. Oxford: Blackwell Publishing Professional Retrieved (http://www.digitalhumanities.org/companion/).
 
