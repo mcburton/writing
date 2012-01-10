@@ -1,0 +1,449 @@
+﻿Introduction
+"What we are always struggling with is the technology of storytelling. There was a time when printing was very crude. There was only a cave and a piece of chalk to draw. Then it became printing, and then there is film, and now is Internet, or multimedia. Those are the things that are changing. But what never changes and will not change, I predict, is the need of human societies for storytelling. Because from stories we learn how to deal with life. And the struggle with life will continue. As long as there is a struggle for life I will have stories to tell. " 
+- From a 1999 interview of Will Eisner by Ernesto Priego.[1]
+Technology and the Humanities
+My interest here is to investigate how information technology has affected scholarly practice in the humanities. Just as information technology has changed business, education, and science, it has affected the humanities. These technologically induced changes have been extensively studied in other scholarly domains, namely science, my hope is to bring a similar focus to bear upon the humanities.
+
+
+Understanding the impact of technology and critically situating it within a broader historical and cultural context is a task perfectly suited for humanist scholars. Humanists, like scientists, have been discussing and debating the methods and meaning of digital technology as it relates both to society and to their own scholarly practice. Computation opens fundamentally new research questions, data sets, modalities of publication, and forms of scholarly collaboration. In short, information technology affords an entirely new set of previously inconceivable scholarly practices.
+
+
+However, untried or experimental modes of research and publication practices are not necessarily meaningful as scholarship. Traditional humanist disciplines are purposefully non-progressive in their engagement; as to maintain a critical engagement with technology (Flanders 2009). Just because something is technically possible, does not mean it is socially possible (and vice versa). While historians can easily self-publish their manuscripts as Kindle books, or disseminate their ideas via blogs or twitter, these modalities subvert the existing sociotechnicial institutions of accreditation (i.e. scholarly publishing, peer-review). In the eyes of tenure review boards the so called "gray literature[2]" of blogs and tweets do not count as equals to journal publications and books (at least not yet). The complex relation between the activities technology enables and the acceptability of those activities within the digital humanities is my theoretical interest.
+Topology of Impact
+The "humanities" is an extremely broad field, as such, to actually make any informative progress I must focus my gaze. Fortunately to study the impact of technology on the humanities, the interested researcher can start with the discourse around the digital humanities. The ongoing debates in the digital humanities provide an excellent Discursive space to begin thinking about the relationship between humanist scholarly practice and information technology.
+
+
+The question “what is/are the digital humanities?”  is a crucial question because to answer it requires a reflexive engagement with one’s own technological practice. By surveying the literature on digital humanities I gain a rough typology of the impact technology is having on the humanities. I begin by crudely dividing the discussions into three territories: research, pedagogy, and dissemination.
+
+First, computational technology affects humanist research in a multitude of ways, from the mundane–such as reading books on the iPad or Kindle–to the grandiose–large scale collaboration and infrastructure with research centers tackling grand challenges of humanist inquiry. Digitized data enables researchers to ask questions previously thought impossible (i.e. auto-generated concordance of ALL Victorian literature.). Cyberinfrastructure enables researchers to work together across space and time, collaborating on projects much larger than they would have or could have alone. Not longer do scholars have to work alone, they can collaborate at home or at a distance, and even work with researchers from different disciplines.
+
+
+Second, information technology raises fundamental questions about pedagogy. What are the skills necessary to be a humanist in the digital age? Could programming become a necessary requirement to be a digital humanist? Should programming become a necessary requirement to be a digital humanist? Computational literacy fundamentally shapes one's understanding of what is possible. Knowing, on a very pragmatic level, the strengths and limitations of natural language processing or programmatic data manipulation affects the kinds of research questions you might ask. Where are students going to obtain such literacy? Large-scale collaboration in the humanities will require scholars and knowledge workers from radically different domains to work together. As such, domain experts must learn how to effectively communicate with programmers and technologists. Interdisciplinary collaboration requires a common ground between a multitude of epistemic cultures. Where will humanities scholars learn these technical and communicative skills?
+
+
+Finally, information technology has deeply affected the ways in which scholars disseminate knowledge and information. New technology has begun to blur distinctions between scholarly publishing and scholarly communication. Electronic publishing raises a series of difficult questions on both logistical and theoretical levels. From a logistical perspective: How does one publish and distribute an interactive map? What are the long-term issues archiving interactive and multi-modal artifacts? From a theoretical level: How do we evaluate such artifacts? Could a curated archive or data-set constitute scholarship? What constitutes “data” in the humanities? What is scholarship? These questions confront traditional assumptions concerning scholarly dissemination, challenging not only institutions like scholarly journals and books, but give primacy to gray literature. Blogs, twitter, and mailing lists have given humanities scholars the opportunity to enthusiastically connect and share ideas with incredibly rapid feedback cycles. Furthermore, we now have records of these conversations, from the Humanist mailing list started in 1987 to the "#thatcamp" twitter backchannel. The public nature of these communications channels render visible the formally invisible networks of scholarly communication. In a communicative space that challenges the traditional system of peer-review, how do we know what "counts?"
+
+
+As a result of these disruptions, scholarly publishing, a vital component of the humanities’s institutional reward structure, is in crisis. The current system of publishing obscure manuscripts for tenure is claimed "unsustainable." The presses are under enormous pressure to do more with less. While digital publishing technology affords fundamentally new modalities of knowledge dissemination, the technical possibilities available to scholars and press are not necessarily socially available. The social and academic institutions must be willing to accept change, a tall order for scholarly communities who still insist on print publications and a physical book (or two) for promotion and tenure. The collective habits and routines, especially those of peer review, monograph publication, and tenure, govern the adoption of socio-technological practice, as they should, for too radical a change might throw the baby out with the bath water.
+
+
+Scholarly Communication & Publishing
+
+
+As I stated above, technology is affecting the humanities in a multitude of ways; changing the way humanists do research; changing the way they teach; and changing the way they communicate and disseminate knowledge. This project focuses specifically on scholarly communication and scholarly publishing. The digital humanities is forcing a conversation about the constitution of knowledge and scholarship. As I will show in my review of the digital humanities literature, traditional assumptions around scholars and scholarship, both in content and form, are subject to ongoing debate. The conversations about the digital humanities and scholarly publishing provide one avenue for exploring these tensions.
+
+
+If you talk with anyone in the university press community at some point the conversation will turn towards the "crisis in scholarly publishing." From an economic and business sustainability perspective, presses are increasingly being required to maintain profitability as subsidies from universities are shrinking (or vanishing altogether). This has potentially devastating implications for the meritocratic allusions of the academy. How many first authors aren't getting published, not because their work lacks quality, but because it won't sell?
+
+
+While the conversation regarding open access and intellectual property focuses more upon the publication of journals, it is also relevant to the discussion of scholarly monographs. To maintain economic sustainability, presses are raising the prices of academic works. Libraries, with ever shrinking acquisition budgets, are less likely to purchase academic texts with a high price but low circulation value. This results in a situation that makes books difficult to obtain for researchers without benefit of a hefty research budget or students without their own (or their adviser's) incentive accounts.
+
+
+The economic challenges of scholarly publishing have given rise to a serious and sustained research program.[a] However, there are also other facets to the alleged “crisis” which need to be investigated. This project is more interested in the social and technical dynamics of scholarly publishing, how those dynamics affect the constitution of knowledge and scholarship, and the boundaries between scholarly publishing and scholarly communication.
+
+
+This is where the debates about the digital humanities become interesting. The threads of discussion weave in and out of the formal scholarship. As I have seen, the conversation in journal articles and monographs, the foundations of scholarly publishing, struggles to keep pace with a parallel conversation using new modalities of scholarly communication, namely blogs and twitter. This is interesting because these multi-modal conversations engages the questions of knowledge and scholarship in and through the the technologies it critically engages. That is, digital humanities bloggers are actively writing about whether or not blogging is a form of scholarly publishing. 
+
+
+I use the digital humanities as a lens through which I can explore how the alleged destabilization of scholarly publishing represents a potential sea-change in the ways by which humanists "come to know" what it is they know. The current rhetoric within and about the digital humanities literature has implications that extend far beyond simply new methods or objects for research. The digital humanities problematizes scholarly monograph & journal publishing as the only medium for the expression of knowledge and scholarship. 
+
+
+Structure & Organization
+
+
+The “digital humanities” and “scholarly publishing” constitute enormous fields, each with their own complexities and dynamics. Rather than attempt to map their entire topologies, this project aims to draw a path through their overlapping discourses. To accomplish this path-finding, I will anchor the two amorphous clouds of “digital humanities” and “scholarly publishing” in “humanities computing” and “monograph publishing” respectively. These anchors serve less as focal points and more as guideposts for my path through the murky bodies of literature. There are a multitude of trails within the digital humanities–pedagogy, institutionalization, infrastructure–and scholarly publishing–open access, economic sustainability, intellectual property–that I must resist the temptation to travel. 
+[b]
+
+
+This path project categorizes the discussions about the digital humanities and scholarly monograph publishing into 4 main blobs.
+First, I synthesize the literature about (humanities) scholarship in the digital age. I review several canonical texts about humanities computing and the digital humanities. In this section I want to rather explore a working distinction between humanities computing and digital humanities. Humanities computing, I believe has a very narrow definition, briefly, I want to argue it relates to scholars in the humanities computing, or the direct use of computation as a method within the humanities. Humanities computing has rigid and specific boundaries that can be clearly defined. Digital humanities however, as I will speculate in the second section, does not have such clear boundaries.
+
+
+Second, I begin to work out from the tightly defined humanities computing to describe the rather amorphous and cloud-like form of the digital humanities. To do so I will synthesize a sampling of "gray literature" includes newspaper articles, blogs, and experimental peer-reviewed literatures (such as Hacking the Academy) to show how the scope of digital humanities expands beyond that of humanities computing. The digital humanities, as the gray literature implicitly shows, has become much more than simply scholars in the humanities computing, rather it affects research, teaching and publishing in the humanities. Furthermore, it has gotten caught up in discussion of a larger paradigm shift (Kuhn) within the academy as a whole. After a brief description of the broader implications of the digital humanities, I will discuss one facet of this paradigm shift, the relation between the digital humanities and scholarly publishing.
+
+
+Third, to begin relating the digital humanities and scholarly publishing I synthesize a body of literature about the mechanics of scholarly publishing. I tie this literature together to develop an analytical concept I'm calling "regime of accountability." Briefly, this regime is the socio-technical infrastructure that enables scholars to constitute knowledge. Drawing on the ethnomethodological concept of accountability, I synthesize the literature on scholarly publishing, specifically of humanistic monographs, to describe a social system through which digital humanists challenges the ways in which scholars produce accounts of their work. This raises serious questions about how digital humanists will make visible the new kinds of practice enabled by new technology.
+
+
+Finally, I review the recent discussion, in both peer-review and gray literature, anxiously portending the "crisis of scholarly publishing." This crisis is evidence of the broader paradigm shift in the humanities of which the digital humanities is a salient part. Scholarly publishing and the digital humanities are intimately related and any destabilizing change threatens the practices by which digital humanists constitute knowledge. Through the lens of sociotechnical work-practice and the production of accounts, I believe this crisis raises serious questions about how new forms of work are made visible and accountable under the existing regime of scholarly publishing.[c]
+
+
+
+
+The Technologic Humanities
+
+
+It can't be denied that information technology is affecting the humanities and we must recognize there are multiple ways of accounting for these changes. We can give primacy to one or another factor, but the complexity of the changes probably extends beyond what is comprehensible. This complexity is precisely why the impact of technology on society and upon the humanities must be in and of itself a "humanistic” endeavor. Only humanists can fully appreciate and tease out the nuances of this complexity (Unsworth 2009).
+
+
+The history of technology in the humanities, not as a research object, but as a mechanism of scholarly practice extends back over 60 years. While it is important to recognize history as we explore the recent enthusiasm for the digital humanities, I am not here to tell that story. A more complete history has been better documented by Susan Hockey (2004) and Julie Klein (forthcoming). 
+
+
+To reach the bridge to scholarly publishing, I must take us briefly through a discursive tangle of definitions and debate over the meaning of the term ‘digital humanities.’ One of disputed territories lies at the boundary between the digital humanities and humanities computing. 
+
+
+Computing Humanists
+
+
+Humanities computing constitutes a distinct and important line of research within the digital humanities. The current momentum of the digital humanities is rooted in a long history of methodological exploration of humanities computing for the past 60 years. Without humanities computing, we would not have digital humanities. The path cleared by computing humanists created the opportunity space the digital humanities now occupies.
+
+
+"Humanities 1.0—computational humanities—has changed the way we do research, the kinds of questions we can ask, and the depth, breadth, and detail of the answers we can provide to those questions." (Davidson 2008)
+
+
+There is no question that humanities computing has been revolutionary, although in comparison with recent events it almost appears conservative. Such a criticism doesn't properly situate humanities computing historically. Humanities computing has been, for over 6 decades, slowly and methodologically transforming the foundations of humanist research practice. Their work, exploring the use of computation in humanities inquiry, found its first foothold in the computer assisted analysis of text (Hockey 2004).
+
+
+When writing and talking about the origin of humanities computing, we cannot ignore the truly visionary work of Father Roberto Busa. It was he who had the (divine?) insight in 1949 to contact Thomas Watson at IBM to explore the possibilities of their new computation machine in the analysis of text (Hockey 2004, Klein forthcoming). What resulted was the first attempt at a complete lemmatization of the works of Saint Thomas Aquinas, a task previously considered impossible. Busa's work with IBM demonstrated a new horizon of practice in the humanities. 
+
+
+The humanities computing emerged out of this tradition of textual analysis. Just as computation brought unprecedented possibility to other facets of society, it revolutionized the research practice of (some) humanities scholars. For those who could see it, such as Father Busa, computation unlocked vast epistemic universes.
+
+
+"Humanities computing is precisely the automation of every possible analysis of human expression (therefore, it is exquisitely a "humanistic" activity), in the widest sense of the word, from music to the theater, from design and painting to phonetics, but whose nucleus remains the discourse of written texts." (Busa 2004)
+
+
+The early discovery that computational technology could be brought to bear upon the the analysis of text set a tone for humanities computing. The doors opened by the computer shaped humanities computing to be a very specific practice.
+
+
+"In this foundational story, two important epistemic commitments of humanities computing are established: information technology as a tool and written texts as a primary object of study (for linguistic analysis). Commitments such "computer as instrumental tool" and "text as object" end up helping decide what are legitimate types of questions and study objects for the field, and how work and relevant institutions are organized." (Svensson 2009)
+
+
+The telling of the Father Busa story as an "origin myth" does a specific kind of rhetorical work. It orients us to a specific set of assumptions or "epistemic commitments" that shaped the humanities computing community. Until very recently, computational literacy was not simply learned, but required as a part of membership. 
+Computational Literacy
+Digital methods imply computational literacy. Humanities computing, with its heavy focus upon methods, i.e. the computational manipulation of text, requires of its practitioners a baseline level of competency understanding the structure and operation of computational technology. You don’t have to be a rock-star/ninja/superhacking programmer, you may not need to even know how to program yourself–although this point is hotly debated (Ramsay 2011a[d], Ramsay 2011b[e], Salter 2010, Kirschenbaum 2009[f] )–but to be a member in the humanities computing community, a literate understanding of what is and is not computable is required.
+
+
+The requirement of computational literacy for humanities computing has challenged the field throughout its history. First, to there is the challenge of obtaining the various skills to do humanities computing. 
+
+
+"[The early] period [of humanities computing] also saw the introduction of courses on various aspects of humanities computing. Some courses were given by staff within academic computing centers and concentrated mostly on the mechanics of using specific software programs...A debate about whether or not students should learn computer programming was ongoing. Some felt that it replaced Latin as a "mental discipline" (Hockey 1986)." (Hockey 2004)
+
+
+There have also been recent developments to address this problem, skills based programs such as the Praxis Progam[3] at the Scholars Lab. The praxis program’s curriculum includes a wide variety of practical skills like project management, web programming, user experience and graphic design. Many of these are useful beyond the context of digital humanities, for example in the ever increasingly collaborative academy (science & humanities alike) project management skills are vitally important.
+
+
+While the value proposition for skills and computational literacy is obvious in the broader knowledge culture, it has lead humanities computing astray in the eyes of its elder sibling, the traditional humanities. The epistemic commitments of humanities computing might even be construed as the antithesis of humanities in general.
+Humanities Computing in the Humanities
+The technological enthusiasm of humanities computing has resulted in a sometimes uncritical relationship to technology (Flanders 2009). This rests uneasy with traditional humanities, especially those informed by critical theory and post-structuralism. 
+
+
+"[H]umanities scholars have been actively engaged in working with computer technology for over twenty years. Nonetheless, these “computing humanists” sometimes labored in relative isolation from the questions that animated research in other aspects of their home disciplines, particularly work derived from interpretative frameworks or from poststructuralist theories." (McPherson 2009)
+
+
+The rhetoric of models and representation (McCarty 2005, Unsworth 2002) coupled with the focus on tools and methodology makes humanities computing appear, at least superficially exclusively about praxis. Closer inspection reveals a potentially rich theoretic thread throughout humanities computing, albeit one that may be unfamiliar to many humanists. 
+
+
+“the praxis of theory... is an example of a methodological process we are very familiar with, though perhaps not so much in a humanities context: the process of imagining what you know, testing it, scaling it up, modifying it, and then re-imagining it; and then the process of repeating that process in an indefinite series of iterations.” (McGann 1997)
+
+
+The “praxis of theory” as described by McGann echos the hypothetico-deductive modal. This, coupled with rhetoric of “data” or “cyberinfrastructure” (Unsworth et al, 2006. Borgman 2009. Unsworth 2009, Svensson 2011) can lead to an uneasy feeling that the humanities are being pushed to become more like “science.” Humanities computing crosses the well-defined line between C. S. Snow’s two cultures. 
+
+
+“by its very nature, humanities computing has had to embrace "the two cultures", to bring the rigor and systematic unambiguous procedural methodologies characteristic of the sciences to address problems within the humanities that had hitherto been most often treated in a serendipitous fashion.” (Hockey 2004)
+
+
+Tensions embedded this rhetoric need to be critically examined; while the value proposition of science is often easier to justify (especially to funding agencies), the epistemic commitments of science are problematic in their own right.[g] By bridging the gap between the two cultures, humanities computing becomes somewhat unrecognizable to the rest of the humanities. 
+
+
+Humanities computing focus on developing the tools, methods and literacy to do computational research in the humanities at the expense of what I’d argue is a much larger challenge, the requirement to understand and evaluate the scholarship produced using these new tools and methods. The relevance of humanities computing has always been hampered by literacy required to understand and evaluate humanities computing scholarship within the broader context of the traditional humanities.
+
+
+In a citation analysis of the two canonical journals of humanities computing Literary and Linguistic Computing and Computers and the Humanities, Juola (2008) showed that humanities computing scholarship has had very little impact, at least according to traditional impact metrics. Furthermore, when he analyzed who authored the articles he found very little representation from top-tier universities or highly ranked humanities departments. Simply put,  “For the past forty years, humanities computing have more or less languished in the background of traditional scholarship. Scholars lack incentive to participate (or even to learn about) the results of humanities computing (Juola 2008).”
+
+
+Humanities computing, while revolutionary in research method, also began to break ground in scholarly communication. While, humanities computing oriented around traditional printed journals like, Literary and Linguistic Computing and Computers and the Humanities, as its primary mode of scholarly dissemination, one notable exception is Willard McCarty’s Humanist mailing list, 
+
+
+“As important as [the] printed journals have been for establishing humanities computing as a field, humanities computing representatives were also early adopters of communication technologies such as email lists. The first message on the Humanist List was sent on May 13, 1987 by founding editor Willard McCarty, making it one of the first academic email lists to be established.” (Svensson 2009)
+
+
+This mailing list has been an important place of solidarity for humanities computing scholars over the years, in part, because they have been ignored by the larger humanities community. 
+
+
+McCarty in an email to the humanist list says this "We're always worrying ourselves about whether humanities computing has made its mark in the world and on the world. It seems to me, however, that quiet change, though harder to detect, is sometimes much better and more powerful in its effects than the noisy, obviously mark-making, position-taking kind. If during these 17 years Humanist has contributed to the world, it has done so very quietly by nature, like conversation, leaving hardly a trace. [Humanist 18.001]" (Sevensson 2009)
+I am particularly taken with notions of “quiet revolutions,” perhaps because I enjoy the subtle nuance it implies, hence I found McCarty’s thoughtful reflection to be a powerful statement about how humanities computing is situated with the academy and society as a whole. McCarty is wrong about one thing however, the Humanist has left a trace. The entire archives of the Humanist mailing list are available[4] and might provide some interesting insight. As a resource on and about humanities computing, the humanist mailing list deserves to be analyzed above and beyond McCarty’s (1992) now ancient retrospective account. 
+From Humanities Computing to Big Tent Digital Humanities
+Humanities computing from the outset faced a fundamental hurdle in the constitution of its scholarship. As I noted above, the social-institutional structures necessary to understand and evaluate the content of the scholarship was not present outside of a small community of practice. But, as some have noted (McGann 1997, Palmer 2004) not only is the content of humanities computing research problematic, the forms of knowledge deviate from the normal expectations of humanities scholarship.  
+
+
+McCarty notes this tension in their attempts at bibliographic projects (Lancashire & McCarty 1989, 1991) in humanities computing.                                                   
+
+
+“[The] difficulty for the bibliographic project was present from the outset: investment of primary work in constructing nonverbal artifacts in an evolving technology...” (McCarty 2003)
+
+
+There are two tensions here. First, the “nonverbal artifacts” challenge the formal notions of scholarship, that is, the journal publication or monograph. In humanities computing, with its emphasis upon tools and method, it is not uncommon for a valuable contribution to consist of computer code or a digital archive. Yet, despite their obvious value to count these digital artifacts as scholarship breaks the traditionally held notions of what constitutes scholarship.
+                                                   
+“This problem is significant because it indicates the failure of the traditional model for scholarship adequately to describe serious intellectual work in humanities computing, whose scope cannot be delimited in the same way and to the same extent as the traditional kind, nor can its genre be confined to stable discursive prose....A new definition of scholarship, demanding new abilities, would seem to follow.” (McCarty 2003)
+
+
+It would seem then that the larger value of humanities computing would require the humanities, and the academy in general, to re-evaluate the structures of knowledge and authority that have been reified into traditions like peer-review. Challenging the systems of scholarly publishing has not, historically, been part of the agenda for humanities computing. The problems of multi-modal scholarship extend far beyond the tightly defined boundaries of humanities computing. This is where humanities computing ends and digital humanities begins.
+
+
+Defining Digital Humanities
+In surveying the “Lanscape of the digital humanities” Svensson (2010) found the digital humanities, beyond simply being a “buzzword,” it a widely diverse and evolving ecosystem. Furthermore, the agenda of the digital humanities includes and extends that of humanities computing. The two are intimately linked, although Svensson is cautious to claim digital humanities is a direct descendant of humanities computing (Svensson 2009). Rather, Svensson argues the digital humanities emerges as a distinct epistemic culture that is "broad and inclusive" where humanities computing is tightly focused. With the discursive shift of humanities computing to digital humanities a tension emerged. 
+
+
+"[T]he renaming of humanities computing to digital humanities brings with it a set of epistemic commitments that are not necessarily congruent with a broad and inclusive notion of the digital humanities." (Svensson 2009) 
+
+
+This tension revolves around the idea of the "digital" being more than a set of tools and methodologies, but something more ambitious and harder to define. The difficulty in defining digital humanities hasn't prevented scholars from continuously attempting to characterize it. To fully account for these definitions I could fill a book (Klein forthcoming), so instead I will borrow Svenssons’ topology because, as we’ll see, it fits my purpose nicely. 
+
+
+ Instead of a clear discipline or field, Svensson sees the digital humanities as five modes of engagement with information technology:
+1. As a tool,
+2. As a study object,
+3. As an experimental laboratory,
+4. As an activist venue,
+5. As an expressive medium (Svensson 2010).
+
+
+
+
+Each of these modes are deeply connected intertwined. In what follows I will take Svensson’s last mode of engagement, information technology as an expressive medium, as a core theme and and briefly traverse through five clusters of definitions with digital humanities that I encountered in the literature. While any one of these modes could be used as a thread to connect the disparate definitions, I focus upon digital humanities engagement with information technology as an expressive medium because it directly engages the challenges that scholarly publishing faces as a result of information technology.
+As a tool:
+
+
+"Digital humanities is a new set of practices, using new sets of technologies, to address research problems of the discipline" (Borgman 2009)
+
+
+“The digital humanities, then, and their interdisciplinary core found in the field of humanities computing, have a long and dynamic history best illustrated by examination of the locations at which specific disciplinary practices intersect with computation.” (Schriebman 2004)  
+
+
+“Digital Humanities is not some airy Lyceum. It is a series of concrete instantiations involving money, students, funding agencies, big schools, little schools, programs, curricula, old guards, new guards, gatekeepers, and prestige. It might be more than these things, but it cannot not be these things....Personally, I think Digital Humanities is about building things." (Ramsay 2011)
+
+
+Borgman and Schriebman’s definitions of digital humanities are mainly an extension of humanities computing. Like humanities computing, a tool-centric mode of digital humanities faces challenges justifying its scholarly output. The focus upon digital humanities as a practice of computation leads to significant concerns about the state of (digital) humanities infrastructure. The need for infrastructure in the digital humanities has been clearly articulated and, more importantly, humanists must play an integral role in its construction (Borgman 2009, Unsworth 2007, Svnesson 2011, ACLS 2006). However, there are few incentives (and potentially more disincentives) in the structure of the humanities reward systems to actually build anything (that is assuming we suddenly don’t start considering the monographs as cyberinfrastructure.). 
+
+
+The last line of Ramsay’s quote really strikes to the heart of the tensions around tools as scholarship. If digital humanists set about building “things,” they will, somehow, have to account for their “work.” As promotion and tenure in the humanities is not generally equipped to credit “builders,” what are the motivations for scholars who do “build things” (they do exist, Steven Ramsay and William Turkel come to mind)? There must be scholars who have, for a multitude of reasons, decided to dig into the code. We bemoan the existing promotion and tenure system, yet we also implicitly ascribe to it enormous motivational power. Yet, as the builder/hacker/coder mode of engagement in the digital humanities shows another world is possible. How that world will manifest remains to be studied. 
+
+
+As a Study Object:
+
+
+"Despite prevailingly progressive narratives surrounding the impact of digital technology on modern academic culture, the field of digital humanities is characterized at a deeper level by a more critical engagement with technology. This engagement, which I characterize as a kind of "productive unease", is focused around issues of representation, medium, and structures of scholarly communication." (Flanders 2009)
+
+
+Information technology is not only a tool for scholars, it is also an object of study. According to Flanders (2009) the digital humanities can provide a critical and reflexive engagement with information technology’s impact upon society, the academy and the humanities. Research on virtual worlds, video games, computer code, spam, and social networks engages the digital not as a tool, although it may use digital tools in the course of the research, but as an object. In this mode of engagement, tools become a means to an end, rather than an end in and of themselves. 
+
+
+So then, if we begin to see scholarship, or proto-scholarship, of “the digital,” or digital scholarship, using multiple methods (i.e. both computational and traditional) to engage the fundamentally new phenomenal culture in and through technology, how should we evaluate it? As Fred Gibbs puts it, 
+
+
+"Part of what defines a discipline is its rhetoric and the aesthetics of its scholarly discourse. Philosophy texts sound different from history texts, which sound different from literary analysis. These differences become especially apparent during collaborative projects. As much as we champion cross-disciplinary work, there is an inherent unease to it, in no small part because it becomes harder to tell how to evaluate it. Given a particular piece of scholarship: How should one read it? Which criteria should be applied?" (Gibbs 2011)
+
+
+Digital technology as an object of study and its accompanying scholarly practice, needs its own “rhetoric and aesthetics.” in which a digitally native form of critique emerges to analyze both the unique form and content of digital scholarship. Critique becomes an absolute requirement for the study of “the digital” for it provides a frame against which we can craft a coherent engagement with technological phenomena. Flanders eloquently makes the case,
+
+
+“where a digital object sits blandly and unobjectionably before us, putting up no resistance and posing no questions for us — [digital humanities], in the meaningful sense, is also absent. Humanists may learn from the content of such objects, treated as research materials, as they always have. These objects...may produce efficiencies of access and other practical benefits of one sort or another. But they have no contribution to make to humanities scholarship: they make no intervention, they leave no intellectual mark.” (Flanders 2009)
+
+
+A digitally native critical theory then is a constitutive requirement for the constitution of digital scholarship, without which we are merely using technology to “produce efficiencies.” Critically informed scholarly engagements with technology like  “Critical Technical Practice” (Agre 1997) or “Information Infrastructure Studies” (Star & Rhuleder 1996,[h] Star 1999[i]) provide some first steps (sadly they are relatively unknown in the digital humanities), but digital humanities will need a sustained engagement if it is to have a broader impact.
+
+
+“Exactly what constitutes the sound scholarship that we want to do (and actually do) is not nearly as apparent to others, especially those outside the DH community, as it should be. It befalls the producers of that good scholarship to explain what is and what is not considered good, and why."  (Gibbs 2011)
+
+
+In addition to the challenges evaluating new forms of scholarship like code or databases are challenges evaluating content like ethnographic studies of virtual worlds or the literary analysis of online forums like 4Chan. Scholarship of the digital will struggle for a time, just as humanities computing suffered at the hands of ignorance in the broader academic community.
+
+
+“digital scholarship reveals a conundrum that has lain at the heart of humanities scholarship for decades: how can we simultaneously encourage paradigm shifts and radical revisions of our modes of analysis, and also know how to evaluate them once we have them before us? Digital scholarship proceeds through collaborations and hybridizations that challenge our notions of discipline — indeed, often that is the desired goal — but evaluation and professional acknowledgement are typically provided through conduits that are slower to adapt and may not necessarily view such a challenge as ipso facto valuable.” (Flanders 2009)
+
+
+
+
+
+
+
+
+As an experimental laboratory
+"...digital humanities is also a social undertaking. It harbors networks of people who have been working together, sharing research, arguing, competing, and collaborating for many years. " (Kirschenbaum 2010)
+“Humanities 2.0 is distinguished from monumental, first-generation, data-based projects not just by its interactivity but also by openness about participation grounded in a different set of theoretical premises, which decenter knowledge and authority” (Davidson 2008) 
+
+
+Drawing on Peter Galison’s investigations of science, the digital humanities has often been called a “trading zone” (McCarty 2003. McCarty 2005. Svensson 2010). Under this description, digital humanities becomes an inter-tribal meeting place where networks of people who hail from distinct epistemologcal 
+
+
+
+
+
+
+As an activist project
+“Pannapacker defines digital humanities in a way I really like. His definition situates DH within a larger academic cultural context, a context that is specifically undergoing a radical change. He sums it up - "Digital humanities is a comprehensive activist project that uses technology to respond to the interconnected cultural and structural problems of academe." he goes on "It redefines the nature of academic careers while dealing with longstanding disciplinary conversations. And it engages in complex, theoretical heavy lifting while building projects that are often based on the Internet, available to the public, and indisputably useful...Like the founders and builders of museums, libraries, concert halls, and critical editions in the last century, digital humanists are creating the new infrastructure of our history and culture and changing the nature of education and scholarship."
+
+
+As an expressive medium
+“Digital Humanities is not a unified field but an array of convergent practices that explore a universe in which: a) print is no longer the exclusive or the normative medium in which knowledge is produced and/or disseminated; instead, print finds itself absorbed into new, multimedia configurations; and b) digital tools, techniques, and media have altered the production and dissemination of knowledge in the arts, human and social sciences.” (Presner, Todd, et al.) 
+
+
+
+
+To fully explore this topology is not my goal, I want to focus specifically upon the last mode, the digital humanities as an expressive medium, because it directly engages with the problems of scholarship. As I described above, humanities computing’s engagement with information technology as merely a tool has held back its full potential as a scholarly field. 
+
+
+
+
+
+
+
+
+Alt-Ac & the Big Tent[j]
+
+
+One of the most significant implications of the big-tent, activist digital humanities is the tearing down of the wall between academia and world of administrators, librarians, researchers, and others who orbit around the ivory tower. Given the its ever expanding activist agenda, it obvious that the "alternative academic" or "alt-ac" movement would find a home in the digital humanities. For the very question of "what is the digital humanities" naturally leads us to test the boundaries of the disciplines.
+The most crisp and clear articulation of "what is the digital humanities" come from a blog post by William Pannacker. The post, which he wrote for the Chronicle of Higher Education, recounts his experiences at the Digital Humanities conference at Stanford in June of 2011. What I particularly love about his definition is the clear headed, journalistic-style balance between skepticism and enthusiasm.
+He begins,
+"After generations of relatively quiet progress—going back to the era of punch cards—the digital humanities has exploded into academic consciousness as the Next Big Thing at a time when the humanities seem to be in big trouble." (Pannacker 2011a)
+But not without a taste of self-deprecating skepticism,
+" As one young postdoc complained to me, 'Lots of people are trying to hitch their wagon to the digital humanities star.' And maybe I am one of them." (2011a)
+Pannapacker sees himself as neither an insider or an outsider to this emerging cohort of humanities scholars, he notes the conference is mostly graduate students and post-docs, and from this unique vantage point (perhaps implicitly as the "adult in the room?") he makes a very keen observation about the digital humanities, the "digital humanities is a comprehensive activist project that uses technology to respond to the interconnected cultural and structural problems of academe." He goes on, "It redefines the nature of academic careers while dealing with longstanding disciplinary conversations. And it engages in complex, theoretical heavy lifting while building projects that are often based on the Internet, available to the public, and indisputably useful...Like the founders and builders of museums, libraries, concert halls, and critical editions in the last century, digital humanists are creating the new infrastructure of our history and culture and changing the nature of education and scholarship." (Pannapacker 2011)
+What I like about Pannapacker's articulation of the digital humanities is it directly acknowledges the revolutionary tendency of the digital humanities project. It is very much an "activist" movement and has been since the humanities computing days. Although what is distinct between then and now is the scope and explicitness of that revolutionary rhetoric. Pannapacker's account of what he saw and heard at DH 2011 was extremely inclusive, even including the new-in-name, but not new-in-practice, 'alt-ac' community. Alternative Academic careers are those PhDs who have "gone off the grid" (or 'downshifted' in british parlance) to work as technologists or librarians, and opted out of the tenure-track rat race.
+The alt-ac community is an important aspect of the digital humanities community, but one that is hard to place in a definition that focuses on either research methods or objects; it adds another layer of depth and complexity to my digital humanities quadrant. The recent HASTAC conference, another digital humanities gathering place, opened with an alt-ac workshop. During which several alternative academic professionals described their own experiences working as technologists, librarians, or publishers.
+Much of discussion and debate in the digital humanities is happening outside the traditional, peer-reviewed literature. What began as a hash tag on twitter has now become a rallying points for discussions about alternative paths for humanities PhDs (Nowviskie 2011). The discussion quickly outgrew twitter and evolved into an online edited volume at MediaCommons, the structure and form of which is a living embodiment of what I believe to be the essence of the digital humanities:
+"#alt-academy is both an edited collection and the embodiment of a grassroots, publish-then-filter approach to networked scholarly communication. All community members can comment on existing essays and freely publish relevant work as part of this site, thereby making their content available at a stable URL and discoverable through search. However, only selected contributions will be featured on the #alt-ac home page as part of our edited "clusters."[(Nowviskie 2011)]](http://mediacommons.futureofthebook.org/alt-ac/how-it-works)
+The alt-academy site at media commons represents the most lofty ideals of the digital humanities. It is open-access, post-publish-peer-reviewed, contributions are measures by their merit, not who wrote them (at least at face value). The cast of contributors includes senior & junior scholars, post-docs, librarians, administrators, developers, and even at least graduate student (although he identified himself as a designer).
+The expanded list of participants in the digital humanities is one of the features noted by Cathy Davidson in her description of "humanities 2.0,"
+>"Humanities 2.0 is distinguished from monumental, first-generation, data-based projects not just by its interactivity but also by openness about participation grounded in a different set of theoretical premises, which decenter knowledge and authority" (Davidson 2008).
+Matt Kirschenbaum has also noticed the trend to include an expanded notion of legitimate participant in the digital humanities.
+"Digital humanities has also, I would propose, lately been galvanized by a group of younger (or not so young) graduate students, faculty members (both tenure line and contingent), and other academic professionals who now wield the label “digital humanities” instrumentally amid an increasingly monstrous institutional terrain defined by declining public support for higher education, rising tuitions, shrinking endowments, the proliferation of distance education and the for- profit university, and, underlying it all, the conversion of full- time, tenure- track academic labor to a part- time adjunct workforce." (2010)
+The crisis in the humanities, alt-ac, and the digital humanities are complexly intermingled. The boundaries between these various phenomena are extremely porous. Analytically, I think it is most useful to think about them as an ecosystem that has recently been disrupted by various crises as noted by Kirschenbaum. From these crises digital humanities emerges as a new habitat within which we can find new niches, like alt-ac. Crucial however is a need for us as scholars, students, and related professionals to adapt to the changing socio-technical environment. As we struggle to return to homeostasis, a point of dynamic stability within the complex ecosystem, the external selection pressures of the various crises are going to force us to change. Those who don't evolve? They become baristas? Perhaps this is too much of a fatalistic analogy, but for those of us graduating now and in the next few years, the anxious uncertainty around our futures can easily lead to effusive pessimism.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The true promise of the big tent digital humanities is to become a primordial ooze for a new kind of scholar, a multimodal scholar (McPherson 2009), who straddles the epistemic worlds of humanities computing and new media studies. There is something, a "humanist mystique" that I believe informs the design of technology. As Unsworth puts it, "[humanists] can make...a better infrastructure, if our perspectives, our training, and our expertise are included in its design and deployment." (Unsworth 2009)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Svensson (2009) has done some cursory analysis of discursive shift from “humanities computing” to “digital humanities” through a rough bi-gram frequency distribution over time on the Humanist mailing list.
+
+
+Year
+	humanities computing
+	digital humanities
+	1997-1998
+	304
+	2
+	2000-2001
+	343
+	3
+	2001-2002
+	566
+	16
+	2002-2003
+	283
+	15
+	2003-2004
+	280
+	19
+	2004-2005
+	363
+	45
+	2005-2006
+	130
+	44
+	2006-2007
+	110
+	90
+	
+
+I have graphed Svensson’s data so we can visualize the trends:
+ 
+With such a small data set and such a large standard deviation, there is very little statistical significance to any general claim about the rise or fall of either term. That said, humanities computing does appear to be declining and digital humanities is slowly on the rise. This is not surprising given the recent and rapid development of digital humanities, I also suspect that if we gathered the data from 2008 to the present we might see digital humanities even surpass humanities computing. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+________________
+[1] http://hastac.org/blogs/ernesto-priego/will-eisner-what-we-are-always-struggling-technology-storytelling
+[2] Historically gray literature referred to technical documents, white papers, & government/non-profit reports. However the term has been expanded to include Internet-based publication like blogs. I use the term in this later sense. 
+[3] http://praxis.scholarslab.org/ The Praxis Program is interesting in part because it emerges out of a library instead of an academic unit. The role of libraries providing  institutional supporter to the digital humanities (Bryson, Posner, St. Pierre, Varner 2011. Besser 2004) is an interesting development requiring more analysis but is outside the scope of this current project.
+[4] http://digitalhumanities.org/humanist/
+[a]mcburton:
+TODO: insert some cites
+[b]mcburton:
+shrink this
+[c]mcburton:
+This section needs to be re-worked once I finish
+[d]mcburton:
+http://lenz.unl.edu/papers/2011/01/08/whos-in-and-whos-out.html
+[e]mcburton:
+http://lenz.unl.edu/papers/2011/01/11/on-building.html
+[f]mcburton:
+http://chronicle.com/article/Hello-Worlds/5476
+[g]mcburton:
+insert some cites from STS
+[h]mcburton:
+Steps towards and ecology of infrastructure 1996 journal version, not conference version.
+[i]mcburton:
+An Ethnography of Infrastructure
+
+
+http://abs.sagepub.com/content/43/3/377.short
+[j]mcburton:
+I want to use alt-ac as brief example of the expanded sphere of DH
+________________
+mcburton:
+Alt-ac is symbolic in that it expands the notion of who can play. now we are seeing a potential for scholarly contributions from actors who are not on the tenure track.

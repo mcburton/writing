@@ -79,5 +79,28 @@ This research project proposes not only to passively study this phenomena, but a
 
 It will be easiest to think about this research project as three separate, but interconnected components. First, is the design and implementation of an infrastructure for monitoring the twitter conversations of the digital humanities community. Second, is a set of analytical practices that can distill and synthesize the threads of conversation on a weekly basis. Third, a summary of the conversation will be "published" back into the conversational ecosystem in the form of weekly podcasts, a kind of "this week in tweets" for the digital humanities.  
 
+#### The digital humanities tweets as a thematic research collection.
+
+As a thematic research collection there would be several components
+
+Infrastructure - the code to harvest, store, analyze and present the tweets would be open source so that anyone could create their own twitter thematic research collection.
+
+The database/archive - The tweets collected would be available to for scholars to download for their own scholarship (although I would need to check with the twitter EULA shit)
+
+Analysis & representation - through crowd sourcing, close reading, distant reading & other modes. the tweets collected would be sorted, analyzed and distilled into various catagories. This "binning' would be my own "scholarship" on the archive. It might take the form of conference backchannels being published as ebooks. It might be a weekly podcast "This week in DH Tweets." It could be something emergent. I would probable use the archive for my own research on scholarly communication.
+
+The point is that this collection would be a sustainable, scalable archive of digital humanities scholarly communication that would be available for scholars (of all stripes, humanities, social science, hard science) as both raw material for their own research, as a summary of "what is happening" and as a series of publications in their own right. 
+
+
+### The practices of publishing scholarship
+
+This study draws inspiration from the ethnomethodological investigations of scientific practice (Garfinkel, Lynch, Livingston 1981, Lynch 19??, etc) and of technology (Heath, Crabtree, Button, etc.). Scholarly publishing in the digital humanities is a technologically infused practice of knowledge production. Using concepts and orientations from these lines of research I will study how scholarly presses are leveraging new technology in the course of publishing new and old modes scholarship. 
+
+I will observe the practices through which innovative scholarly publishers are constructing digital scholarship, to what standards of accountability they orient the construction of digital scholarship, and how academic decision making, embodied by the editorial boards of the presses, react to and make sense of digital scholarship. Following the "technomethodological" research pattern from Crabtree (2004) I will leverage digital scholarship as a form of "breaching experiment," that is, a novel technology that violates expected social orders and in doing so renders visible the invisible, taken-for-granted accountabilities and expectations against which scholarship is constituted as scholarship. 
+
+Data Collection
+
+This study will focus on ethnographic investigations of university presses actively experimenting with new forms of scholarship and publishing. The study will start by observing the initial interactions between scholars and publishers. These conversations are vital as they represent the negotiations between the scholars vision and the publisher's reality. Through audio and video recording, emails, chat logs, and observations I hope to collect the locally stituated and ordered interactions through which the scholar's ideas are iteratively refined into a mutually worked-out object of scholarship.
+
 
 

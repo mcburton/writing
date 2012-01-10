@@ -1,0 +1,17 @@
+Svensson's notion of digital humanities engaging technology as a laboratory thinks of a laboratory in a very traditional and literal sense. Drawing mainly upon an article by Janlert & Jonsson (2000), he explores how information technology can be used to actively engage the research object. In this mode, research becomes interventionist, predictive and more like science. Janlert & Jonsson introduce the concept of the "cultural laboratory" as a place in which the practices of science, controlled experiments, can be applied (albeit in a limited sense) in humanities scholarship (Janlert & Jonsson 2000. Svnesson 2010).
+
+I agree digital humanities as laboratory, or cultural laboratory, is pregnant with possibility. Agent based modelling, Amazon's mechanical turk, social network experiments, could serve the digital humanities enourmously, if deployed with care and a critical eye towards contextualizing their results. Yet, there is another way to think of digital humanities as a laboratory. The scientific laboratory is also a complex social setting where a diverse mix of epistemic cultures and research practices come together to collaborate (Knorr-Cetinia ????, Latour & Woolgar ????).
+
+Drawing on Peter Galison’s investigations of laboratories in physics, the digital humanities has often been called a “trading zone” (McCarty 2003. McCarty 2005. Svensson 2010). Under this description, digital humanities becomes an inter-tribal meeting place where networks of people who hail from distinct epistemologca
+
+"...digital humanities is also a social undertaking. It harbors networks of people who have been working together, sharing research, arguing, competing, and collaborating for many years. " (Kirschenbaum 2010)
+
+“Humanities 2.0 is distinguished from monumental, first-generation, data-based projects not just by its interactivity but also by openness about participation grounded in a different set of theoretical premises, which decenter knowledge and authority” (Davidson 2008)
+
+As to the truth of the matter, I cannot say, but it has been long said that humanities scholars work alone. The image of the solitary historian, sequestered away in an office filled with books, or thumbing through historical archives is oft repeated. Citation analysis most likely confirms this assumption, although we should be mindful that the accredidation systems in the humanities (and the academy in general) don't acknowledge "invisible work" (Star & Tk 19TK).
+
+Digital humanities is different, or at least aspires to be different. As Kirschenbaum and Davidson point out, digital humanities at its core is a highly social undertaking. Collaboration, multi-authorship, and inter-disciplinarity (or extra-disciplinarity as Ted Underwood calls it (2011)) are actively encouraged, and often required. 
+
+
+
+l
