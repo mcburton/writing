@@ -388,15 +388,31 @@ the Council on Library and Information Resources and The National Endowment for 
 
 
 
+
+
+
+
+
+
+
+
 ## Scholarly Publishing
 
 ### Mechanics of New Digital Publishing
 
 1.  Brown, L., R. Griffiths, M. Rascoff, and K. Guthrie. 2007. "University publishing in a digital age." Journal of Electronic Publishing 10(3):1–60 (http://hdl.handle.net/2027/spo.3336451.0010.301).
+	- "In American colleges and universities, access to the internet and World Wide Web is ubiquitous; consequently nearly all intellectual effort results in some form of “publishing”. Yet universities do not treat the publishing function as an important, mission-centric endeavor. Publishing generally receives little attention from senior leadership at universities and the result has been a scholarly publishing industry that many in the university community find to be increasingly out of step with the important values of the academy."
+	- "Formal scholarly publishing is characterized by a process of selection, editing, printing and distribution of an author’s content by an intermediary (preferably one with some name recognition). Informal scholarly publication, by comparison, describes the dissemination of content (sometimes called “gray literature”) that generally has not passed through these processes, such as working papers, lecture notes, student newsletters, etc."
+	- "In the past decade, the range and importance of the latter has been dramatically expanded by information technology, as scholars increasingly turn to preprint servers, blogs, listservs, and institutional repositories, to share their work, ideas, data, opinions, and critiques. These forms of informal publication have become pervasive in the university and college [1] [#N1] environment. As scholars increasingly rely on these channels to share and find information, the boundaries between formal and informal publication will blur. These changes in the behavior of scholars will require changes in the approaches universities take to all kinds of publishing."
+	- "The responsibility for disseminating digital scholarship is migrating instead in two directions – towards large (primarily commercial) publishing platforms and towards informal channels operated by other entities on campus, mostly libraries, academic computing centers, academic departments, and cross-institutional research centers."
+	- "What will, or should, the future scholarly communications system look like? First, every university that produces research should have a publishing strategy, but that does not mean that it should have a “press”. Much of the content produced in the future will be disseminated electronically, and a new constellation of skills (including some that currently reside in presses, as well as those from libraries and IT groups) will be required to do this most effectively. Second, in the digital environment certain activities and assets (e.g. technology development, marketing) will be consolidated onto large scale platforms. These new digital publishing activities are central to the research and teaching missions of universities, and it therefore seems critically important that the university community be able to influence strongly the development of these platforms to insure that they support long held university values, rather than allowing them to be driven primarily by commercial incentives. And third, as the environment evolves, university presses will no doubt change. Some universities will encourage and enable their presses to grow and take more of a leadership role. Other institutions may decide to open new presses. Others may close their presses or let their presses evolve into more specialized enterprises with a focus on editorial and credentialing services while depending on others for core infrastructure and marketing services. What seems clear is that to succeed presses are going to need to be a more important partner in helping their host institutions to fulfill their research and teaching mission."
+	- University presses are NOT adapting.
+	- "Many press directors have a sense of what needs to be done to jump- start their new enterprises, but lack the financial capital, technical staff, and technological skills to pursue this kind of agenda. Librarians and press directors acknowledge that they have limited experience in collaborating effectively with one another and operate on different business models that make collaboration challenging, but at the same time we found that they have an appreciation for the unique skills and experience that each brings to the table."
+
 
 1.  Brown, Susan et al. 2009. "Published Yet Never Done: The Tension Between Projection and Completion in Digital Humanities Research." 3(2). Retrieved July 21, 2011. (http://www.digitalhumanities.org/dhq/vol/3/2/000040/000040.html)
 
-1.  Cecile M. Jagodzinski. 2008. "The University Press in North America: A Brief History." Journal of Scholarly Publishing 40(1):1-20. Retrieved July 18, 2011. (http://muse.jhu.edu/journals/scp/summary/v040/40.1.jagodzinski.html)
+1. Jagodzinski, Cecile M. 2008. "The University Press in North America: A Brief History." Journal of Scholarly Publishing 40(1):1-20. Retrieved July 18, 2011. (http://muse.jhu.edu/journals/scp/summary/v040/40.1.jagodzinski.html)
 
 1.  Donatich, John. 2009. "Why Books Still Matter." Journal of Scholarly Publishing 40(4):329-342. Retrieved July 18, 2011. (http://muse.jhu.edu/journals/scp/summary/v040/40.4.donatich.html)
 
@@ -409,9 +425,20 @@ the Council on Library and Information Resources and The National Endowment for 
 	-"Although we know a publisher by its editorial choices, the organizational and business context in which those choices are made have become increasingly complex, and that complexity is likely to grow even more in the years ahead" The work of a publisher extends well beyond their editorial role. Before the current complexities of the publishing ecosystem, presses distinguished themselves via their editorial prowess. But now there are a host of other decisions that distinguish them. "There is almost nothing about scholarly publishing that is not changing. Thus, the editorial strategy is but one of many factors that go into a particular press's success. And this is the reason that university presses today have to think and plan beyond their editorial departments."
 
 1.  Fitzpatrick, Kathleen. 2007. "CommentPress: New (Social) Structures for New (Networked) Texts." Journal of Electronic Publishing 10(3). Retrieved (http://hdl.handle.net/2027/spo.3336451.0010.305).
+	- "an experiment into the organization of digital text with a desire to promote social interaction within and around it offers us the opportunity to resituate the problem of electronic publishing in a potentially productive way, and in so doing compels a new perspective on certain aspects of the historical development of publishing."
+	- "Authors do not write books, he argued, suggesting that, actually, authors write sentences, or, on a larger scale, texts. But neither do printers produce books; printers, instead, produce pages. The primary argument that Stallybrass’s paper sought to make was about the need for textual studies scholars to think in terms of pages, both bound and unbound, in order to escape what he called “the tyranny of the book” (Stallybrass 2006)."
+	- "The problem, in other words, may not be one that is material, about the differing properties of bit versus atom, but instead structural, organizational. Stallybrass notes the irony in digital textuality’s regression from the kinds of manipulation that the codex made possible, reimposing the limitations of the scroll on our reading practices." Not just reading practice, what about evaluation practices?
+	- "None of this is to say that digital publishing ought to mimic the spatial arrangement of bound pages, but rather to suggest that those of us invested in the future of publishing online need to think in terms that are not just about page design, but rather about larger-scale textual structures."
+	- "what shouldn’t be overlooked in any evaluation of a new publishing form such as CommentPress is the quantity of labor that it requires, not just in the development, installation, and implementation of the templates themselves, or in the design and release of texts through them, but in the maintenance of the texts post-publication, and in the active participation that discussion requires of the texts’ authors." Community management
+	- "Publishing systems like CommentPress thus won’t relieve institutions of the infrastructural demands posed by current, analog press and library systems. They’ll also create more work for authors, who won’t be quite so able to walk away from a text in manuscript form and leave its publication to the labor of others." more work, but also moving the work back on to authors which the current system shifts work away from (to invisible workers). seem like moving the work, especially visible work of community management, onto the authors might have benefits for prestige...
+	- "The success of the electronic publishing ventures of the future will likely hinge on the liveliness of the conversations and interactions that they can produce, and the further new writing that those interactions can inspire. CommentPress grows out of an understanding that the chief problem involved in creating the future of the book is not simply placing the words on the screen, but structuring their delivery in an engaging manner; the issue of engagement, moreover, is not simply about locating the text within the technological network, but also, and primarily, about locating it within the social network."
+		
+
 1.  Fraser, John W. Maxwell and Kathleen. 2010. "Traversing The Book of Mpub: an Agile, Web-first Publishing Model." Journal of Electronic Publishing 13(3). Retrieved (http://hdl.handle.net/2027/spo.3336451.0013.303).
-1.  Johns, A. 1998. The nature of the book: Print and knowledge in the making. University of Chicago Press. (http://books.google.com/books?id=ERpBdEUdhz8C)
-1.  Kirschenbaum, Matthew G. 2008. Mechanisms: New Media and the Forensic Imagination. The MIT Press. (http://books.google.com/books?id=CT0oPmcrciAC)
+	- Arguement: new technology enables radically new workflows for scholarly publishers. These workflows should be iterative and unique to the 'text's particular rhetorical situation.
+	- "Publishers are well used to taking advantage of economies of scale, using a one-size-fits-all workflow, but perhaps, in a web-first context, they should consider books methodologically independent, in that an appropriate workflow will emerge naturally to suit the text’s particular rhetorical situation."
+	-"We argue that the book is not threatened because a printed book is not the zenith of a text. Rather, the printed book exists as part of the book’s ecosystem, a lightweight machine built the same way we produce and process all ideas—through interactions, through iterations, through failure and continual refinement."
+	
 1.  Kling, R., & Spector, L. (2002). Academic rewards for scholarly research communication via electronic publishing (No. WP- 02-13). Bloomington, IN: Center for Social Informatics. (http://hdl.handle.net/2022/167)
 	- Kling and Spector make an argument that electronic publications should not be discounted out of hand by virtue of the fact they are electronic in nature. They emphasize that publishing exists in a broad spectrum of possible states and they aught to be evaluated not on their form, but through a framework developed by Kling (1999)
 		- Publicity
@@ -420,17 +447,26 @@ the Council on Library and Information Resources and The National Endowment for 
 	- they promote this framework for tenure and promotion decisions, as opposed to dismissing epub out off hand.
 	- This raises a question, this is an old paper, are the claims about the dismissing of electronic publications still true?
 	- Another question, this article is mainly focused upon journal style publication, manuscripts to be submitted to journals, or articles published on scholars websites or on pre-print sites. Do these concerns and does the Kling framework apply to monographs?
+
 1.  Kling, R. (2003). The internet and unrefereed scholarly publishing (No. WP- 03-01). Bloomington, IN: Center for Social Informatics. (http://hdl.handle.net/2022/166)
 	- a historicized discussion of nomenclature in scholarly communication and scholarly publication. Looking at p-pub and comparing with e-pub.
 	- "We do not have a good theory to explain the ways in which different disciplines have selected these different architectures for communicating via unrefereed e-scripts. We also lack a good theory of why these practices are confined to a minority of academic disciplines.  Kling and McKim's (2001) effort which examines different features of a discipline (ie., relative visibility of projects, patentability of research products) as they pertain to trust between authors and readers stands out as the only systematic effort to conceptualize such disciplinary differences. "
 	- "scholarly publication is part of a much more complex  set of scholarly working arrangements that include credit-assignment and financing arrangements. Since these working arrangements change slowly in a discipline, only those disciplines whose working arrangements are congruent with communicating via unrefereed e-scripts will adopt and extend the practice."
+
 1.  Lynch, Clifford. 2010. "Imagining a University Press System to Support Scholarship in the Digital Age." Journal of Electronic Publishing 13(2). Retrieved (http://hdl.handle.net/2027/spo.3336451.0013.207).
+	- arguement: if designed from scratch, Lynch envisions a network of publishers using shared infrastructure (databases, content management systems)
+	- " outline a possible future system of many distributed university presses mainly focused on the editorial production of scholarly monographs, supported by a very small number of digital platforms for managing and delivering these monographs as a database rather than transactionally to academic and research libraries."
+	- Imagines what a university press system would look like if they could do a clean break. Not unlike Pachoda's argument.
+	- "My sense is that the urgency lies with the organizational and business problems rather than the deeper issues around the future of the monograph in the digital world; these are being explored, and that exploration will continue, though at some point a more systematic research program and funding strategy will certainly be helpful."
+	
+	
 1.  Mandel, C. A, M. C Summerfield, and P. Kantor. 1997. "Online Books at Columbia: Measurement and Early Results on Use, Satisfaction, and Effect." (http://www.arl.org/resources/pubs/scat/mandel-2.shtml)
 	- "Most if not all reference books are used more heavily online than in print. (Section 4.3.1)"
 	- "Early online reference books have experienced falling usage over time, substitution of use of a new delivery system for an old one, or a smaller rate of growth of use than might be expected given the explosion in access to and use of online resources in general. (Section 4.3.1)"
 	- technical limitation such as home access (via dialup), or access in places other than in front of a computer (this is the age before iPads, laptops, and wifi)
 	- digitizing books is not easy "it is much more difficult to bring books into online form than everyone has anticipated"
 	- technology was chaining too rapidly "growth of Web browser technology creates continuous pressure to improve the functionality of the books that go online. We are in the position of surgeons who must keep a patient active, while making drastic changes to that patient's anatomy."
+
 1. McPherson, Tera. 2010. "Scaling Vectors: Thoughts on the Future of Scholarly Communication" 
 	- Vectors is interesting b/c it prints only things that "can't exist in print"
 	- "I believe that electronic publishing should not merely aim to port the printed page directly to the web (even in searchable form), but should, rather, investigate new publication practices that take advantage of the capacities for rich multimedia and networked communication that the Internet offers."
@@ -461,7 +497,7 @@ the Council on Library and Information Resources and The National Endowment for 
 1.  Sewell, David. 2009. "It’s For Sale, So It Must Be Finished: Digital Projects in the Scholarly Publishing World." 3(2). Retrieved July 21, 2011 (http://www.digitalhumanities.org/dhq/vol/3/2/000039/000039.html).
 	- as I read the title and the abstract of this piece I am reminded of TK's presentation about the Archive Team and their efforts at Defcon TK. One of the interesting points he made during the presentation was how websites have dropped using the "under construction" animated gif. His reasoning for this was because in the modern web era, all websites are "under construction." A static website is a dead website. Everything is dynamic, blogs, tumblers, RSS, twitter feeds, Facebook walls, etc. Everything is constantly being updated because that is the only way to stay at the crest of the wave. In this dynamic age we have no need for an under construction gif because that is the normal expectation.
 	- big question: how does a scholarly contribution that is un-ending and dynamic get peer reviewed or purchased at an institutional level?
-	- there is a contradiction that has emerged, the distinction between "open" and "closed" has been conflated with "finished" and "unfinished." We valorize open and unfinished and demonized closed and finished. This is an interesting quadrant of analysis, especially if we think about visibility. Open and unfinished is visible in the raw (like this current document), open and finished is more akin to OER, closed and finished is the typical situation with most scholarly works. Closed and unfinished is nigh-invisible, we have no visibility to these scholarly objects until they are published. These are the file-drawer findings.
+	- "there is a contradiction that has emerged, the distinction between "open" and "closed" has been conflated with "finished" and "unfinished." We valorize open and unfinished and demonized closed and finished. This is an interesting quadrant of analysis, especially if we think about visibility. Open and unfinished is visible in the raw (like this current document), open and finished is more akin to OER, closed and finished is the typical situation with most scholarly works. Closed and unfinished is nigh-invisible, we have no visibility to these scholarly objects until they are published. These are the file-drawer findings.""
 	-"I would submit that early in the 1990s the postmodern admiration of the "open-ended" at the expense of the "closed" somehow got turned into a celebration of the "unfinished" and a suspicion of the "done," and that this transmutation may have been one of the things that delayed the entrance of digital scholarship into the traditional system of peer-reviewed academic publication."
 	- "Julia Flanders has observed in a memorable phrase that the digital humanities have sometimes suffered from "a culture of the perpetual prototype" [Flanders 2007], " Sewell goes on to draw a connection that "what was the postmodern project if not a cult of the perpetual prototype."
 	- The finished/unfinished conundrum might be the crux of my visibility problem. How can something count if it is unfinished? How can something so technological pre-disposed to dynamicism, like a blog, ever be finished? 
@@ -494,11 +530,12 @@ the Council on Library and Information Resources and The National Endowment for 
 	- "One of the major issues for getting E-press monographs accepted is faculty conservatism, for example, in terms of the use of print books for review purposes and the belief that electronic content is somehow less prestigious than its print equivalent. The restructuring by Columbia University Press of its Gutenberg-e monographs to open access has highlighted some of the structural issues in regard to faculty perceptions. (Howard 2008)"
 	- good point about how the importance of the monograph is lost onSTM folks. "The early 2008 correspondence on the Liblicense and American Scientist email discussion lists have reflected a view by some correspondents that open access monographs are not part of the open access debate. Such comments typically come from those with an STM background who seem unaware of the importance of the book in the social sciences and humanities and the problems of the last two decades. The open access debate is about all disciplines and all scholarly publishing, not simply STM articles, and needs to be linked into university-wide missions of disseminating knowledge. (Thatcher 2007)"
 	- "Cathrine Harboe-Ree, the librarian of Monash University, has provided an overview of the philosophies in the establishment of these e-presses. (Harboe-Ree 2007) This is not to say that librarians see themselves as publishers, nor to decry the difficulties that university presses face, but the library, in scholarly communication terms, is well placed to facilitate a wider distribution of university research." The library is becoming, it seems, an institutional umbrella that can provide cover for the changes occuring in scholarly publishing and scholarly communication. It seems that better understanding how these libraries are functioning as "trading zones"  (porter) or as "safe" fudging space (in the EM sense of the term) that allow radically transformitive practice to be enacted without being held back by traditional structures of accountability. Libraries and librarians, have been at the head of these technological catalyzed transformations for several decades. (recall dan klyn's anectote about how when people needed web-pages they turned to librarians.) Librarians and libraries are _incubators_.
-	- "Sydney University Press (SUP), which was re-established by Sydney University in 2003 under library management, places the press within a wider perspective of e-scholarship in order to address the challenges of scholarly publication in the networked environment. SUP has a “hybrid production and philosophical approach to scholarly publishing ... expressed in terms of delivering both digital and print (on demand) content as appropriate, and a mix of open and paid delivery of publications”. (Coleman 2008)" Seems like a similar move to UofM with the formation of MPublishing.  
+	- "Sydney University Press (SUP), which was re-established by Sydney University in 2003 under library management, places the press within a wider perspective of e-scholarship in order to address the challenges of scholarly publication in the networked environment. SUP has a “hybrid production and philosophical approach to scholarly publishing ... expressed in terms of delivering both digital and print (on demand) content as appropriate, and a mix of open and paid delivery of publications”. (Coleman 2008)" Seems like a similar move to UofM with the formation of MPublishing.
 	- How many universities have migrated their presses into their libraries? How does institutional innovation transform the practices of publishing? Why was this necessary for the formation of the epress?
 	- evaluating monographs via citation metrics is difficult "The assessment of research excellence through books, a key issue in the humanities and social sciences, is a neglected topic. In the monograph context the assessment of citations through databases such as Thomson's Web of Science is not a quick exercise due to the lack of automated source material. " and "books are typically not available electronically for citation purposes, and so must be searched manually for references. (Butler and Visser 2006)"
 
 1.  Summerfield, M., C. Mandel, and P. Kantor. 1999. The Online Books Evaluation Project, Columbia University; Final Report. (Still looking for URL)
+
 1.  Wicht, Lynn Silipigni Connaway and Heather L. 2007. "What Happened to the E-book Revolution? : The Gradual Integration of E-books into Academic Libraries." Journal of Electronic Publishing 10(3). Retrieved (http://hdl.handle.net/2027/spo.3336451.0010.302).
 	- review of e-book lit from 2000-2007. Try to explain the slow adoption of ebooks & some of the issues related to ebooks online
 	- comprehensive history of ebooks, beginning with Bush's Memex and early attempts to implement it to the Google books project.
@@ -509,12 +546,72 @@ the Council on Library and Information Resources and The National Endowment for 
 
 1. SCI 9 Report "New-Model Scholarly Communication: Road Map for Change" 9th Scholarly Communication Institute. 2011. (http://www.uvasci.org/current-institute/sci-9-report/)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### The Crisis of Scholarly Monograph Publishing. 
 
 1.  Association of American University Presses, "Digital Publishing in the AAUP Community; Survey Report: Winter 2009-2010," (http://aaupnet.org/resources/reports/0910digitalsurvey.pdf)
+
+1. Association of American University Presses, "Sustaining Scholarly Publishing" Marh 2011
+	- From Schreibman, Mandell & Olson "evaluating digital scholaship" 
+	- "AAUP’s Sustaining Scholarly Publishing attributes the possibility of gaming the peer-review system primarily to digital publish- ing. In the section “Ensuring a Robust Scholarly Ecosystem,” the report asserts,
+		For unfiltered, direct dissemination, the web is without peer. . . . Raw dissemination is now so easy that anything, and everything, can be “published” online—made available to Google, and Bing, and that moment’s Twitter feed.
+	In contrast, in the case of print publication
+		one of the drivers that ensures quality publishing—and part of what en- ables publishers to maintain their expertise—is having a financial inter- est in the success of a publication. Perhaps paradoxically, these finan- cial constraints help ensure quality by raising the stakes for publication. In the print-only environment, virtue and necessity combined to make independent vetting, robust distribution, and financial motivation work together to form an essential part of the scholarly ecosystem.
+	- "The technological and cultural shifts of the last decade...may even threaten many of the intellectual characteristics most valued by the scholarly enterprise itself: concentration, analysis, and deep expertise."
+	- "Monographs remain largely static objects, isolated from the interconnections of social computing, instead of being vibrant hubs for discussion and engagement. For both scholarship and for university presses, this is undesirable, but is also an inevitable consequence of the business model (of self-funding through product sales) that many parent institutions currently expect from their presses."
+	- "Recommendations
+		• Active, structured, open sharing of lessons learned by participants in existing digital publishing projects should be an ongoing process.
+		• Existing partnerships between presses, libraries, and other scholarly enterprises are vital models for collaboration to learn from and build upon.
+		• The support of foundations, libraries, and university administrations in providing funds to work toward the digital future has been, and will remain, crucial.
+		• Open access is a principle to be embraced if publishing costs can be supported by the larger scholarly enterprise. University presses, and nonprofit publishers generally, should become fully engaged in these discussions.
+		• Proposals and plans for new business models should explicitly address the potential impact of the new model on other parts of the press’s programs, as well as explicitly address the requirements, both operational and financial, for making the transition to a new model."
+	- "For unfiltered, direct dissemination, the web is without peer—which is its primary strength as well as its weakness. Today we are moving beyond information abundance to information surfeit, a hyperabundance that can be both a wonder and a tremendous distributed inefficiency in wasted time. Raw dissemination is now so easy that anything, and everything, can be “published” online—made available to Google, and Bing, and that moment’s Twitter feed."
+	- Presses leveraged the selling of books to provide independence from university administration pressures..."independence from the vagaries of budget cycles within home institutions."
+	- "The financial investment of printing and physical distribution typically comprises about a fifth of the costs; far more is invested in the time of acquiring and developmental editors, copyeditors, project managers, proofreaders, and indexers, as well as lights, copiers, office space, and other overhead costs involved in publishing that book."
+	- Services offered by University press:
+		-Selectivity
+		- Editorial engagement
+		- Presentational Expertise
+		- New Marketplaces
+		- Metadata authority and Enhancement
+		- Non-digital distribution arrangements
+		- Multiple formats
+		- Independence
+		- Imprimatur, tenure, promotion, prestige
+		- Long-term availability
+	- One of the interesting experiences I had during my literature review for this project was reading the CommentPress version of this document. MediaCommons hosted the AAUP Sustaining Scholarly Publishing document which allowed registered users to comment on the document on a paragraph to paragraph basis. The result was nothing less than incredible with over two hundred comments including the authors of the report. The ensuing discussion provided me, someone who has only recently entered the conversation, with excellent context, crique, and commentary about the report. 
+	- "Digital has replaced print as the primary edition (increasingly the only edition), while at the same time creating opportunities for new revenue streams, such as pay-per-view, single article sales, and bundling multiple journals in single subscription packages." These are all skeumophic, web 1.0 ideas of digital content. 
+	- the AAUP report seems to celebrate the economic independence of presses and assumes that what consitutes good scholarship also constitutes good sales. This seems like a flawed assumption as While it is true that Presses are businesses, they are not typical businesses because they are operating in not only an economic market, but a "knowledge" market as well.
+
 1.  Alonso, C. J, C. N Davidson, J. Unsworth, L. Withey, and American Council of Learned Societies. 2003. Crises and opportunities: the futures of scholarly publishing. American Council of Learned Societies. (http://www.acls.org/Publications/OP/57_Crises_and_Opportunites.pdf)
+	- Comments in the introduction
+	- "[J]unior faculty members...find themselves in a maddening double-bind,” wrote Stephen Greenblatt to the members of the Modern Language Association.2 “They a face a challenge—under inflexible time con- straints and with very high stakes—that many of them may be unable to meet successfully, no matter how strong or serious their scholarly achievement, because academic presses simply cannot afford to publish their books."
+	- " The “crisis” of the scholarly monograph, then, is not merely a crisis in the economics of scholarly publishing, but also in the processes of peer review and academic self-governance, prompting reflection on practices of scholarly evaluation that we have simply taken for granted."
+	- Comments by Alonso
+
 1.  Anon. n.d. "Kairos 15.2: Gold, ‘Becoming Book-Like: Bob Stein and the Future of the Book’ (Interview)." Retrieved July 21, 2011a (http://kairos.technorhetoric.net/15.2/interviews/).
-1. Blair, Ann. 2010. "The Chronicle Review: Information Overload, then and now" The Chronicle of Higher Education. (http://chronicle.com/article/Information-Overload-Then-and/125479/)
+
 1. Blair, ann. 2010. Too Much to Know: Managing Scholarly Information Before the Modern Age. TODO cite.
 	- So Blair is focusing mainly on reference works and note collections in early, pre-modern Europe. These genres help manage the ever-present "information management" challenges faced by the proliferation of books and texts made possible by the printing press (and other factors?). It is important to note however that these genres of text management had existed since the middle ages. 
 	-"My purpose in studying reference tools in early modern Europe, and how they were conceived, produced, and used by contemporaries, is to gain insight into the ideals and practices of what one can anachronistically call “information management” in a period prior to our own."
@@ -525,7 +622,7 @@ the Council on Library and Information Resources and The National Endowment for 
 	- Seneca represents the conservative tradition  - " [insert pithy quote]"too many books whereas Pliny the Elder represents the progressive tradition - "no book so bad" there is always something of value in every book
 
 1.  Davidson, C. N. 2004. "The futures of scholarly publishing." Journal of scholarly publishing 35(3):129–142. (http://muse.jhu.edu/journals/journal_of_scholarly_publishing/summary/v035/35.3davidson.html)
-	- provides a very long list of the problems facing publishing and then points they are all part of the problem. "The problem is that almost all of the above are part of the prob-lem. Fixating on parts means that we never arrive at an overarching solution." or even fixing parts won't work. We need a global break.
+	- provides a very long list of the problems facing publishing and then points they are all part of the problem. "The problem is that almost all of the above are part of the problem. Fixating on parts means that we never arrive at an overarching solution." or even fixing parts won't work. We need a global break.
 	-"The bottom line is that scholarly publishing isn't financially feasible as a business model – never was, never was intended to be, and should not be. If scholarship paid, we wouldn't need university presses."
 	- "I do want to uncouple discussions of re-evaluating tenure requirements from the current economic crisis in publishing. A university press book and several refereed articles have been the price of admission to tenure for a good four decades. It is impossible to change overnight the standard of excellence in a profession as hierarchical and decentralized as ours. But we need to stabilize the losses in the publishing business now. Separately, without the sense of economic ruin so near, we can en-gage in serious conversations about what kind of profession we want. Coupling an economic exigency with a philosophical reassessment is the proverbial apples and oranges, and it will lead to bad business decisions and inequitable professional fixes." interesting point.
 	- she lays out ten recommendations for dealing with the economic issues of scholarly publishing:
@@ -543,9 +640,7 @@ the Council on Library and Information Resources and The National Endowment for 
 	- "we can't keep looking for individual fixes and then lament when another press loses its intellectual mission, lays off its literature editor, or curtails its monographs." need a global break...although Davidson is in this article recommending 10 little individual fixes...
 	- 
 
-
-
-1. Daly, Liza. "Digital Monograph T echnical Landscape" jiscpub. 2011. (http://jiscpub.blogs.edina.ac.uk/2011/12/02/final-post/)
+1. Daly, Liza. "Digital Monograph Technical Landscape" jiscpub. 2011. (http://jiscpub.blogs.edina.ac.uk/2011/12/02/final-post/)
 	- "The move towards digital publishing in an academic context has taken place largely at the level of distribution."
 	- "Self-publishing in academics To date, there are no significant examples of academic self-publishing outside of dubious “author mills.” There is evidence that some digital-first publishing houses have been soliciting theses and other publications from scholars [http://chronicle.com/forums/index.php?ChronicleUser=c80atumlqe5puc3 m15oft0e9m4&/topic,45997.0.html] or accepting computer-generated papers for publication under a supposedly peer-reviewed system [http://scholarlykitchen.sspnet.org/2009/06/10/nonsense-for-dollars/]. That otherwise accomplished scholars sometimes “fall” for low- or no-quality publication houses suggests that there is unmet demand in providing digital outlets for academic publications that don't neatly fall into the journal article/monograph/textbook categories."
 	- "7. Community resources for individual scholars wishing to epublish: 				There are numerous blogs and support groups for fiction or general non-fiction authors who would like to pursue self- or digital-first publishing. There is no comparable resource for academic or scholarly publishers interested who may want to:
@@ -556,7 +651,7 @@ the Council on Library and Information Resources and The National Endowment for 
 		5.Discover where to submit manuscripts for digital publication, or how to host their own ebooks/e-publications. 
 		6.Experiment with different ereading devices, smartphones and tablets in a physical lab. 
 		7.Pool resources to perform QA and testing across different hardware and software platforms."
-	- "10. Community resources for institutions with digital collections: The time and resources required to undertake research on how researchers use digital media is considerable. To date there is no organization collecting this research and providing best-practices guidelines to institutions...Librarians, particularly in research libraries, require up-to-date recommendations to make to students and faculty, and need to be informed about usage patterns to make informed judgments about digital collection purchases."
+	- "10. Community resources for institutions with digital collections: The time and resources required to undertake research on how researchers use digital media is considerable. To date there is no organization collecting this research and providing best-practices guidelines to institutions...Librarians, particularly in research libraries, require up-to- date recommendations to make to students and faculty, and need to be informed about usage patterns to make informed judgments about digital collection purchases."
 
 1.  Fitzpatrick, K. 2010. "Planned obsolescence: Publishing, technology, and the future of the academy." (http://mediacommons.futureofthebook.org/mcpress/plannedobsolescence/)
 	- Challanges, and proposes solutions to, five practice and institutions
@@ -593,7 +688,7 @@ the Council on Library and Information Resources and The National Endowment for 
 	- with the increase of non-academic texts "the more commercially successful these university presses become the more they might end up being university presses in name only."
 	- there wasn't much of value here....maybe a few cites?
 
-1. Pachoda, Phil. 2011. "Epistemic system break in scholarly monograph publishing" 
+1. Pochoda, Phil. 2011. "Epistemic system break in scholarly monograph publishing" 
 	- the "digital scholarly publishing system" will be "it will be relatively unbounded and stochastic, composed of units that are inherently amorphous and shape-shifting, and marked by contested authorization of diverse content. " Man is finally coming around to his own ignorance.
 	- "This digitally driven, epistemic system shift in scholarly publishing may well be an extended work in progress since the doomed analogue system is still fiscally dominant and the digital system has not yet coalesced around a multitude of digital affordances." the old system still has a lot of momentum.
 	- Darnton's book publication circuit. from "What is the History of Books”, (Darnton, 2009: 175-206)"
@@ -612,7 +707,7 @@ the Council on Library and Information Resources and The National Endowment for 
 	- "What is underway is not just a change in formats and publication processes, but a much more fundamental, ontological, change in what it means to be a participant in a digital as opposed to analogue system, or, in particular, in a digital scholarly publishing system as opposed to the legacy print system." global break results in a corrosion of integrity in the trajectory of the system, this is required to bring about change as swapping in new constituent parts does not destabilize the system sufficiently to bring about a change or a "difference that makes a difference"
 	- "roles in digital publishing are already becoming fluid, mutable, multiple. And that this shape shifting, this newfound disdain for fixed publishing roles, identities, or boundaries is inherent in the digital system." Entertainment 720 effect.
 	- "Universities may or may not decide to claim the scholarly publishing system for their own, but if they do, it will because they acknowledge that the publication of knowledge in the digital era will be ever-more closely tied to the production of knowledge, and that it not only makes sense, but may be necessary to support both fully." this is a key point and relates to the interconnection between digital humanities and scholarly publishing. 
-	- "The range of authorized publications – from formally reviewed projects of widely varying lengths, including vast collectively created and shared datasets and databases, to an increasingly dizzying array of less formal scholarly exchanges, will make the task of locating, sorting, curating, archiving, storing, preserving, and displaying such heterogeneous scholarly productions a task that only libraries within the university system seem experienced enough to assume." libraries = E720
+	- "The range of authorized publications – from formally reviewed projects of widely varying lengths, including vast collectively created and shared datasets and databases, to an increasingly dizzying array of less formal scholarly exchanges, will make the task of locating, sorting, curating, archiving, storing, preserving, and displaying such heterogeneous scholarly productions a task that only libraries within the university system seem experienced enough to assume." libraries = Entertainment-720
 	
 
 1.  Rumsey, Abby. 2011. EMERGING GENRES IN SCHOLARLY COMMUNICATION. Final Report of the Scholarly Communication Institute 8. (http://www.uvasci.org/wp-content/uploads/2010/09/SCI-8-report-final.pdf)
@@ -667,8 +762,19 @@ the Council on Library and Information Resources and The National Endowment for 
 
 
 1.  Steele, Colin. 2008. "Scholarly Monograph Publishing in the 21st Century: The Future More Than Ever Should Be an Open Book." Journal of Electronic Publishing 11(2). Retrieved (http://hdl.handle.net/2027/spo.3336451.0011.201).
+	- Arguement: we need open access
+	- open access relieves pressure on shrinking library budgets
+	- open access dissertations would make that scholarship more available
+	- "As Richard Fisher has noted, “putting the finished copy of [your book] in the hands of your Dean or Head of Department remains a tangible moment that no click can yet replicate, and one to which tenure and promotional committees in our worlds remain highly susceptible”. (Fisher 2007, 6)"
+	- "The February 2008 Harvard University Declaration on its commitment to making Harvard research available through its open access repository involves books as well as articles. Robert Darnton, Carl H. Pforzheimer university professor and director of the Harvard University Library, has noted that “most university presses are going through a very, very rough patch. It seems to me that the future for university presses lies in electronic communication”. (Darnton 2008)" SCHOLARLY COMMUNICATION Library Journal Academic Newswire. 2008. “The LJ Academic Newswire Newsmaker Interview, Part II: Harvard University Librarian Robert Darnton.” 28 February, http://www.libraryjournal.com/info/CA6536559.html [http://www.libraryjournal.com/info/CA6536559.html]
+	- "Richard Fisher has compared the academic monograph to the Hapsburg monarchy in that it seems to have been in decline for ever. (Fisher 2007, 5) The current situation in publishing and university institutional settings is certainly Balkanized in terms of the scholarly monograph and the distribution of its content. Scholarly communication frameworks need to be reassessed so that the presses become an integral part of the research framework of the university." THE PRESS IS ALREADY AN INTEGRAL PART OF THE RESEARCH FRAMEWORK, it is infrastructure and invisible, but all of the accredidation for promotion and tenure is being outsourced to the presses.
 
 1.  Thompson, J. W. 2002. "The death of the scholarly monograph in the humanities? Citation patterns in literary scholarship." Libri 52(3):121–136. (http://librijournal.org/pdf/2002-3pp121-136.pdf)
+	- Through a citation analysis of bitish and american literary studies shows that the status quo still persists (consistent with the MLA) and that epub is not really an alternative (at least in 2002). The landscape may have changed.
+	- "The purpose of this study is to provide some insight, through citation analysis, into current patterns of scholarly publishing in the field of nineteenth- century British and American literary studies. Emerging and shifting publication formats, currency in secondary mate- rials, and existing core groups of authors, works, journals, and publishers were evaluated."
+	- "The analysis showed that scholars in this field still generally fit the traditional profile of humanities scholars, using a large number of primary sources, drawing upon secondary sources from a broad age spectrum, and relying heavily on the monograph format for both primary and secondary ma- terials. Electronic publishing is not generally considered a viable alternative to print publishing. Articles form an important aspect of literary research, but are not substitutes for monographs."
+	- "Electronic media have been proposed as an- other alternative publishing format. Given the 0.07% citation rate for web sites as primary materials and the 0.08% citation rate for web sites as secondary materials in this study, the answer to the question of whether electronic publishing is becoming an acceptable alternative to print would seem a resounding “NO.”"
+	- "“Why are works produced by such projects not being cited?” Certainly ambivalence about elec- tronic publishing plays a role in the answer to this question. Anther part of the answer is that these electronic publishing projects are putting materials into one end of the scholarly communi- cation pipeline, and they simply have not yet emerged from the other. Regardless of publica- tion format, the highest percentage of works cited in the sources evaluated in this study were six to ten years old, and the median citation age was 13 years. Given the relatively recent initiation of electronic publishing projects, it would most likely take several more years for citations to them to be seen in any number."
 
 1.  Unsworth, J. M. 2003. "The crisis in scholarly publishing in the humanities." ARL Bimonthly Report 228. (http://www.arl.org/bm~doc/crisis.pdf)
 	- "I also speak to you as someone who got tenure in a top-ranked English department without authoring a book"
@@ -677,7 +783,7 @@ the Council on Library and Information Resources and The National Endowment for 
 	-  "I predict that the genre of scholarship that will replace the book will be the thematic research collection:
 		I defined thematic research collections as:  
 		1. Necessarily electronic (because of the cost of 2, 3, 8)  
-		2. Constituted of heterogeneous data types (in other words, multimedia)  
+		2. Constituted of heterogeneous data types (in other words, multimedia) 
 		3. Extensive but thematically coherent  
 		4. Structured but open-ended  
 		5. Designed to support research  
@@ -690,6 +796,10 @@ the Council on Library and Information Resources and The National Endowment for 
 	-  "Maybe we could enlarge the audience for humanities scholarship, not by dumbing it down, but by making it more readily available. Maybe if we did that, scholars would find an audience first, and a publisher second, instead of the other way around."
 
 1.  Waters, L. 2000. "A modest proposal for preventing the books of the members of the MLA from being a burden to their authors, publishers, or audiences." Publications of the Modern Language Association of America 315–317. (http://www.jstor.org/pss/463452)
+	- Waters is arguing that essays instead of monographs be the requirement for tenure. 
+	- "my suggestion that tenure be decoupled from book publication is meant to free university presses of the pressure to publish books that have little other justification than to build up a tenure case." the system is currently configured to promote the interests of junior scholars above anyone else.
+		- there is no market for these books. libraries won't buy them.
+	- "Thirty years ago, reputale publishers could expect college and university libraries to buy between 1,250 and 1,500 copies of any book that had successful gone through the rigourous scholarly review process. That number has dwindled now to about 275 copies world wide."
 
 1. Waters, L. 2001. "Rescue Tenure From the Tyranny of the Monograph." The Chronicle of Higher Education. (http://chronicle.com/article/Rescue-Tenure-From-the-Tyranny/9623)
 	- "The currency of books is becoming deflated in a way that is reminiscent of the decline of the German deutsche mark in the early 1920's, and the culprit is the same: hyperinflation." This hyperinflaction has, at least, two causes. one is the requirement of a book for tenure, but the other is the explosive growth of the commerical publishing industry. It would be interesting to see, where books for tenure always a requirement?
@@ -703,22 +813,28 @@ the Council on Library and Information Resources and The National Endowment for 
 	- "Pushing young scholars to publish books doesn't lead to more better books. It leads to more books -- that is, until the system collapses."
 	- "People should not be given tenure because they have written books; people should be given tenure so they have the leisure to develop big projects that make good books"
 	 
-
-1.  Waters, Lindsay, and Jana L. Argersinger. 2009. "Slow Writing; or, Getting Off the Book Standard: What Can Journal Editors Do?" Journal of Scholarly Publishing 40(2):129-142. Retrieved July 18, 2011. (http://muse.jhu.edu/journals/scp/summary/v040/40.2.waters.html)
-
-1.  Wicht, Lynn Silipigni Connaway and Heather L. 2007. "What Happened to the E-book Revolution? : The Gradual Integration of E-books into Academic Libraries." Journal of Electronic Publishing 10(3). Retrieved (http://hdl.handle.net/2027/spo.3336451.0010.302).
+1.  Connaway, Heather L and Wicht, Lynn Silipigni. 2007. "What Happened to the E-book Revolution? : The Gradual Integration of E-books into Academic Libraries." Journal of Electronic Publishing 10(3). Retrieved (http://hdl.handle.net/2027/spo.3336451.0010.302).
+	- essential arguement is that the structure and form of ebooks do not integrate with existing scholarly or administrative practices. it is a classic gap issue.
+		- "Lack of Standards and Hardware Development
+		- Incompatible Rights and Operability
+		- Unrealistic Price, Purchase, and Access Models
+		- Limited Discovery and Delivery Options"
+	- with 2011 being the "year of the ebook" perhaps things will start changing for academic use of ebooks...
 
 1.  Willinsky 2009 Willinsky, J. (2009). "Toward the Design of an Open Monograph Press." Journal of Electronic Publishing, 12(1). (http://dx.doi.org/10.3998/3336451.0012.103)
+	- In response to the crisis confronting monograph publishing, Willinsky proposes the Open Monograph Press "an alternative approach to monograph publishing based on a modular design for an online system that would foster, manage, and publish monographs in digital and print forms using open source software developments, drawn from journal publishing, and social networking technologies that might contribute to not only to the sustainability of monograph publishing but to the quality of the resulting books."
+	- Like other proposals, this vision is a software & technical solution to a social problem. It provides technical infrastructure, what needs to be done is an evaluation of the technology as it is introduced to presses. Think orlikowsky and lotus notes.
+	- Information at: http://pkp.sfu.ca/omp
 
-1. http://theincidentaleconomist.com/wordpress/direct-to-kindle-publishing/
+1. Tailor, don. http://theincidentaleconomist.com/wordpress/direct-to-kindle-publishing/
 	- Don Tailor, a professor who blogs at theincidentaleconomist.com, recently wrote an "academic monograph" that he self-published using amazon's Kindle system in lieu of publishing with and academic press. His reasons for doing so related to the fact that his book, _Balancing the Budget is a Progressive Priority_, was extremely relevant to the debates and discussions about the debt ceiling that dominated political discourse in the summer of 2011. Had he gone with an academic publisher, the book would have come out in the summer of 2012, assuming everything went smoothly, nearly a year after the relevant policy debates that he was hoping the book would influence. So what did he do? He self-published the book on Amazon with some intentions to work with an academic press to publish a revised edition of the book (with some analysis of the outcome of the current policy debates).
 	- This is a very interesting, and I suspect soon-to-be-frequent, occurrence for academics who what to publishtime-sensitive monographs. The current system is simply _too slow_ for certain kinds of works. This is not necessarily universally true, not every academic text is time sensitive in the way that Tailor's book was time sensitive, but I believe his argument and justification for the decision was sound. There is one interesting point he makes however, he said:
-	 `I almost certainly would not have done this were I still an Assistant Professor who was still to be reviewed for tenure. However, I got tenure last year, so decided I would rather try and have my ideas have an impact and was therefore willing to risk getting less “academic credit.” Further, I am a professor in a School of Public Policy, and we claim to be interested in “policy engagement” so I decided to move ahead.`
-Here is the power of tenure perpetuating itself within the sphere of scholars. Tenure decisions loom like a black cloud over any professor, regardless of if they have tenure or not. There are two interesting questions that fall out of this, first, how often do academics publish using amazon and second, for those who do, how many already have tenure?
+	 "I almost certainly would not have done this were I still an Assistant Professor who was still to be reviewed for tenure. However, I got tenure last year, so decided I would rather try and have my ideas have an impact and was therefore willing to risk getting less “academic credit.” Further, I am a professor in a School of Public Policy, and we claim to be interested in “policy engagement” so I decided to move ahead."
+	Here is the power of tenure perpetuating itself within the sphere of scholars. Tenure decisions loom like a black cloud over any professor, regardless of if they have tenure or not. There are two interesting questions that fall out of this, first, how often do academics publish using amazon and second, for those who do, how many already have tenure?
 	- This blog post is also interesting for another, much more banal reason, most of the post is dedicated to his account of the logistics of publishing using Amazon Direct Publishing. How much time did it take, how did formatting work, what was the submission process like, how did he reach his audience and promote his book, etc. These details are extremely interesting from a work-practice perspective because they make visible the ordinary work of publishing.  A very crude and brief review of his blog shows that his post about self-publishing logistics is one of the most popular (measured by  number of comments, I can't speculate about number of page views). Blog posts about "how to do X", especially if X is something new and not well understood are one surefire way to get readers. I found the post because it was linked to by one of the people I follow in my twitter feed (not Don Tailor). I suspect this post has been widely circulated, at least in the scholarly publishing circles in which I run. 
 
 1. Report of the MLA Task Force on Evaluating Scholarship for Tenure and Promotion
-	- "response to widespread anxiety in the profession about ever-­rising demands for research productivity and shrinking humanities lists by academic publish-­ ers, worries that forms of scholarship other than single-­authored books were not being properly recognized, and fears that a generation of junior scholars would have a significantly reduced chance of being tenured"
+	- "response to widespread anxiety in the profession about ever-­rising demands for research productivity and shrinking humanities lists by academic publishers, worries that forms of scholarship other than single-­authored books were not being properly recognized, and fears that a generation of junior scholars would have a significantly reduced chance of being tenured."
 	- "the task force reviewed numerous studies, reports, and documents; surveyed department chairs; interviewed deans and other senior administrators; solicited written comments from association mem-­ bers; and consulted with other committees and organizations. The most significant data-­gathering instrument was a spring 2005 online survey of 1,339 departments in 734 institutions across the United States covering a range of doctorate, master's, and baccalaureate institutions. The response rate to the survey (51% of all departments and 67% of all institutions) provided a solid basis for the task force's analysis and recommendations." I want to propose a more focused study that examines local contexts and the situated accountabilities that shape the evaluation of scholarship.
 	- "In the aggregate, then, PhDs in the fields represented by the MLA appear to have about a 35% chance of getting tenure."
 	- "Over 62% of all departments report that publication has increased in importance in tenure decisions over the last ten years. The percentage of departments ranking scholarship of primary importance (over teaching) has more than doubled since the last comparable survey, conducted by Thomas Wilcox in 1968: from 35.4% to 75.7% (Comprehensive Survey 36)."
@@ -815,24 +931,31 @@ Here is the power of tenure perpetuating itself within the sphere of scholars. T
 	- "The AAUP's reduction of peer reviewing of materials available on the Internet to “social networking” and “popularity” contests that can too easily “be gamed” elicited a strong response from the digital humanities community: the report was mounted in MediaCommons Press, and eighty-two comments on the first page of the report were posted (http://mediacommons. futureofthebook.org)." [CHECK THIS OUT]
 	- "Everyone values the “gauntlet of selectivity” through which manuscripts designed for print must run, which means yielding an affirmative answer to the question, “Is this book sufficiently valuable to scholarship to invest tens of thousands of dollars of effort into, as well as risking the prestige of the Press, to publish it?” (Sustaining). But the AAUP report touting such selectivity lacks precisely the faith underlying the essays presented here: a belief that the most valuable features of traditional peer-review systems can be transferred to peer review of digital resources and that new facets of peer review typical of the digital, such as awards by granting agencies, can be as rigorous." Here is the practical challenge faced by university presses. we can argue and hypothesize about the various pressures, but at the end of the day we really need to look into how these presses overcome these everyday decisions. Why? How does understanding the ways they make these decisions inform our broader understanding? It doesn't actually. But that isn't a fault. It rather emphasizes what is really important for researchers to pay attention to...what are the practical methods the presses use to make these everyday decisions and from the knowledge of these methods we can better design systems and structures to help make these decisions easier, or nudge them towards changem,m,
 
-k
-
- 
 
 
+1. William J. Turkel and Alan MacEachern, The Programming Historian, 1st ed. NiCHE: Network in Canadian History & Environment (2007-11).
 
+1. Wa Wulf, “The collaboratory opportunity,” Science 261, no. 5123 (1993): 854 -855.
 
+1. Stephen Ramsay, Reading Machines: Toward and Algorithmic Criticism, 1st ed. (University of Illinois Press, 2011).
 
+2. Economics and Usage of Digital Libraries: Byting the Bullet, 2008, http://name.umdl.umich.edu/5621225.0001.001.
 
+3. Claire Cain Miller and Julie Bosman, “Amazon’s E-Book Sales Pass Print Books,” The New York Times, May 19, 2011, sec. Technology, http://www.nytimes.com/2011/05/20/technology/20amazon.html.
 
-k
+4. Alexander Thayer et al., “The imposition and superimposition of digital reading technology” (ACM Press, 2011), 2917, http://dl.acm.org.proxy.lib.umich.edu/citation.cfm?id=1979375.
 
+5. D.J. De Solla Price and D. Beaver, “Collaboration in an invisible college.,” American psychologist 21, no. 11 (1966): 1011.
 
+6. T.S. Kuhn, The structure of scientific revolutions (University of Chicago press, 1996).
 
+7. E. Folsom, “Database as genre: The epic transformation of archives,” PMLA 122, no. 5 (2007): 1571–1579.
 
+8. J. Freedman et al., “Responses to Ed Folsom’s‘ Database as Genre: The Epic Transformation of Archives’,” PMLA 122, no. 5 (2007): 1580.
 
+9. Ann M. Blair, Too Much to Know: Managing Scholarly Information before the Modern Age (Yale University Press, 2011).
 
-
+1. Elizabeth L. Eisenstein, The Printing Press as an Agent of Change (Cambridge University Press, 1980).
 
 
 
@@ -957,8 +1080,8 @@ Seeing in Depth - Charles Goodwin
 1. Park, Ji-Hong & Shim, JiYong. 2011. "Exploring How Library Publishing Services Facilitate Scholarly Communication." Journal of Scholarly Publishing. 43. 76-89. 2011-10-1. http://utpjournals.metapress.com.proxy.lib.umich.edu/content/23361h5514m20608/?p=434cb0141d2c4dc38a633533ec767854&pi=5 --Not available at umich. check http://muse.jhu.edu/journals/scp/
 
 
-
-
+1. Harley 
+	- "This report includes (1) an overview of the state of peer review in the Academy at large, (2) a set of recommendations for moving forward, (3) a proposed research agenda to examine in depth some of the effects of academic status-seeking on the entire academic enterprise, (4) proceedings from a workshop on these themes, and (5) four substantial and broadly conceived background papers on the workshop topics, with associated literature reviews."
 
 
 
