@@ -957,6 +957,22 @@ the Council on Library and Information Resources and The National Endowment for 
 
 1. Elizabeth L. Eisenstein, The Printing Press as an Agent of Change (Cambridge University Press, 1980).
 
+1. G. Crane, “What do you do with a million books?,” D-Lib Magazine 12, no. 3 (2006): 1–0.
+2. S. Ramsay, “The Hermeneutics of Screwing Around; or What You Do with a Million Books,” Unpublished presentation delivered at Brown University, Providence, RI 17 (2010).
+
+1. P. Fyfe, “How to Not Read a Victorian Novel,” Journal of Victorian Culture 16, no. 1 (2011): 84–88.
+
+1. Barry Barnes, David Bloor, and John Henry, Scientific Knowledge: A Sociological Analysis, 1st ed. (University Of Chicago Press, 1996).
+
+1. David Bloor, Knowledge and Social Imagery, 1st ed. (University Of Chicago Press, 1991).
+
+1. Michael Lynch, Scientific Practice and Ordinary Action: Ethnomethodology and Social Studies of Science (Cambridge University Press, 1997).
+
+1. Steven Shapin, A Social History of Truth: Civility and Science in Seventeenth-Century England, 1st ed. (University Of Chicago Press, 1995).
+
+1. Harry Collins and Robert Evans, “The Third Wave of Science Studies,” Social Studies of Science 32 (2002): 235-96.
+
+1. 
 
 
 
