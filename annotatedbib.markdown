@@ -2,6 +2,8 @@
 
 ## Digital Humanities 
 
+Sup.
+
 ### Humanities Scholarship in the Digital Age 
 
 1. Unsworth et al. 2006 Unsworth, J., Courant, P., Fraser, S., Goodchild, M., Hedstrom, M., Henry, C., Kaufman, P. B., McGann, J., Rosenzweig, R. & Zuckerman, B. (2006). Our Cultural Commonwealth: The Report of the American Council of Learned Societies Commission on Cyberinfrastructure for Humanities and Social Sciences. American Council of Learned Societies. Retrieved from http://www.acls.org/cyberinfrastructure/cyber.htm on 17 July 2007.
