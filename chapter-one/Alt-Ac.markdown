@@ -1,6 +1,6 @@
-# Alternate Academics <a href="/mcburton/writing/blob/master/chapter-one/README.markdown#alt-ac-intro" name="alt-ac-intro" >.</a>
+# Alternate Academics <a href="README.markdown#alt-ac-intro" name="alt-ac-intro" >.</a>
 
-<a href="/mcburton/writing/blob/master/chapter-one/README.markdown#alt-ac-intro" name="alt-ac-intro" >
+<a href="README.markdown#alt-ac-intro" name="alt-ac-intro" >
 One of the most significant implications of the big-tent, activist digital humanities is the tearing down of the wall between academia and world of administrators, librarians, researchers, and others who orbit around the ivory tower. Given the its ever expanding activist agenda, it obvious that the "alternative academic" or "alt-ac" movement would find a home in the digital humanities. For the very question of "what is the digital humanities" naturally leads us to test the boundaries of the disciplines.
 </a>
 
