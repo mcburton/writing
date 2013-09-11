@@ -15,11 +15,10 @@ This github repository will be used for sharing, collaboration and tracking my p
 *  [toc.markdown](toc.markdown) - This is a table of contents and general outline for my prelim.
 *  [introduction.markdown](introduction.markdown) - This is the current draft of the introduction.
 *  [annotatedbib.markdown](annotatedbib.markdown) - This is an annotated bibliography. I have been dumping my notes from the readings underneath each citation. 
-* [unannotatedbib.markdown]
-(unannotatedbib.markdown)- This is an un-annotated bibliography.
+* [unannotatedbib.markdown](unannotatedbib.markdown)- This is an un-annotated bibliography.
 *  [squaring-research-design.markdown](squaring-research-design.markdown) - This is some unstructured free writing about the project and some thinking about the research design.
-*  [chapter-one.markdown](chapter-one) - This is, obviously, the first chapter of the prelim.
-*  [misc-text.markdown](misc-text.asciidoc) - This is a dumping ground for stuff that does not yet have a home.
+*  [chapter-one](chapter-one) - This is, obviously, the first chapter of the prelim.
+*  [misc-text.asciidoc](misc-text.asciidoc) - This is a dumping ground for stuff that does not yet have a home.
 *  [on-design.markdown](on-design.markdown) - some notes I brewed up about design and adaptation.
 
 ### What am I writing about?
