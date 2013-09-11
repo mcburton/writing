@@ -18,7 +18,7 @@ This github repository will be used for sharing, collaboration and tracking my p
 * [unannotatedbib.markdown]
 (unannotatedbib.markdown)- This is an un-annotated bibliography.
 *  [squaring-research-design.markdown](squaring-research-design.markdown) - This is some unstructured free writing about the project and some thinking about the research design.
-*  [chapter-one-digital-humanties.markdown](chapter-one-digital-humanties.markdown) - This is, obviously, the first chapter of the prelim.
+*  [chapter-one.markdown](chapter-one) - This is, obviously, the first chapter of the prelim.
 *  [misc-text.markdown](misc-text.markdown) - This is a dumping ground for stuff that does not yet have a home.
 *  [on-design.markdown](on-design.markdown) - some notes I brewed up about design and adaptation.
 
@@ -41,7 +41,7 @@ Finally, I review the recent discussion, in both peer-review and gray literature
 A diagrammatic representation:
 
 
-<img src="boundaries.png" width="436" height="459"/>
+<img src="boundaries.png" width="50%"/>
 
 
 The final section of this project is a research proposal that attempts to fill the gaps identified in this literature review. 
