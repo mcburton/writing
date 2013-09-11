@@ -12,15 +12,15 @@ Please feel free to fork, modify and make pull requests to this work. If you hav
 This github repository will be used for sharing, collaboration and tracking my progress. 
 
 ### Repository Contents
-*  [toc.markdown](http://github.com/mcburton/writing/blob/master/toc.markdown) - This is a table of contents and general outline for my prelim.
-*  [introduction.markdown](http://github.com/mcburton/writing/blob/master/introduction.markdown) - This is the current draft of the introduction.
-*  [annotatedbib.markdown](http://github.com/mcburton/writing/blob/master/annotatedbib.markdown) - This is an annotated bibliography. I have been dumping my notes from the readings underneath each citation. 
+*  [toc.markdown](toc.markdown) - This is a table of contents and general outline for my prelim.
+*  [introduction.markdown](introduction.markdown) - This is the current draft of the introduction.
+*  [annotatedbib.markdown](annotatedbib.markdown) - This is an annotated bibliography. I have been dumping my notes from the readings underneath each citation. 
 * [unannotatedbib.markdown]
-(http://github.com/mcburton/writing/blob/master/unannotatedbib.markdown)- This is an un-annotated bibliography.
-*  [squaring-research-design.markdown](http://github.com/mcburton/writing/blob/master/squaring-research-design.markdown) - This is some unstructured free writing about the project and some thinking about the research design.
-*  [chapter-one-digital-humanties.markdown](http://github.com/mcburton/writing/blob/master/chapter-one-digital-humanties.markdown) - This is, obviously, the first chapter of the prelim.
-*  [misc-text.markdown](http://github.com/mcburton/writing/blob/master/misc-text.markdown) - This is a dumping ground for stuff that does not yet have a home.
-*  [on-design.markdown](http://github.com/mcburton/writing/blob/master/on-design.markdown) - some notes I brewed up about design and adaptation.
+(unannotatedbib.markdown)- This is an un-annotated bibliography.
+*  [squaring-research-design.markdown](squaring-research-design.markdown) - This is some unstructured free writing about the project and some thinking about the research design.
+*  [chapter-one-digital-humanties.markdown](chapter-one-digital-humanties.markdown) - This is, obviously, the first chapter of the prelim.
+*  [misc-text.markdown](misc-text.markdown) - This is a dumping ground for stuff that does not yet have a home.
+*  [on-design.markdown](on-design.markdown) - some notes I brewed up about design and adaptation.
 
 ### What am I writing about?
 
@@ -41,7 +41,7 @@ Finally, I review the recent discussion, in both peer-review and gray literature
 A diagrammatic representation:
 
 
-<img src="/mcburton/writing/raw/master/boundaries.png" width="436" height="459"/>
+<img src="boundaries.png" width="436" height="459"/>
 
 
 The final section of this project is a research proposal that attempts to fill the gaps identified in this literature review. 
