@@ -1,6 +1,6 @@
-# Computing Humanists: Humanities Computing<a href="/mcburton/writing/blob/master/chapter-one/README.markdown#hc-intro" name="hc-intro" >.</a>
+# Computing Humanists: Humanities Computing<a href="README.markdown#hc-intro" name="hc-intro" >.</a>
 
-<a href="/mcburton/writing/blob/master/chapter-one/README.markdown#hc-intro" name="hc-intro" >
+<a href="README.markdown#hc-intro" name="hc-intro" >
 To understand the digital humanities it is important to understand humanities computing. The current momentum of the digital humanities is rooted in the slow, methodological plodding of humanities computing for the past 60 years. Without humanities computing, we would not have digital humanities. The path cleared by computing humanists created the opportunity space the digital humanities now occupies.</a>
 
 In an MLA report, Cathy Davidson dubbed the first revolution in computational technology in the humanities as Humanities 1.0. The features she ascribes to humanities 1.0 are what many consider to be the features of humanities computing. Drawing upon Tim O'Reilly's Web 1.0 / 2.0 distinction, Davidson argues humanities computing, which like web 1.0, was the first shift instigated by technology in the humanities. This shift, Davidson claims–and I am inclined to agree–focused on new research practice in the humanities. 
@@ -14,7 +14,7 @@ There is no question that humanities computing has been revolutionary, although 
 
 The discursive shift from humanities computing to digital humanities has been a significant moment in the evolution of the field (Svensson 2009, Unsworth 2004). In less than a decade, the digital humanities, and decidedly not humanities computing, has risen to prominence as the game-changing movement within the humanities. Tensions and contests emerge when attempts are made to define the digital humanities as simply a re-branded humanities computing. This tension arises from digital humanities coming to represent a much larger domain of practice than research, tools and methods. I will address full scope of the "big tent" of the digital humanities later, but for now I suggest it is useful to think of digital humanities as an amorphous super-set of a tightly defined humanities computing. There is little contention that work on tools and methods in humanities research is the domain of humanities computing. 
 
-<img src="/mcburton/writing/raw/master/chapter-one/HCtoDHtoH.png" width="618" height="607"/>
+<img src="HCtoDHtoH.png" width="618" height="607"/>
 
 Humanities computing, both the term and the practice, have been with the humanities for a very long time. Yet, humanities computing scholarship has, by external measures, had dramatic impact upon the humanities community [(Joula 2008)](http://llc.oxfordjournals.org/content/23/1/73.abstract). Joula attributes this to both a lack of incentive by traditional humanists, but also an inability to understand the work. For scholars versed in the methods of the traditional humanities, say for example close reading, the notion of statistical analysis of texts is not only foreign but glosses aspects of the text they deem most important.
 
