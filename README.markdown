@@ -19,7 +19,7 @@ This github repository will be used for sharing, collaboration and tracking my p
 (unannotatedbib.markdown)- This is an un-annotated bibliography.
 *  [squaring-research-design.markdown](squaring-research-design.markdown) - This is some unstructured free writing about the project and some thinking about the research design.
 *  [chapter-one.markdown](chapter-one) - This is, obviously, the first chapter of the prelim.
-*  [misc-text.markdown](misc-text.markdown) - This is a dumping ground for stuff that does not yet have a home.
+*  [misc-text.markdown](misc-text.asciidoc) - This is a dumping ground for stuff that does not yet have a home.
 *  [on-design.markdown](on-design.markdown) - some notes I brewed up about design and adaptation.
 
 ### What am I writing about?
